@@ -1,0 +1,1060 @@
+Column,reference,text,name,normalized,cluster_key_collision,cluster_levenshtein,cluster_levenshtein_radius2,cluster_levenshtein_block5
+0,060:001, [a-na] m.LUGAL d.UTUx(ERIM) EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+1,060:002, um-ma m.ÌR-d.a$-ra-tum, m.ÌR-d.a$-ra-tum, m.ÌR-d.aš-ra-tum, m.ÌR-d.aš-ra-tum, m.ÌR-d.aš-ra-tum, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+2,060:010, aq-bi a$-ta-ni a-na m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te
+3,060:020, [m.pa]-ha-na-{te} L[Ú.MAßKÍM-ia], [m.pa]-ha-na-{te}, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te
+4,060:032, m.pa-ha-na-te LÚ.MAßKÍM-ia, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te
+5,061:001, [a-na m.LU]GAL d.UTU EN-ia, m.LU]GAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+6,061:002, [um-]ma m.ÌR-a-$i-ir-te ÌR[-ka4], m.ÌR-a-$i-ir-te, m.ÌR-a-ši-ir-te, m.ÌR-a-ši-ir-te, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+7,062:001, [a-na m.]pa-ha-n[a]-te [b]e-lí-{ia}[, m.]pa-ha-n[a]-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te, m.pa-ha-na-te
+8,062:002, [um-ma] m.Ì[R-a-$i-ir-te Ì[R-ka-ma], m.Ì[R-a-$i-ir-te, m.ÌR-a-ši-ir-te, m.ÌR-a-ši-ir-te, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+9,062:026, m.$a-bi-DINGIR m.BI-$i-Ta-nu m.ma-a-ia, m.$a-bi-DINGIR, m.ša-bi-DINGIR, m.ša-bi-DINGIR, m.ša-bi-DINGIR, m.ša-bi-DINGIR, m.ša-bi-DINGIR
+10,062:026, m.$a-bi-DINGIR m.BI-$i-Ta-nu m.ma-a-ia, m.BI-$i-Ta-nu, m.BI-ši-Ta-nu, m.BI-ši-Ta-nu, m.BI-ši-Ta-nu, m.BI-ši-Ta-nu, m.BI-ši-Ta-nu
+11,062:026, m.$a-bi-DINGIR m.BI-$i-Ta-nu m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia
+12,062:027, m.ar-za-wa a-nu-um-ma 4 LÚ.MEß, m.ar-za-wa, m.ar-za-wa, m.ar-za-wa, m.ar-za-wa, m.ar-za-wa, m.ar-za-wa
+13,062:042, [ù m.i]a-ma-a-ia i-nu-ma i-$ap-pár, m.i]a-ma-a-ia, m.ia-ma-a-ia, m.ia-ma-a-ia, m.ia-ma-a-ia, m.ia-ma-a-ia, m.ia-ma-a-ia
+14,062:045, [a?-na? a?-wa?]-te.MEß-$u m.DUMU-a-ma-a-ia, m.DUMU-a-ma-a-ia, m.DUMU-a-ma-a-ia, m.DUMU-a-ma-a-ia, m.DUMU-a-ma-a-ia, m.DUMU-a-ma-a-ia, m.DUMU-a-ma-a-ia
+15,063:001, [a-n]a m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+16,063:003, um-ma m.ab-di-a$-ta-ti, m.ab-di-a$-ta-ti, m.ab-di-aš-ta-ti, m.ab-di-aš-ta-ti, m.ab-di-aš-ta-ti, m.ab-di-aš-ta-ti, m.ab-di-aš-ta-ti
+17,063:004, ÌR m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+18,063:005, a-na I GÌR.HÁ m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+19,063:006, 7 ù 7 ma-aq-ta-ti a-na GÌR.MEß m.LUG[AL] E[N]-[ia a]m-qú-ut, m.LUG[AL], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+20,063:008, [a-n]a m.a-$i ù i$-te-mu, m.a-$i, m.a-ši, m.a-ši, m.a-ši, m.a-ši, m.a-ši
+21,063:009, [a-]wa-ti m.LUGAL-ri E[N-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+22,063:011, [li-]i$-te-mi m.L[UGAL ]E[N]-[i]a, m.L[UGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+23,063:016, m.L[U]GA[L-r]i, m.L[U]GA[L-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+24,064:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+25,064:003, um-ma m.ÌR-d.INNIN ÌR LUGAL-ri, m.ÌR-d.INNIN, m.ÌR-d.INNIN, m.ÌR-d.INNIN, m.ÌR-d.INNIN, m.ÌR-d.INNIN, m.ÌR-d.INNIN
+26,064:004, a-na m. GÌR.MEß LUGAL-ri EN-ia, m., m., m., m., m., m.
+27,064:016, a-na m.ia-$i, m.ia-$i, m.ia-ši, m.ia-ši, m.ia-ši, m.ia-ši, m.ia-ši
+28,065:003, u[m-ma] m.[a]d[-r]a-INNIN Ì[R-]ka, m.[a]d[-r]a-INNIN, m.ad-ra-INNIN, m.ad-ra-INNIN, m.ad-ra-INNIN, m.ad-ra-INNIN, m.ad-ra-INNIN
+29,065:004, a-na m. GÌR.MEß EN-ia 7 ù 7 mi-la, m., m., m., m., m., m.
+30,065:006, a-na m. GÌR.MEß.LUGAL-ri EN-ia, m., m., m., m., m., m.
+31,066:001, [a-na m.LUGAL-r]i E[n-ia], m.LUGAL-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+32,066:004, _ _ m.[h]a-ya _, m.[h]a-ya, m.ha-ya, m.ha-ya, m.ha-ya, m.ha-ya, m.ha-ya
+33,066:006, [m.L]U[GAL-]r[i EN-i]a p[a]-n[i-$u a-na], [m.L]U[GAL-]r[i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+34,068:001, [m.ri-]ib-ha-ad-d[a], [m.ri-]ib-ha-ad-d[a], m.ri-ib-ha-ad-da, m.ri-ib-ha-ad-da, m.ri-ib-ha-ad-da, m.ri-ib-ha-ad-da, m.ri-ib-ha-ad-da
+35,068:022, a-nu-um-ma m.pa-ha-am[-n]a-ta, m.pa-ha-am[-n]a-ta, m.pa-ha-am-na-ta, m.pa-ha-am-na-ta, m.pa-ha-am-na-ta, m.pa-ha-am-na-ta, m.pa-ha-am-na-ta
+36,069:001, [a-na m.[, m.[, m., m., m., m., m.
+37,069:003, [um-ma m.ri-ib-d.IßKUR ], m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+38,069:025, i-na ka-<$a>-ad m.ap-pí-ha a-na mah-ri-ia, m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha
+39,069:029, m.ap-pí-ha LÚ-ka ki g[áb-bi], m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha, m.ap-pí-ha
+40,070:001, [m.ri-ib-d.IßKUR iq-bi], [m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+41,071:001, [a-na m.]ha-ia  pa-sí-t[e], m.]ha-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia
+42,071:002, [um-]ma m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+43,071:017, m.ÌR-a-$i-ir-ta ÌR, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+44,072:003, [$a-a m.ÌR-a-$i-ir-t]a UGU-ia, m.ÌR-a-$i-ir-t]a, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+45,073:001, a-na m.a-ma-an-ap-pa a-bi-ia, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+46,073:002, um-ma m.ri-ib-ad-da DUMU-ka-ma, m.ri-ib-ad-da, m.ri-ib-ad-da, m.ri-ib-ad-da, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+47,073:018, [ú]-ul i-ra-a-mu a-na m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+48,073:025, i-pé-e$ an-nu-tu4 a-na m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+49,074:001, m.ri-ib-ad-da iq-bi a-na EN-l[i-$u], m.ri-ib-ad-da, m.ri-ib-ad-da, m.ri-ib-ad-da, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+50,074:015, DINGIR.MEß KUR-k[a T]I ga-am-ru DUMU.MEß-nu f.DUMU.MÍ.MEß<-nu>, f.DUMU.MÍ.MEß<-nu>, f.DUMU.MÍ.MEŠ<-nu>, f.DUMU.MÍ.MEŠ-nu, f.DUMU.MÍ.MEŠ-nu, f.DUMU.MÍ.MEŠ-nu, f.DUMU.MÍ.MEŠ-nu
+51,074:024, m.ÌR-a-$i-ir(!)-ta URU $i-ga-ta a-na $a-a-$u, m.ÌR-a-$i-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir
+52,074:030, i$-tap-pa-ar m.ÌR-a-$i-ir-ta a-na ÉRIN.MEß, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+53,074:038, ù f.DUMU.MÍ.MEß a<-na> (or: a-<-di>) da-ri-ti UD.KÁM.MEß, f.DUMU.MÍ.MEß, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ
+54,074:051, a-nu-ma m.a-ma-an-ap-pa it-ti-ka $a-al-$u, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+55,075:001, [m.r]i-i[b-]a[d-d]a [iq-bi], [m.r]i-i[b-]a[d-d]a, m.ri-ib-ad-da, m.ri-ib-ad-da, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+56,075:025, [KUR.KUR] LUGAL-ri EN-ia m.a-d[u-na], m.a-d[u-na], m.a-du-na, m.a-du-na, m.a-du-na, m.a-du-na, m.a-du-na
+57,075:029, m.ÌR-a-$i-ir-ta ù ti-ìl-q[ú-n]a, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+58,075:030, m.mi-ya LÚ UR[U] a-ra-a$-ni, m.mi-ya, m.mi-ya, m.mi-ya, m.mi-ya, m.mi-ya, m.mi-ya
+59,075:041, m.ÌR-a-$i-ir-t[a ÌR], m.ÌR-a-$i-ir-t[a, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+60,076:001, [m.]ri-ib-d.IßKUR iq-bi a-n[a] <EN-$u>, [m.]ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+61,076:008, KALAG.GA nu-kúr-tu4 $a-a m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+62,076:012, m.Ì[R]-a-$i[-ir-]ta UR.GI7 ù yu-ba-ú, m.Ì[R]-a-$i[-ir-]ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+63,077:001, [a]-na m.[a-m]a[-an-ap-pa mon père], m.[a-m]a[-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+64,077:002, um-ma m.ri-i[b-d.IßKUR a-na GÌR.MEß-ka], m.ri-i[b-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+65,078:001, [m.ri-ib]-d.IßKUR iq-b[i], [m.ri-ib]-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+66,078:009, [m.ÌR]-d.a-$i-ir-ta UGU-i[a ù], [m.ÌR]-d.a-$i-ir-ta, m.ÌR-d.a-ši-ir-ta, m.ÌR-d.a-ši-ir-ta, m.ÌR-d.a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+67,079:001, [m.ri-i]b-d.IßKUR iq-bi, [m.ri-i]b-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+68,079:009, m.a-ma-an-ap-pa a-na mu-hi-ia, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+69,079:012, KA \ pí-i m.ÌR-a-$i-ir[-ta], m.ÌR-a-$i-ir[-ta], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+70,079:022, [a-na] pí-i m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+71,079:044, [a-na m.ÌR]-a-$i-ir-ta, m.ÌR]-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+72,080:019, [m.ÌR-a-$i-i]r-ta ù [_ _ _ _ _ _], [m.ÌR-a-$i-i]r-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+73,081:001, [m.ri-ib-d.IßKUR iq-b]i a-na EN-[$u], [m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+74,081:018, [m.]ÌR-a-$i-ir-ta i-na pí-$u a-pí-ì$, [m.]ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+75,081:039, [DUMU.MEß-$u-nu f.]D[UMU].MÍ.MEß GI]ß.MEß É.MEß-$u-nu, f.]D[UMU].MÍ.MEß, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ
+76,081:047, [m.Ì]R-a-$i-ir-ta ù ìl-te9-qé 2 U[RU], [m.Ì]R-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+77,082:001, a-na m.[a-ma]-an-ap-pa a-bi-ia, m.[a-ma]-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+78,082:003, um-ma m.ri-ib-d.IßKUR DUMU-ka-ma, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+79,082:008, m.ÌR-a-$i-ir-ta ka-li, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+80,082:023, ú-ul yi-ì$-ma m.ÌR-a-$i-ir-[ta], m.ÌR-a-$i-ir-[ta], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+81,083:001, [m.r]i-ib-[d.IßKUR i]q-bi a[-na], [m.r]i-ib-[d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+82,083:025, ki-ta it-ti m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+83,083:026, ki-ma m.ia-pa-d.IßKUR ù m.zi-im-re-[d]a, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+84,083:026, ki-ma m.ia-pa-d.IßKUR ù m.zi-im-re-[d]a, m.zi-im-re-[d]a, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+85,083:031, m.ia-an-ha-mi ù ia-dì-na, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+86,083:039, É m.ia-an-h[a-]mi $a-ni-tam qí-ba-mi, m.ia-an-h[a-]mi, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+87,083:040, a-na m.ia-<an>-ha-mi al-lu-mi m.ri-ib-d.IßKUR, m.ia-<an>-ha-mi, m.ia-<an>-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+88,083:040, a-na m.ia-<an>-ha-mi al-lu-mi m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+89,083:053, f.um-ma-ah-nu ù m.i$-ku-ru, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu
+90,083:053, f.um-ma-ah-nu ù m.i$-ku-ru, m.i$-ku-ru, m.iš-ku-ru, m.iš-ku-ru, m.iš-ku-ru, m.iš-ku-ru, m.iš-ku-ru
+91,084:008, m.ÌR-d.a-$i-ir-ti UR.GI7 i-nu-ma, m.ÌR-d.a-$i-ir-ti, m.ÌR-d.a-ši-ir-ti, m.ÌR-d.a-ši-ir-ti, m.ÌR-d.a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+92,084:039, [a]-mur m.ÌR.NIN.URTA LÚ $a u$-$ir4-ti, m.ÌR.NIN.URTA, m.ÌR.NIN.URTA, m.ÌR.NIN.URTA, m.ÌR.NIN.URTA, m.ÌR.NIN.URTA, m.ÌR.NIN.URTA
+93,084:040, [i]t-ti m.bu-he-wa LÚ lil-[ma-ad], m.bu-he-wa, m.bu-he-wa, m.bu-he-wa, m.bu-he-wa, m.bu-he-wa, m.bu-he-wa
+94,084:042, [$á-ni-tam] a-mur f.u[m]-ma-a[h-nu] GEME d.[NIN $a], f.u[m]-ma-a[h-nu], f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu
+95,084:043,   [URU gub-la] LÚ mu-ut-$[i] m.mil-kur-r[u], m.mil-kur-r[u], m.mil-kur-ru, m.mil-kur-ru, m.mil-kur-ru, m.mil-kur-ru, m.mil-kur-ru
+96,085:002, [um-ma m.ri-ib]-d.IßKUR ÌR-ka-ma a-na G[ÌR.MEß], m.ri-ib]-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+97,085:013, DUMU.MEß-$u-nu f.DUMU.MÍ-$u-nu GIß.ME[ß] É-$u-nu, f.DUMU.MÍ-$u-nu, f.DUMU.MÍ-šu-nu, f.DUMU.MÍ-šu-nu, f.DUMU.MÍ-šu-nu, f.DUMU.MÍ-šu-nu, f.DUMU.MÍ-šu-nu
+98,085:021, ki-ma na-da-ni a-na m.sú-[r]a-ta, m.sú-[r]a-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+99,085:023, [$]a-ni-tam i-nu-ma yi-[i]q-bi m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+100,085:024, [na-a]d-na-ti-mi ßE-im.HÁ a-na m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+101,085:029, ù an-nu-ú i-na <qa-at> m.ia-pa-d.Iß[KUR], m.ia-pa-d.Iß[KUR], m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+102,085:031, m.p[u]-hé-ya it-ka [$]a-al-$u, m.p[u]-hé-ya, m.pu-hé-ya, m.pu-hé-ya, m.pu-hé-ya, m.pu-hé-ya, m.pu-hé-ya
+103,085:041, [m.ÌR-a]-$[i]-ir-ta ù LÚ.MEß G[AZ.MEß], [m.ÌR-a]-$[i]-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+104,085:042, [a-na ma-ha]r m.ia-pa-d.IßKUR i-na, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+105,085:048, [qí-]ba-mi a-na m.ia-an-ha-mi ù, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+106,085:064, m.ÌR-a-$[i-ir-]t[a] Ì[R U]R.[G]I7 [ù], m.ÌR-a-$[i-ir-]t[a], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+107,085:068, ù ú-da-bi-ra m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+108,085:084, [nu-u$-pu]-ru ú-ul nu-u$-pu-ru a-n[a ka-]ta5 f.um-m[a-ah-nu], f.um-m[a-ah-nu], f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu
+109,085:085, [ù mu-]ut-$i m.i$-ku-r[u] GEME d.N[IN $a] URU gub-[la ù], m.i$-ku-r[u], m.iš-ku-ru, m.iš-ku-ru, m.iš-ku-ru, m.iš-ku-ru, m.iš-ku-ru
+110,086:001, [a-na m.]a-ma-a[n-ap-pa qí-bí-ma], m.]a-ma-a[n-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+111,086:002, um-ma m.ri-ib-d.[IßKUR a-na GÌR.MEß-ka], m.ri-ib-d.[IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+112,086:015, [ki-a]-ma táq-bi m.ia-an-ha[-mu-mi], m.ia-an-ha[-mu-mi], m.ia-an-ha-mu-mi, m.ia-an-ha-mu-mi, m.ia-an-ha-mu-mi, m.ia-an-ha-mu-mi, m.ia-an-ha-mu-mi
+113,086:024, [f.um]-ma-ah[-nu ù mu-ut-$i], [f.um]-ma-ah[-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu, f.um-ma-ah-nu
+114,086:025, [m.i$-ku]-ra G[EME d.NIN], [m.i$-ku]-ra, m.iš-ku-ra, m.iš-ku-ra, m.iš-ku-ru, m.iš-ku-ru, m.iš-ku-ru
+115,087:001, [a-na m.]a-ma-an-ap-pí B[E-ia], m.]a-ma-an-ap-pí, m.a-ma-an-ap-pí, m.a-ma-an-ap-pí, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+116,088:001, [m.ri-i]b-[d.]Iß[KUR] iq-b[i a-na BE-$u], [m.ri-i]b-[d.]Iß[KUR], m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+117,088:010, [m.Ì]R-a$-ra-ti ÌR UR.KU ú i[p-pu-u]$, [m.Ì]R-a$-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+118,089:001, [m.ri-ib-]d.IßKUR iq-b[i a-na], [m.ri-ib-]d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+119,089:022, f.DUMU.MÍ.MEß a-ha-<ti>-ia u$-$i-ir-ti, f.DUMU.MÍ.MEß, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ, f.DUMU.MÍ.MEŠ
+120,089:024, m.ÌR-a[-$i-ir-ta _ _ _]-$u, m.ÌR-a[-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+121,089:064, [m.ÌR-a]-$i-ir-ta la-qa a-ia-ab $[a], [m.ÌR-a]-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+122,090:003, um-ma m.ri-ib-d.IßKUR Ì[R-ka-ma], m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+123,090:012, [ú-u]l yi-ìl-qé-$i m.ÌR[-a-$i-ir-ta], m.ÌR[-a-$i-ir-ta], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+124,090:028, [ha-za-nu-ti] sal-mu a-na m.ÌR-a-[$i-ir-ta], m.ÌR-a-[$i-ir-ta], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+125,090:036, [_ _ g]a-am-r[u DUMU.MEß-nu f.DUMU.MÍ.MEß-]nu, f.DUMU.MÍ.MEß-]nu, f.DUMU.MÍ.MEŠ-nu, f.DUMU.MÍ.MEŠ-nu, f.DUMU.MÍ.MEŠ-nu, f.DUMU.MÍ.MEŠ-nu, f.DUMU.MÍ.MEŠ-nu
+126,091:001, [m.ri-ib-d.IßKUR iq-bi a-na] EN-$[u a-na GÌR.MEß], [m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+127,092:001, m.r[i-i]b-ad-di iq-bi, m.r[i-i]b-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+128,092:007, [$á-ni]-tam m.ÌR-a[$-ra-ti L]Ú.[U]R.K[U, m.ÌR-a[$-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+129,092:018, m.ÌR-d.a$-ra-ti ù ì$[-mé], m.ÌR-d.a$-ra-ti, m.ÌR-d.aš-ra-ti, m.ÌR-d.aš-ra-ti, m.ÌR-d.aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+130,092:019, m.ÌR-a$-ra-tum i-nu-ma ka-$i-id, m.ÌR-a$-ra-tum, m.ÌR-aš-ra-tum, m.ÌR-aš-ra-tum, m.ÌR-aš-ra-tu4, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+131,092:035, [al-l]u-m[i] i[$-t]ap-ru m.ri-ib-ad-d[a], m.ri-ib-ad-d[a], m.ri-ib-ad-da, m.ri-ib-ad-da, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+132,093:001, [a-na m.a-m]a-an-ap-pa, m.a-m]a-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+133,093:002, [um-ma m.r]i-ib-d.IßKUR, m.r]i-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+134,093:023, m.ÌR-a-$i-ir(!)-ta, m.ÌR-a-$i-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir, m.ÌR-a-ši-ir
+135,094:001, [m.r]i-[ib]-a[d]-[d]i [i]$(!)[-t]a(!)-pá]r a-na [L]UG[AL.[KU]R.[KUR.KI], [m.r]i-[ib]-a[d]-[d]i, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+136,094:011, ÉRIN.MEß pí-µá-ti ù ti-il5-[qé m.Ì]R-a$-ra-ta, m.Ì]R-a$-ra-ta, m.ÌR-aš-ra-ta, m.ÌR-aš-ra-ta, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+137,095:002, [u]m-ma m.ri-ib-d.IßKUR a-na G[ÌR.MEß-ka], m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+138,095:024, [k]i pa-na-n[u] m.ÌR-a-[$i-ir-ta], m.ÌR-a-[$i-ir-ta], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+139,095:041, [m.]Ì[R]-a-$[i]-ir-ta ma-ri-ic [M]A.[G]AL, [m.]Ì[R]-a-$[i]-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+140,096:001, a-na m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+141,096:003, um-ma m.LÚ.GAL ÉRIN.ME[ß A]D-ka-ma, m.LÚ.GAL, m.LÚ.GAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+142,097:001, [a-]na m.$u-mu-ha-d[i], m.$u-mu-ha-d[i], m.šu-mu-ha-di, m.šu-mu-ha-di, m.šu-mu-ha-di, m.šu-mu-ha-di, m.šu-mu-ha-di
+143,097:002, [u]m-ma m.ia-ap-p[a-]a[h-d.IßKUR], m.ia-ap-p[a-]a[h-d.IßKUR], m.ia-ap-pa-ah-d.IŠKUR, m.ia-ap-pa-ah-d.IŠKUR, m.ia-ap-pa-ah-d.IŠKUR, m.ia-ap-pa-ah-d.IŠKUR, m.ia-ap-pa-ah-d.IŠKUR
+144,097:011, [m.ÌR-a-$i-ir-ta _ _ ], [m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+145,097:021, [a-na m.Ì]R-a-$i-i[r-]t[a], m.Ì]R-a-$i-i[r-]t[a], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+146,098:002, [qí-]bí-ma m.(!) um-ma m.ia-pa-[a]h-d.IßKUR, m., m., m., m., m., m.
+147,098:002, [qí-]bí-ma m.(!) um-ma m.ia-pa-[a]h-d.IßKUR, m.ia-pa-[a]h-d.IßKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR
+148,098:007, m.a-zi-ri i$-tu, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+149,100:012, EN-nu m.[DUMU]-bi-ha-a [ù], m.[DUMU]-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a
+150,101:002, [UGU] LUGAL ú-ul m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya
+151,101:006, m.ÌR-a-$i-ir-ta i-nu-ma, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+152,101:019, [i]a-aq-bu m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya-a, m.ha-ya
+153,101:030, m.ÌR-a-$i-ir-ta LUGAL ì$-ta-kàn-$u, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+154,101:035, KUR a-mur-ri ù ca-bat m.ÌR a-ni-[t]a5, m.ÌR, m.ÌR, m.ÌR, m.ÌR, m.ÌR, m.ÌR
+155,102:001, [a-na m.ia-an-ha-]m[i _ _ _], m.ia-an-ha-]m[i, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+156,102:003, um-ma m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+157,102:023, $al-mu it-ti D[UM]U.MEß m.ÌR-a$-ra-ta, m.ÌR-a$-ra-ta, m.ÌR-aš-ra-ta, m.ÌR-aš-ra-ta, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+158,103:002, d.UTU-ia um-ma m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+159,103:009, m.DUMU.MEß ÌR-a-$i-ir-ta i-ru-bu, m.DUMU.MEß, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ
+160,103:018, m.zi-im-re-da [ù], m.zi-im-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+161,103:019, m.ia-pa-d.IßKUR [it]-ti-ia, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+162,104:003, um-ma m.ri-ib-d.IßKUR ÌR-ka-ma, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+163,104:007, i-nu-ma m.pu-ba-á@-la, m.pu-ba-á, m.pu-ba-á, m.pu-ba-á, m.pu-ba-á, m.pu-ba-á, m.pu-ba-á
+164,104:008, m.DUMU ÌR-a-$i-ir-ta, m.DUMU, m.DUMU, m.DUMU, m.DUMU, m.DUMU, m.DUMU
+165,104:018, DUMU.MEß m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+166,104:047, ù DUMU.MEß m.ÌR-a-$i-i[r-]ta, m.ÌR-a-$i-i[r-]ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+167,105:001, [m.r]i-ib-d.IßKUR iq-bi a-na EN[-$u], [m.r]i-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+168,105:011, m.DUMU.MEß ÌR-a-$i-ir-ta i$-tu qa-qa-ri, m.DUMU.MEß, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ
+169,105:015, ma-har m.ia-a[n-]ha-mi [ù, m.ia-a[n-]ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+170,105:019, pí-µá-ti ka-l[i m]i-am m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+171,105:025, ù ka-li mi-im-mi m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+172,105:031, a-na URU cu-mu-ra m.ia-pa-d.IßKUR, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+173,105:034, di-[n]a a-na pa-ni m.a-[m]a-an-[ _ -d]i, m.a-[m]a-an-[, m.a-ma-an-, m.a-ma-an-, m.a-ma-an-, m.a-ma-an-, m.a-ma-an-
+174,105:035, ù m.DUMU-bi-ha-a ù a-[n]a p[a-n]i, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a, m.DUMU-bi-ha-a
+175,105:036, m.ia-an-ha-mi ù ti-du, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+176,105:075, [_ _ _ _ m.ia]-pa-[d.]IßKUR, m.ia]-pa-[d.]IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+177,105:085, [ßE.I]M a-na a-ka-li-$u-nu m.ia-pa-d.IßKUR la-a ia-di-nu GIß.MÁ.MEß-ia, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+178,105:088, ia-aq-bu a[-nu-ma m.r]i-ib[-d.IßKUR l]a[-q]a-[$]u k[i-na-]na [U]G[U]-i[a], m.r]i-ib[-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+179,106:001, m.ri-ib-d.IßKUR iq-bi a-[na BE-$u], m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+180,106:014, yi-i$-tap-ru m.ri-ib-d.IßKUR ki-na-an-na-ma, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+181,106:019, k[i]-m[a] m.ia-pa-ah-d.IßKUR ù ú-ul ki[-ma], m.ia-pa-ah-d.IßKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR, m.ia-pa-ah-d.IŠKUR
+182,106:020, m.[zi-i]m-re-da gáb-bi ßEß.MEß pa-t[a-ru], m.[zi-i]m-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+183,106:031, m.ri-ib-d.IßKUR DÚB-pa a-na ma-har be-li-$[u], m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+184,106:036, ù lu-wa-$i-ra m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+185,106:037, i-na LÚ.MAßKÍM-$i m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+186,107:001, [m.]ri-ib-d.IßKUR [i]q-b[i], [m.]ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+187,107:014, yi-zi-iz m.ih(!)-ri-pí-[µ]á, m.ih, m.ih, m.ih, m.ih, m.ih, m.ih
+188,107:016, ù li-qé m.ha-ib, m.ha-ib, m.ha-ib, m.ha-ib, m.ha-ib, m.ha-ib, m.ha-ib
+189,107:026, a-nu-ma m.a-zi-ru DUMU, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+190,107:027, m.ÌR-a-$i-ir-ta qa-du, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+191,108:001, m.ri-ib-d.IßKUR i$-ta-pár, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+192,108:002, a-na m.EN-$u LUGAL KUR.KUR.MEß.KI, m.EN-$u, m.EN-šu, m.EN-šu, m.EN-šu, m.EN-šu, m.EN-šu
+193,108:012, m.ÌR-a-$i-ir-ta ki-ma, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+194,108:033, [m.]ÌR-a-$i-ir-ta a-na $[a-$u], [m.]ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+195,109:001, [m.r]i-ib-d.IßKUR [iq-bi] a-na EN-$u, [m.r]i-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+196,109:037, i-de m.ia-an-ha-mu LÚ [, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+197,109:047, [ù] an-nu-ú DUMU.MEß m.ÌR-a-$i-i[r-ta], m.ÌR-a-$i-i[r-ta], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+198,109:059, it-ti DUMU.MEß m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+199,109:062, [i-n]u-ma m.ha[-ia ù m.a]-ma-an-ap-[pa], m.ha[-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia
+200,109:062, [i-n]u-ma m.ha[-ia ù m.a]-ma-an-ap-[pa], m.a]-ma-an-ap-[pa], m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+201,110:002, [qí-bí-ma ]um-ma m.ri[-ib-d.IßKUR], m.ri[-ib-d.IßKUR], m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+202,110:008, [DUMU.MEß m.ÌR-a-$i-]ir-ta [ki-ma], m.ÌR-a-$i-]ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+203,110:034, [x x x  m.a-[zi-ru], m.a-[zi-ru], m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+204,110:044, [x x x x m.a-zi-r[u], m.a-zi-r[u], m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+205,110:047, [x x x x n]i $i m._ _, m._, m._, m., m., m., m.
+206,111:003, [um-ma m.r]i-[ib-d.IßKUR ÌR-ka-ma], m.r]i-[ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+207,112:001, [m.]ri-ib-[d.IßKUR i$-ta-par], [m.]ri-ib-[d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+208,112:042, $u-ri-ib-mi m.ha-ia a-na, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia
+209,112:048, m.ha-ia $a-al-$u a-di, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia, m.ha-ia
+210,113:008, m.ia-pa-d.IßKUR i-t[e9-p]u-[u$], m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+211,113:012, m.ia-pa-d.IßKUR i-nu-ma ya-a[$-ku-nu]/yu-l[a-mi-nu], m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+212,113:024, [i$-t]u m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+213,113:036, m.a-ma-an-ma-$a qí-ba[-mi a-na], m.a-ma-an-ma-$a, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša
+214,113:043, [LUGA]L-ru a-na m.a-[m]a-[an-ma-$a], m.a-[m]a-[an-ma-$a], m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša
+215,113:047, ù m.ia-pa-d.IßKUR [, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+216,114:001, [m.ri-ib-d.IßKUR i$-ta-par] a-na EN[-$u], [m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+217,114:007, i-nu-ma NU.KÚR m.a-zi-ru {it}-ia, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+218,114:016, NU.KÚR m.ia-pa-d.IßKUR it-ti m.a-zi-ri, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+219,114:016, NU.KÚR m.ia-pa-d.IßKUR it-ti m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+220,114:051, al-lu m.a-ma-an-ma-$a $a-nu, m.a-ma-an-ma-$a, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša, m.a-ma-an-ma-ša
+221,114:059, m.ia-pa-d.IßKUR a-la-kam a-[na], m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+222,114:069,      al-lu m.ia-pa-d.IßKUR it-ti m.a-zi-r[i], m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+223,114:069,      al-lu m.ia-pa-d.IßKUR it-ti m.a-zi-r[i], m.a-zi-r[i], m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+224,115:015, [         -]ah-$u m.a-z[i-ru], m.a-z[i-ru], m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+225,116:001, [m.ri-ib-d.IßKU]R i$-ta-par a-n[a], [m.ri-ib-d.IßKU]R, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+226,116:012, ù ca-ab-tu-$e DUMU.MEß m.ÌR-a-$i-ir[-t]a, m.ÌR-a-$i-ir[-t]a, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+227,116:025, ù m.ia[-pa-]d.IßKUR ki-na-na-ma, m.ia[-pa-]d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+228,116:040, it-ti-ia ù [m.ia-pa-]d.I[ß]KU[R], [m.ia-pa-]d.I[ß]KU[R], m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+229,116:050, pa-a$-ha-ti al-lu-ú m.a-zi-ru ù, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+230,116:051, m.ia-pa-d.IßKUR la-qú a-wa-ta [b]e-ri-$u-nu, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+231,116:068, DUMU.MEß m.ÌR-a-$i-ir-ta ù, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+232,116:073, pí-µá-ti m.ia-an-ha-<mu> qa-du, m.ia-an-ha-<mu>, m.ia-an-ha-<mu>, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+233,117:001, [m.]ri-ib-d.IßKUR [i$-ta-par a-na EN-$u], [m.]ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+234,117:023, i-nu-ma yi-la-[ak] m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa, m.a-ma-an-ap-pa
+235,117:027, ra-ba ú-ul la-qí m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+236,117:033, a-di yu-ú-ul-qú m.a-za-ru ki-ma a[-bi-$]u, m.a-za-ru, m.a-za-ru, m.a-za-ru, m.a-za-ru, m.a-za-ru, m.a-za-ru
+237,117:036, m.ÌR-a-$i-ir-ta ÌR UR.GI7 [ù la-]qú, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+238,117:039, m.a-zi-ri ú-ul yi-te-r[u-bu], m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+239,117:061, m.ia-an-ha-mì ù a-na m.pí-hu-ra, m.ia-an-ha-mì, m.ia-an-ha-mì, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+240,117:061, m.ia-an-ha-mì ù a-na m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra
+241,117:065, it-t[i m.]ia-pa-d.IßKUR ù it-ti m.ha (!), m.]ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+242,117:065, it-t[i m.]ia-pa-d.IßKUR ù it-ti m.ha (!), m.ha, m.ha, m.ha, m.ha, m.ha, m.ha
+243,118:001, a-na m.LUGAL-ri  EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+244,118:003, um-ma m.ri-ib-d.IßKUR ÌR-ka-ma, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+245,118:026, [m.]ÌR-a-$i-ir-ta ù, [m.]ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+246,118:029, DUMU.MEß m.ÌR-a-$i-ir-ta NU.KÚR, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+247,118:049, ù UGU m.ia-an-ha-mì, m.ia-an-ha-mì, m.ia-an-ha-mì, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+248,118:055, [i]a-nu ÌR ki-ma m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mi, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+249,119:001, [m.]ri-ib-d.IßKUR [i]$-[ta-par], [m.]ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+250,119:019, pa-ni LUGAL-ri m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+251,119:034, [m.r]i-ib-d.IßKUR i-n[a ], [m.r]i-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+252,119:057, $a it-ti m.ia-pa-d.IßKUR, m.ia-pa-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+253,120:002, [m.ia-pa]-d.IßKUR 12  $a-l[u], [m.ia-pa]-d.IßKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR, m.ia-pa-d.IŠKUR
+254,120:031, it-ta-$u m.ab[di-]d.I[ßKUR ù], m.ab[di-]d.I[ßKUR, m.abdi-d.IŠKUR, m.abdi-d.IŠKUR, m.abdi-d.IŠKUR, m.abdi-d.IŠKUR, m.abdi-d.IŠKUR
+255,120:032, m.BEN-a-zi-mi u[$]-$i-i[r ], m.BEN-a-zi-mi, m.BEN-a-zi-mi, m.BEN-a-zi-mi, m.BEN-a-zi-mi, m.BEN-a-zi-mi, m.BEN-a-zi-mi
+256,121:001, [m.]ri-ib-d.IßKUR i[$-tap-p]ár a-[na], [m.]ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+257,121:020, [m.ÌR-]a-$i-ir-ta a-na, [m.ÌR-]a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+258,121:023, [it-t]i m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+259,122:001, [m.]ri-ib-d.IßKUR i$-táp-p[ar], [m.]ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+260,122:031, a-na ia-$i ù m.pa-hu-ra, m.pa-hu-ra, m.pa-hu-ra, m.pa-hu-ra, m.pa-hu-ra, m.pa-hu-ra, m.pa-hu-ra
+261,123:001, m.ri-ib-d.IßKUR i$-ta-pár, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+262,123:013, [u]$-$i-ir m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra
+263,123:034, m.pí-hu-ra u$-$[i-]ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra
+264,123:036, m.ÌR-i-ra-ma, m.ÌR-i-ra-ma, m.ÌR-i-ra-ma, m.ÌR-i-ra-ma, m.ÌR-i-ra-ma, m.ÌR-i-ra-ma, m.ÌR-i-ra-ma
+265,123:037, m.SUM-d.IßKUR m.ÌR-LUGAL, m.SUM-d.IßKUR, m.SUM-d.IŠKUR, m.SUM-d.IŠKUR, m.SUM-d.IŠKUR, m.SUM-d.IŠKUR, m.SUM-d.IŠKUR
+266,123:037, m.SUM-d.IßKUR m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL
+267,123:038, [m]i-nu m.DUMU.MEß m.ÌR-a-$i-ir-ta, m.DUMU.MEß, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ
+268,123:038, [m]i-nu m.DUMU.MEß m.ÌR-a-$i-ir-ta, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+269,124:002, [um-m]a m.ri-ib-d.IßKUR Ì[R-ka-ma], m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+270,124:006, [7-]ta-an am-qú-ut m.ri-i[b-d.IßKUR], m.ri-i[b-d.IßKUR], m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+271,124:008, [m.]a-zi-ru ka-li URU.MEß-n[i-ia], [m.]a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+272,124:018, URU.MEß m.ri-i[b-d.I]ßK[UR ù], m.ri-i[b-d.I]ßK[UR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+273,124:040, [URU].MEß-ni-ia la-qa m.a-z[i-ru], m.a-z[i-ru], m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+274,124:043, di-[ik-ti/ka-at m.ÌR-a-]$i-ir-ta [ù], m.ÌR-a-]$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+275,124:044, m.pa-w[a-ra i-na]-na y[i-qa-bu], m.pa-w[a-ra, m.pa-wa-ra, m.pa-wa-ra, m.pa-wa-ra, m.pa-wa-ra, m.pa-wa-ra
+276,125:002, um-ma m.ri-ib-d.IßKU[R] Ì[R-ka-ma], m.ri-ib-d.IßKU[R], m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+277,125:020, i$-ta-ha-aµ-ni m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+278,125:024, m.a-zi-ru gáb-ba, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+279,125:037, a-na-ku URU.MEß-ia a-na m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+280,125:041, m.DUMU.MEß m.ÌR-a-$i-ir-t[a], m.DUMU.MEß, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ, m.DUMU.MEŠ
+281,125:041, m.DUMU.MEß m.ÌR-a-$i-ir-t[a], m.ÌR-a-$i-ir-t[a], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+282,126:001, m.ri-ib-id-di qí-bí-[ma], m.ri-ib-id-di, m.ri-ib-id-di, m.ri-ib-id-di, m.ri-ib-id-di, m.ri-ib-id-di, m.ri-ib-ad-di
+283,126:009, i-nu-ma nu-kúr-tu4 m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+284,126:036, DUMU m.ÌR-a[-$i-ir-ti EN]-$u-nu, m.ÌR-a[-$i-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+285,126:065,  ù $u-a-ti ta-di-nu-ni DUMU.MEß m.ÌR-a-$i-ir-ti, m.ÌR-a-$i-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+286,127:007, [ù m.ha-ib na-da]-a[n UR]U cu-mu-ur, m.ha-ib, m.ha-ib, m.ha-ib, m.ha-ib, m.ha-ib, m.ha-ib
+287,127:012, [_ _ _ m.ya-ab-n]i-d.IßKUR uc-cí, m.ya-ab-n]i-d.IßKUR, m.ya-ab-ni-d.IŠKUR, m.ya-ab-ni-d.IŠKUR, m.ya-ab-ni-d.IŠKUR, m.ya-ab-ni-d.IŠKUR, m.ya-ab-ni-d.IŠKUR
+288,127:023, [ù al-]lu-mi m.ia-an-ha-m[u], m.ia-an-ha-m[u], m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+289,127:031, ki-ma pa-na-nu-um i-te9-lu m.ÌR-a$-[r]a-tu4, m.ÌR-a$-[r]a-tu4, m.ÌR-aš-ra-tu4, m.ÌR-aš-ra-tu4, m.ÌR-aš-ra-tu4, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+290,128:010, [_ _ _] m.a-z[i-ru, m.a-z[i-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+291,128:021, [um-ma] m.i-li-ra[-pí-ih], m.i-li-ra[-pí-ih], m.i-li-ra-pí-ih, m.i-li-ra-pí-ih, m.i-li-ra-pí-ih, m.i-li-ra-pí-ih, m.i-li-ra-pí-ih
+292,129:001, [m.ri-ib]-ad-d[i qi-bi/bí-mi], [m.ri-ib]-ad-d[i, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+293,129:005, m.ÌR-a-$i-ir-t[i i]-nu[-m]a, m.ÌR-a-$i-ir-t[i, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+294,129:045, [a-na ÌR-ka m.]ri-ib-ad-di, m.]ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+295,129:082, m.b[ir-]ia-wa-zi pal-ha <i$>-tu LUGAL BE[-ia], m.b[ir-]ia-wa-zi, m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir5-ia-wa-za
+296,129:095, [ÉRIN.MEß pí-]µ[á]-tam ù q[a-l]u-nu a-n[a _ _ _ ] {dan}-nu la-qú-mi m.pí-wu-r[i], m.pí-wu-r[i], m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri
+297,129:097, [   a-n]a $a-$u-nu ù _ _ _ _ _ _ _ _ _ _ m.pí-wu-ri $um-ma, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri
+298,130:003, m.ri-ib-d.IßKUR ÌR-ka-ma, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+299,130:011, m.i-ri-ma-ia-a$-$a, m.i-ri-ma-ia-a$-$a, m.i-ri-ma-ia-aš-ša, m.i-ri-ma-ia-aš-ša, m.i-ri-ma-ia-aš-ša, m.i-ri-ma-ia-aš-ša, m.i-ri-ia-ma-aš-ša
+300,130:032, [m.]ha-za-nu-tu ti-du-ku-[na $u]-nu, [m.]ha-za-nu-tu, m.ha-za-nu-tu, m.ha-za-nu-tu, m.ha-za-nu-tu, m.ha-za-nu-tu, m.ha-za-nu-tu
+301,131:022, LUGAL i-nu-ma di-ki m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri
+302,131:035, a-na ia-a-$i m.pa-ha-am-na-t[a], m.pa-ha-am-na-t[a], m.pa-ha-am-na-ta, m.pa-ha-am-na-ta, m.pa-ha-am-na-ta, m.pa-ha-am-na-ta, m.pa-ha-am-na-ta
+303,131:062, [yi-$a-al m.]ia-an-ha-ma a-na a-<wa>-te.MEß  an-<nu-tu>, m.]ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+304,132:002, [qí-]bi-ma um-ma m.ri-ib-d.IßKUR, m.ri-ib-d.IßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+305,132:011, m.ÌR-a-$i-ir-ta UGU-ia, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+306,132:017, la-qí m.ÌR-a-$i-ir-t[a], m.ÌR-a-$i-ir-t[a], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+307,132:020, pu-hi-ir m.a-zi-ru k[a-li], m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+308,132:029, [a]l-lu-mi m.ia-an-h[a-mu], m.ia-an-h[a-mu], m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+309,132:034, m.ÌR-a-$i-ir-ta ù, m.ÌR-a-$i-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+310,132:038, ki-na-na a-na m.pa-wu-[ra], m.pa-wu-[ra], m.pa-wu-ra, m.pa-wu-ra, m.pa-wu-ra, m.pa-wu-ra, m.pa-wu-ra
+311,132:040, i-na a-wa-te.MEß  m.ha-i[p], m.ha-i[p], m.ha-ip, m.ha-ip, m.ha-ip, m.ha-ip, m.ha-ip
+312,132:042, an-nu-ú m.ha-ip na-da[-an], m.ha-ip, m.ha-ip, m.ha-ip, m.ha-ip, m.ha-ip, m.ha-ip
+313,132:047, qa-la-ta ù m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra, m.pí-hu-ra
+314,133:007, DUMU.MEß m.ÌR-a-$i-i[r-ta], m.ÌR-a-$i-i[r-ta], m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+315,133:009, [a-]nu-ma m.ha-ip[ it-ti-ka], m.ha-ip[, m.ha-ip, m.ha-ip, m.ha-ip, m.ha-ip, m.ha-ip
+316,134:003, [yi-ìl-]qí-$i m.a-z[i-ru], m.a-z[i-ru], m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+317,134:008, [m.]a-zi-ru ERÍN.MEß a-n[a], [m.]a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+318,136:012, m.DUMU ÌR-a-$i-ir-ta, m.DUMU, m.DUMU, m.DUMU, m.DUMU, m.DUMU, m.DUMU
+319,136:029, it-ti-$u $a m.am-mu-ni-ra, m.am-mu-ni-ra, m.am-mu-ni-ra, m.am-mu-ni-ra, m.am-mu-ni-ra, m.am-mu-ni-ra, m.am-mu-ni-ra
+320,137:001, m.ri-ib-ad[-di qí-bi-mi], m.ri-ib-ad[-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+321,137:015, al-ka-ti a-na ma-har-ri m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri
+322,137:066, m.ha-mu-ni-ri i-ba-$a-ti i-nu-ma, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri
+323,137:069, i-nu-ma al-ka-ti a-na ma-har m.ha-mu-\ni-ri, m.ha-mu-, m.ha-mu-, m.ha-mu-, m.ha-mu-, m.ha-mu-, m.ha-mu-
+324,137:088, m.ha-mu[-ni-ri, m.ha-mu[-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri
+325,138:008, ú-u[l a]l-ka-ti a-na ma-har m.a-p[i], m.a-p[i], m.a-pi, m.a-pi, m.a-pi, m.a-pi, m.a-pi
+326,138:029, m.ÌR-a$-ra-ti ù a-na-[ca-a]r-mi, m.ÌR-a$-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+327,138:034, [m.ÌR-a-$i]-ir-ti ù a-[nu-m]a i-na-an-na, [m.ÌR-a-$i]-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+328,138:035, l[a-qi/qa U]R[U c]u-m[u-ri m.]a-zi-ru, m.]a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+329,138:037, a-di ma-ti ni-ka-$i-$u DUMU m.ÌR-[a-$i-ir-ti], m.ÌR-[a-$i-ir-ti], m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+330,138:045, ni-te-pu-u$-mi a-na m.a-zi-ri ù, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+331,138:050, [ti-t]e-pu-$u-mi a-na DUMU.MEß m.ÌR-a$-ra-t[i], m.ÌR-a$-ra-t[i], m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti, m.ÌR-aš-ra-ti
+332,138:052, a-na da[-ba-b]i a-na ma-har m.ha-mu-ni[-ri], m.ha-mu-ni[-ri], m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri
+333,138:053, ù ni-pu[-u$ ki]-tam a$-$um-ma m.[h]a-[mu-ni-ri], m.[h]a-[mu-ni-ri], m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri
+334,138:057, a-na-ku ù m.[a-wi] U[GU URU].KI, m.[a-wi], m.a-wi, m.a-wi, m.a-wi, m.a-wi, m.a-wi
+335,138:059, la-qí LÚ ar-ni L[UGAL.ÉRIN.M]Eß m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+336,138:066, m.ri-ib-ad-di ki-ka-n[u] i$-tu, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+337,138:070, ÉRIN.MEß m.a-zi-ri i$-t[u] URU.KI, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+338,138:090, ù ti-iq-bu URU.KI al-lu-mi m.[ri-ib-ad-di], m.[ri-ib-ad-di], m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+339,138:093, ù te-né-pu-$u-na a-na m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+340,138:105, a-na m.a-zi-ri y[i-p]u-[u]$ ip-$a GAL], m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+341,138:107, {ù }µ]á-pí-ìl m.[a][-p[í] q[a-du ia-$i], m.[a][-p[í], m.a-pí, m.a-pi, m.a-pi, m.a-pi, m.a-pi
+342,138:109, a-na m.a-zi-ri ù [ú-ul i]a-[ku]-[u]l, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+343,138:111, ta-aq-bi [URU.K]I m.[ri-i]b[-a]d-di, m.[ri-i]b[-a]d-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di, m.ri-ib-ad-di
+344,138:113, m.a-zi-ri [ni-te-pu-u$, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+345,138:132,    m.ha-mu-[ni-]ri, m.ha-mu-[ni-]ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri, m.ha-mu-ni-ri
+346,139:013, a-{pa}!-a$ m.a-zi-ru i-na LUGAL-ri, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+347,139:035, m.a-zi-ru a-na $a-$u mi-im-mu, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+348,139:037, ù mi-im m.ha-za-ni LUGAL, m.ha-za-ni, m.ha-za-ni, m.ha-za-ni, m.ha-za-ni, m.ha-za-ni, m.ha-za-ni
+349,139:039, a-na ka-ta a-mur m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+350,140:003, m.AN-ra-pí-ih ÌR-ka a-na, m.AN-ra-pí-ih, m.AN-ra-pí-ih, m.AN-ra-pí-ih, m.AN-ra-pí-ih, m.AN-ra-pí-ih, m.AN-ra-pí-ih
+351,140:009, i-na m.a-zi-ri ù yi-pu-$u, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+352,140:010, ki-ma ßÀ-$u a-mur m.a-zi-ru m.a-du-na LUGAL KUR ir-qa-ta, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+353,140:010, ki-ma ßÀ-$u a-mur m.a-zi-ru m.a-du-na LUGAL KUR ir-qa-ta, m.a-du-na, m.a-du-na, m.a-du-na, m.a-du-na, m.a-du-na, m.a-du-na
+354,140:021, [yi]-pu-i$ m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+355,140:025, [$u ú-sa-m]ah m.i-ta-ka-ma, m.i-ta-ka-ma, m.i-ta-ka-ma, m.i-ta-ka-ma, m.i-ta-ka-ma, m.i-ta-ka-ma, m.i-ta-ka-ma
+356,142:021, DUMU.DUMU.MEß $a m.ri-[i]b-[d.I]ßKUR, m.ri-[i]b-[d.I]ßKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR, m.ri-ib-d.IŠKUR
+357,144:004, um-ma m.zi-im-re-ed-di, m.zi-im-re-ed-di, m.zi-im-re-ed-di, m.zi-im-re-ed-di, m.zi-im-re-ed-di, m.zi-im-re-ed-di, m.zi-im-re-ed-di
+358,145:003, [um-ma m.zi-]im-ri-d[a], m.zi-]im-ri-d[a], m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+359,145:012, [$]a [i-n]a qa-at m.a [, m.a, m.a, m.a, m.a, m.a, m.a
+360,146:015, [m.z]i-im-ri-da \ e i[-$a-ap-par], [m.z]i-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+361,147:066, ù GIß.MEß a-na $u-hu-ni-ia $a-ni-ta5 m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+362,147:068, L[Ú] ar-ni m.a-zi-ri DUMU ÌR-d.a$-ra-tum, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+363,149:002, um-ma m.a-bi-LUGAL ÌR-[k]a, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL
+364,149:030, [m.e-ta-kà-ma p]a-wa-ra, [m.e-ta-kà-ma, m.e-ta-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma
+365,149:035, [a-na _ _  -]ra m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ri
+366,149:036, [DUMU m.ÌR d.]a$-ra-tum, m.ÌR, m.ÌR, m.ÌR, m.ÌR, m.ÌR, m.ÌR
+367,149:037, [LÚ a]r-ni LUGAL m.ha-a-bi, m.ha-a-bi, m.ha-a-bi, m.ha-a-bi, m.ha-a-bi, m.ha-a-bi, m.ha-a-bi
+368,149:040, [a-n]a m.a-zi-ra ù la-a, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ri
+369,149:049, il-qè m.zi-im-re-da URU Ú-sú, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+370,149:057, a-na LUGAL m.zi-im-re-da URU cí-du-na, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+371,149:058, ù m.a-zi-ra LÚ ar-ni LUGAL, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ri
+372,149:068, i-na UZU pí m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+373,149:070, a-na m.a-zi-ra ù a$-ta-par, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ri
+374,150:002, [u]m-ma m.a-bi-mil-k[i ÌR-ka], m.a-bi-mil-k[i, m.a-bi-mil-ki, m.a-bi-mil-ki, m.a-bi-mil-ki, m.a-bi-mil-ki, m.a-bi-mil-ki
+375,151:002, um-ma m.a-bi-LUGAL ÌR-ka, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL
+376,151:011, qa-ti m.zi-im-re-da URU cí-du-na.KI, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+377,151:045, u$-$e-er m.DINGIR.LUGAL LÚ.KIN-ri, m.DINGIR.LUGAL, m.DINGIR.LUGAL, m.DINGIR.LUGAL, m.DINGIR.LUGAL, m.DINGIR.LUGAL, m.DINGIR.LUGAL
+378,151:059, m.e-ta-kà-ma pa-wu-ri, m.e-ta-kà-ma, m.e-ta-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma
+379,151:061, m.a-zi-ra nu-kúr-tu4, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ri
+380,151:062, it-ti m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir-ia-wa-zi, m.bir5-ia-wa-za
+381,151:065, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+382,151:067, GIß MÁ.MEß ÉRIN.MEß i$-tu URU.HÁ m.a-zi-r[a ], m.a-zi-r[a, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ri
+383,152:007, [a-nu-ma nu-kur-tu] m.[z]i-im-ri[-da L]Ú, m.[z]i-im-ri[-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+384,153:002, [u]m-ma m.ia-bi-LUGAL ÌR-ka, m.ia-bi-LUGAL, m.ia-bi-LUGAL, m.ia-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL, m.a-bi-LUGAL
+385,154:002, um-ma m.a-bi-mil-ki Ì[R-ka], m.a-bi-mil-ki, m.a-bi-mil-ki, m.a-bi-mil-ki, m.a-bi-mil-ki, m.a-bi-mil-ki, m.a-bi-mil-ki
+386,154:008, UGU-[hi m.]ia-wa $a iq-bi, m.]ia-wa, m.ia-wa, m.ia-wa, m.ia-wa, m.ia-wa, m.ia-wa
+387,154:023, [m.]z[i-im-ri-da     ], [m.]z[i-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+388,154:025, [LÚ] ar-nu m.a-zi-ra], m.a-zi-ra], m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ra, m.a-zi-ri
+389,155:015, a-na ÌR m.MÍ ma-ia8-a-ti, m.MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ
+390,155:029, m.MÍ ma-ia-a-ti BE-µì-[i]a, m.MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ
+391,155:042, URU m.MÍ ma-ia8-a-ti, m.MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ
+392,155:050, a-na na-[c]a-r[i] UR[U] m.[MÍ m]a-[i]a8-a-ti, m.[MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ, m.MÍ
+393,156:002, um-ma m.a-zi-ri ÌR-ka-ma, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+394,157:003, um-ma m.a-z[i-ri ÌR-ka-ma], m.a-z[i-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+395,158:001, a-n[a] m.tù-ú-tù EN-ia a-bi-i[a], m.tù-ú-tù, m.tù-ú-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+396,158:002, um-ma m.a-zi-ri DUMU-ka ÌR-ka[-ma], m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+397,158:005, m.tù-ú-tù a-nu-um-m[a a]t-[t]a-din, m.tù-ú-tù, m.tù-ú-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+398,158:012, m.tù-ú-tù a-bi-ia $u-pur, m.tù-ú-tù, m.tù-ú-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+399,158:034, [ù] i$-tu a-wa-te.MEß m.tù-ú-tù a-bi-ia, m.tù-ú-tù, m.tù-ú-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+400,159:002, [um-m]a m.a-zi-ri LÚ.ÌR-ka-ma, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+401,160:002, [um-m]a m.a-zi-ri LÚ.ÌR[-ka-ma], m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+402,161:002, um-ma m.a-zi-ri LÚ.ÌR-ka-ma, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+403,161:011, ù a$-$um m.ha-an-i LUGAL EN-ia iq-ta-bi, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i
+404,161:017, ù li-ik-$u-ú-ud m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i
+405,161:020, ßEß.MEß-ia ù m.be-ti-DINGIR iz-za-zu-nim, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR
+406,161:027, m.ha-an-i i-la-ak a-na pa-ni-ia, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i
+407,161:031, i$-tu-mi pa-ni m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i, m.ha-an-i
+408,161:038, i-le-eq-qú-nim i-na UZU pí-i m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+409,161:043, LUGAL EN-ia m.ha-ti-ip i-le-eq-qè, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+410,161:046, m.ha-ti-ip ù EN-ia lu-ú i-de4, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+411,162:001, [a-na m.a-zi-ru] L[Ú] URU a-mu-ur-ra qí-bí-ma, m.a-zi-ru], m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ru, m.a-zi-ri
+412,162:056, um-ma-a lu-ma-$ir9-an-ni LUGAL EN-ia m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-i
+413,162:063, a-na ßU-ti m.ha-an-ni L[Ú.ME]ß DUMU.KIN $a LUGAL, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-i
+414,162:068, m.$a-ar-ru qa-du gáb-bi DUMU.MEß-$u, m.$a-ar-ru, m.ša-ar-ru, m.ša-ar-ru, m.ša-ar-ru, m.ša-ar-ru, m.ša-ar-ru
+415,162:069, m.tu-u-ia, m.tu-u-ia, m.tu-u-ia, m.tu-u-ia, m.tu-u-ia, m.tu-u-ia, m.tu-u-ia
+416,162:070, m.le-e-ia qa-du gáb-bi DUMU.MEß-$u, m.le-e-ia, m.le-e-ia, m.le-e-ia, m.le-e-ia, m.le-e-ia, m.le-e-ia
+417,162:071, m.wi-i$-ia-ri qa-du gáb-bi DUMU.MEß-$u, m.wi-i$-ia-ri, m.wi-iš-ia-ri, m.wi-iš-ia-ri, m.wi-iš-ia-ri, m.wi-iš-ia-ri, m.wi-iš-ia-ri
+418,162:072, LÚ ha-at-nu $a m.ma-an-ia qa-du DUMU.MEß-$u, m.ma-an-ia, m.ma-an-ia, m.ma-an-ia, m.ma-an-ia, m.ma-an-ia, m.ma-an-ia
+419,162:076, m.µa-a-$ir9-ti-i m.bá-a-lu-ú-ma, m.µa-a-$ir9-ti-i, m.ṭa-a-šir9-ti-i, m.ṭa-a-šir9-ti-i, m.ṭa-a-šir9-ti-i, m.ṭa-a-šir9-ti-i, m.ṭa-a-šir9-ti-i
+420,162:076, m.µa-a-$ir9-ti-i m.bá-a-lu-ú-ma, m.bá-a-lu-ú-ma, m.bá-a-lu-ú-ma, m.bá-a-lu-ú-ma, m.bá-a-lu-ú-ma, m.bá-a-lu-ú-ma, m.bá-a-lu-ú-ma
+421,162:077, m.ni-im-ma-he-e LÚ ha-pa-tù i-na KUR a-mur-ri $u-ú, m.ni-im-ma-he-e, m.ni-im-ma-he-e, m.ni-im-ma-he-e, m.ni-im-ma-he-e, m.ni-im-ma-he-e, m.ni-im-ma-he-e
+422,164:001, a-na m.tù-u-tù EN-ia a-bi-ia, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+423,164:002, um-ma m.a-zi-ri ÌR-ka-ma, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+424,164:004, m.ha-ti-ip i-il-la-kà-am, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+425,164:010, ù LÚ.MEß.ÌR m.tù-u-tù EN-ia, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+426,164:016, ù i$-tu a-ma-te.{MEß} m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+427,164:018, EN-ia a-nu-um-ma m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+428,164:026, a-na-ku ù m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+429,164:030, ù i$-tu pa-ni m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+430,164:033, m.tù-u-tù ù LÚ.MEß GAL-bu-te.MEß, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+431,164:035, ù ki-i-ia-am m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+432,164:038, UGU m.a-zi-ri $a la SIG5-iq, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+433,164:042, ù m.ha-ti-ip LÚ.ÌR LUGAL bá-nu, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+434,164:043, m.tù-u-tù lu-ú ti-i-de4, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+435,165:002, um-ma m.[a-zi-ri ÌR-ka-ma], m.[a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+436,165:009, ù m.bá-a-lu-ia LÚ.MEß[.ÌR-k]a, m.bá-a-lu-ia, m.bá-a-lu-ia, m.bá-a-lu-ia, m.bá-a-lu-ia, m.bá-a-lu-ia, m.bá-a-lu-ia
+437,165:015, ù m.ha-ti-ip ni-il-la-ak, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+438,165:026, a-n[a-k]u ù m.ha-ti-ip {a}[-na-ku], m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+439,166:001, [a-n]a m.ha-a-i ßEß-ia, m.ha-a-i, m.ha-a-i, m.ha-a-i, m.ha-a-i, m.ha-a-i, m.ha-a-i
+440,166:002, um-ma m.a-zi-ri ßEß-ka-ma, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+441,166:012, a-nu-um-ma a-na-ku ù m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+442,166:014, i-na ha-mut-i$ m.ha-a-i, m.ha-a-i, m.ha-a-i, m.ha-a-i, m.ha-a-i, m.ha-a-i, m.ha-a-i
+443,166:032, a-na-ku ù m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+444,167:001, [a-na m.tù-u-tù EN-ia a-bi-ia (?)], m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+445,167:002, [im-ma m.a-zi-ri ÌR?-ka-ma], m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+446,167:014, a-na-ku ù m.h[a-ti-]i[p], m.h[a-ti-]i[p], m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+447,167:028, m.tù-u-tù i-na-an-na a-{mur?}, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+448,167:031, [kà-]-a$-du it-ti m.tù-u-tù EN[-ia], m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù, m.tù-u-tù
+449,168:002, um-ma m.a-zi-ri ÌR-k[a-ma], m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+450,168:008, [ù? m.h]a-ti-ip ]i-kà-a[$-$a?-du4?nim?], m.h]a-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip, m.ha-ti-ip
+451,168:R12, [        -i]a? m.DINGIR-ia-ip-[, m.DINGIR-ia-ip-[, m.DINGIR-ia-ip-, m.DINGIR-ia-ip-, m.DINGIR-ia-ip-, m.DINGIR-ia-ip-, m.DINGIR-ia-ip-
+452,169:012, a-na LÚ.MEß.ÌR-$u m.a-zi-ri LÚ.ÌR-ka, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+453,169:016, $a-ni-tam a-na m.tù-ut-tù EN-ia, m.tù-ut-tù, m.tù-ut-tù, m.tù-ut-tù, m.tù-ut-tù, m.tù-ut-tù, m.tù-u-tù
+454,169:028, m.a-zi-ri i$-tu KUR mi-ic-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+455,169:036, [a-na(?) m.tù-ut-t]ù(?) EN-ia m.a-zi-ri, m.tù-ut-t]ù, m.tù-ut-tù, m.tù-ut-tù, m.tù-ut-tù, m.tù-ut-tù, m.tù-u-tù
+456,169:036, [a-na(?) m.tù-ut-t]ù(?) EN-ia m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+457,170:002, um-ma m.d.IßKUR-lu-ia ù um-ma, m.d.IßKUR-lu-ia, m.d.IŠKUR-lu-ia, m.d.IŠKUR-lu-ia, m.d.IŠKUR-lu-ia, m.d.IŠKUR-lu-ia, m.d.IŠKUR-lu-ia
+458,170:003, m.be-ti-DINGIR a-na GÌR.MEß EN-ni ni-am-qut, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR
+459,170:015, m.lu-Pa-aK-Ku il5-te-qú-nim, m.lu-Pa-aK-Ku, m.lu-Pa-aK-Ku, m.lu-Pa-aK-Ku, m.lu-Pa-aK-Ku, m.lu-Pa-aK-Ku, m.lu-Pa-aK-Ku
+460,170:017, m.a-ad-du-mi il5-te-qú-nim-mi, m.a-ad-du-mi, m.a-ad-du-mi, m.a-ad-du-mi, m.a-ad-du-mi, m.a-ad-du-mi, m.a-ad-du-mi
+461,170:020, m.Zi-Ta-na, m.Zi-Ta-na, m.Zi-Ta-na, m.Zi-Ta-na, m.Zi-Ta-na, m.Zi-Ta-na, m.Zi-Ta-na
+462,170:028, ù m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR, m.be-ti-DINGIR
+463,170:036, a-na m.GAL.DINGIR ù m.ÌR.d.URAß, m.GAL.DINGIR, m.GAL.DINGIR, m.GAL.DINGIR, m.GAL.DINGIR, m.GAL.DINGIR, m.GAL.DINGIR
+464,170:036, a-na m.GAL.DINGIR ù m.ÌR.d.URAß, m.ÌR.d.URAß, m.ÌR.d.URAŠ, m.ÌR.d.URAŠ, m.ÌR.d.URAŠ, m.ÌR.d.URAŠ, m.ÌR.d.URAŠ
+465,170:037, a-na m.DUMU-a-na ù m.GAL-cí-id-qí, m.DUMU-a-na, m.DUMU-a-na, m.DUMU-a-na, m.DUMU-a-na, m.DUMU-a-na, m.DUMU-a-na
+466,170:037, a-na m.DUMU-a-na ù m.GAL-cí-id-qí, m.GAL-cí-id-qí, m.GAL-cí-id-qí, m.GAL-cí-id-qí, m.GAL-cí-id-qí, m.GAL-cí-id-qí, m.GAL-cí-id-qí
+467,170:038, um-ma m.a-mur-d.IßKUR, m.a-mur-d.IßKUR, m.a-mur-d.IŠKUR, m.a-mur-d.IŠKUR, m.a-mur-d.IŠKUR, m.a-mur-d.IŠKUR, m.a-mur-d.IŠKUR
+468,170:043, dan-ní$ $ul-mu ù a-na m.a-na-ti, m.a-na-ti, m.a-na-ti, m.a-na-ti, m.a-na-ti, m.a-na-ti, m.a-na-ti
+469,171:005, [ù m.ia-]an-ha-mu la ú-wa-a$-$ar-an-ni, m.ia-]an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+470,171:007, [a?-na?] LUGAL be-lí-i[a ù?       -$u?-n]u? m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+471,171:011, [i$-t]u ßU-ti m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+472,171:013, {$a} LU[G]AL >d.< d.UTU be-lí-ia ù m.ia-an-ha-mu la ú-wa-a$-$i-ra-an-ni, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+473,171:022, $a-ni-tam be-lí [                m.ia-a]n-ha-mu, m.ia-a]n-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+474,171:028, [         a?-]{na?}-ku a-na [            m.?ia?-an?-h]a?-mu, m., m., m., m., m., m.
+475,174:011, ù a-li-uk m.e[-tá-kà-m]a, m.e[-tá-kà-m]a, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma
+476,175:009, ù a-li-uk m.e[-tá-kà-m]a, m.e[-tá-kà-m]a, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma
+477,176:009, ù a-li-uk m.e-tá-[kà-ma], m.e-tá-[kà-ma], m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma, m.e-tá-kà-ma
+478,177:002, um-ma m.yu-mi-ú-ta LÚ KUR gud-da-$u-na, m.yu-mi-ú-ta, m.yu-mi-ú-ta, m.yu-mi-ú-ta, m.yu-mi-ú-ta, m.yu-mi-ú-ta, m.yu-mi-ú-ta
+479,180:004, m.DUMU-ia u$-$i-ir[-t]i7-[$u a-na], m.DUMU-ia, m.DUMU-ia, m.DUMU-ia, m.DUMU-ia, m.DUMU-ia, m.DUMU-ia
+480,180:008, it-ti m.DUMU-ia ù te-na-ca-ru, m.DUMU-ia, m.DUMU-ia, m.DUMU-ia, m.DUMU-ia, m.DUMU-ia, m.DUMU-ia
+481,182:001, [a-na m.LUGAL] EN-i[a DINGIR-ia d.]UTU-ia, m.LUGAL], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+482,185:005, [m.]L[UGAL]-ri EN-ia DINGIR-ia d.UTU-i[a], [m.]L[UGAL]-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+483,185:007, [m.LUGAL-r]i E[N]-i[a] DINGIR-ia d.UTU-ia, [m.LUGAL-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+484,185:009, [ú l]i-{i}-d[e4] m.LUGAL-ru EN-ia, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+485,185:011, m.a-ma-an-ha-at-pí LÚ URU tu-$u-ul-ti.KI, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+486,185:012, UGU [U]RU.DIDLI.HÁ.KI m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+487,185:015, URU.DIDLI.HÁ.KI m.LUGAL-ri EN-ia DINGIR-ia d.UTU-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+488,185:017, URU ma-ah-zi-i[b]-ti.KI URU.KI m.LUG[AL-r]i EN-ia, m.LUG[AL-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+489,185:020, m.a-ma-a[n-ha-at-p]é i-ri-bu-ni LÚ.SA.GAZ.MEß, m.a-ma-a[n-ha-at-p]é, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+490,185:022, URU gi-l[u-ni].KI URU.KI m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+491,185:026, ù a-na ma-har m.a-ma-an-ha-at-pé i-<ri>-bu-mi, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+492,185:030, [m.]L[UGAL]-ri EN-ia DINGIR-iad.UTU-i[a], [m.]L[UGAL]-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+493,185:035, ù a-na mu-h[i] m.a-ma-[an-h]a-at-pé, m.a-ma-[an-h]a-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+494,185:037, ù URU u$-te[K]I [U]RU[KI m.]LUGAL-ri EN-ia, m.]LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+495,185:040, ma-har m.a-ma-an-ha-a[t-pé] i-ri-bu-na, m.a-ma-an-ha-a[t-pé], m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+496,185:044, m.LUGAL-ri EN-ia ù ni-pu-u$-mi, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+497,185:047, 40 LÚ SA.GAZ.MEß a-na mu-[h]i m.[a-ma-an-ha-]at-pí, m.[a-ma-an-ha-]at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+498,185:049, ù LÚ SA.GA[Z m.a-ma-a]n-ha-at-pí, m.a-ma-a]n-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+499,185:051, LÚ SA.GA[Z.MEß i]t-ti m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+500,185:054, a-n[a m]a-h[ar] m.a-[m]a-an-ha-at-pí ù, m.a-[m]a-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+501,185:055, ti-[i]q-bu-mi [ßE]ß.MEß-ia a-na m.a-ma-[a]n-ha-at-pí, m.a-ma-[a]n-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+502,185:057, m.LUGAL-[r]i be-li-nu [ni-]$a-al-$u-nu-mi, m.LUGAL-[r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+503,185:059, pu-ha-a[t i]-ca-ba-tu URU.DIDLI.HÁ.KI m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+504,185:064, [ù] a-mu-ur-m[i] m.a-ma-an-ha-at-pé LÚ $a-ru, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+505,185:066, [m.]LUGAL-r[u] EN-ia im-ru-[u]r-mi, [m.]LUGAL-r[u], m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+506,185:067, i$-tu $a[-$]u la-a i-qa-al m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+507,185:068, EN-ia ba-lu ${a}-a-al m.a-[m]a-an-ha-at-pí, m.a-[m]a-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pí, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+508,185:071, a-na [K]UR ki-ti m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+509,185:072, ù [$]a-a-l[u-mi m.LUGAL]-ru E[N]-ia, m.LUGAL]-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+510,185:073, m.a-ma-an-ha-a[t-pé L]Ú $a-ra, m.a-ma-an-ha-a[t-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+511,185:076,                       m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+512,186:004, [_ _ _ _ m.LUGAL-ri BE-ia DINGIR-ia] d.UTU-[ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+513,186:006, [a-mu-ur]-mi a-n[a-ku Ì]R k[i-ti m.LUGAL-ri] BE-ia, m.LUGAL-ri], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+514,186:007, [DINGIR-ia] d.UTU-ia ù i-r[i]-du[ m.]L[UGA]L-ra, m.]L[UGA]L-ra, m.LUGAL-ra, m.LUGAL-ra, m.LUGAL-ma, m.LUGAL-ri, m.LUGAL-ri
+515,186:009, [ÌR.ME]ß [k]i-[ti m.LUGAL-ri BE-i]a DINGIR-ia d.UTU-[i]a, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+516,186:011, m.LUGAL-ri B[E-ia d.UTU-]ia DINGIR-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+517,186:012, ù a-m[u-u]r-m[i m.a-ma]-an-ha-a[t-p]é, m.a-ma]-an-ha-a[t-p]é, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+518,186:015, [k]i-[t]i m.L[UGAL-r]i B[E-li-ia DINGIR-ia d.]UTU-ia, m.L[UGAL-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+519,186:017, [i-$ar-ra-pu-$i ù a-na ma-ha]r m.[a-ma-an-]ha-a[t]-pé, m.[a-ma-an-]ha-a[t]-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+520,186:019, [ù m.a-ma-an-ha-at-pé LÚ URU tu-$u-u]l-ti.[K]I, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+521,186:022, m.[LUGAL-ri BE-ia DING]IR-[ia d.UTU-ia i]-c[a-b]a-t[u-m]i, m.[LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+522,186:025, ù [a-na ma-h]ar m.a[-ma-an-ha-at-pé] LÚ URU t[u-$al-ti.KI], m.a[-ma-an-ha-at-pé], m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+523,186:026, i-ri-[bu-]na ù  [m.a-ma-an-ha-at-p]é LÚ URU t[u-$al-ti.KI], [m.a-ma-an-ha-at-p]é, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+524,186:029, m.LUGAL-ri BE[-ia] DINGIR-i[a d.URU-ia ]i-ca-ba-[tu-mi], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+525,186:031, i-na IZ[I   ù a-na ma-h]ar m.[a-ma-an-ha-at-pé], m.[a-ma-an-ha-at-pé], m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+526,186:033, ù m.[a-ma-an-ha-at-p]é [L]Ú [URU tu-$al-ti.KI], m.[a-ma-an-ha-at-p]é, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+527,186:036, [m.LUGAL-ri BE-ia DINGIR-ia d.UTU-ia i-ca-ba-tu-mi], [m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+528,186:039, [ù a-n]a [ma-har m.a-ma-an-ha-at-pé], m.a-ma-an-ha-at-pé], m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+529,186:041, [ù m.]a[-m]a-an[-ha-at-pé LÚ URU tu-$al-ti.KI], m.]a[-m]a-an[-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+530,186:045, m.LUGAL-ri BE-ia DINGIR-ia d.[UT]U-[ia ù], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+531,186:046, i[-du-k]u-mi/ i-[pu-$]u-mi LÚ ÌR.MEß ki-ti[ m.LUGAL-ri], m.LUGAL-ri], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+532,186:049, m.LUGAL-[ri] BE-ia DINGIR-ia d.UTU-i[a ù], m.LUGAL-[ri], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+533,186:051, LÚ SA.G[AZ.]MEß a-na ma-har m.a[-ma-an-ha-at-pé], m.a[-ma-an-ha-at-pé], m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+534,186:054, it-t[i m.a-ma-an-ha-at-p]é LÚ URU tu-[$al-ti].K[I], m.a-ma-an-ha-at-p]é, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+535,186:056, ù [D]UMU[.MEß-i]a Ì[R].MEß m.LUGAL-ri BE-ia DINGIR-i[a d.UT]U-i[a ], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+536,186:057, ti-[ri-bu] a-na ma-har m.a-m[a-a]n-ha-at-pé L[Ú URU t]u-$al-ti, m.a-m[a-a]n-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé, m.a-ma-an-ha-at-pé
+537,186:058, [ù t]i-iq-bu-mi a-na m.a[-m]a-[a]n-[a]t-ha-pé [id-na-mi], m.a[-m]a-[a]n-[a]t-ha-pé, m.a-ma-an-at-ha-pé, m.a-ma-an-at-ha-pé, m.a-ma-an-at-ha-pé, m.a-ma-an-at-ha-pé, m.a-ma-an-at-ha-pé
+538,186:059, LÚ [SA.]GAZ.MEß LÚ $a-r[i.ME]ß $a m.LUGAL-ri[ BE-i]a, m.LUGAL-ri[, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+539,186:061, [i-ca-]ba-tu-mi [UR]U.DIDLI.HÁ.MEß.KI m.LUGAL-ri BE-i[a], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+540,186:063, [URU.KI m.LUGAL-r]i BE-ia DINGIR-ia d.UTU-ia, m.LUGAL-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+541,186:071, [_ _ a-na m.LUGAL-ri ]BE-ia DINGIR-i[a d.]UT[U-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+542,186:077, ia-r[i]-im [U]G[U m.LUGAL BE-ia], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+543,186:081, [m.LUGAL-ri BE-ia DI]NGIR-ia d.U[TU-i]a, [m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+544,186:083, [a-na m.LUGAL-ri BE-i]a DINGIR-ia d.UTU-i[a], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+545,187:005, [GÌ]R.MEß-pí m.LUGAL-ri BE-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+546,187:010, m.LUGAL-ri BE-ia DINGIR-ia d.[UTU-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+547,189:002, um-ma m.e-ták-ka-ma ÌR-ka, m.e-ták-ka-ma, m.e-ták-ka-ma, m.e-ták-ka-ma, m.e-ták-ka-ma, m.e-ták-ka-ma, m.e-tá-kà-ma
+548,189:006, ù yi-la-mu-nu-ni m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+549,189:017, m.pu-hu-ri li-di-me, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri
+550,189:018, LÚ GA[L] m.p[u]-hu-ru i-nu-ma[, m.p[u]-hu-ru, m.pu-hu-ru, m.pu-hu-ru, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri
+551,189:R02, [m.b]ir5-ia-wa-za ki-na-an-n[a], [m.b]ir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+552,189:R09, ù a-mur-mì m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+553,189:R25, ú-$a-ah-li-iq m.bir5-ia-wa-za [pa-nu-$u], m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+554,190:002, [uc-cur-mi m.p]u-hu-ri LÚ r[a-bi-i], m.p]u-hu-ri, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri
+555,191:001, a-n[a] m.LUGAL-ma EN-ia, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ri, m.LUGAL-ri
+556,191:002, um-ma m.ar-sà-wu-ya LÚ URU r[u]-hi-za, m.ar-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya
+557,192:004, [m.a]r-sà-wu-ya ÌR ki-it-ti, [m.a]r-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya, m.ar-sà-wu-ya
+558,193:001, a-na m.LUGAL-ma EN-ia, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ri, m.LUGAL-ri
+559,193:002, um-ma m.ti4-wa-te, m.ti4-wa-te, m.ti4-wa-te, m.ti4-wa-te, m.ti4-wa-te, m.ti4-wa-te, m.ti4-wa-te
+560,194:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+561,194:002, um-ma m.bir5-ia-wa-za ÌR-k[a ], m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+562,194:003, a-na GÌR.MEß-pí m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+563,194:007, m.LUGAL-ri i$-tu, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+564,194:009, m.$u-tar-na a-bi-ia, m.$u-tar-na, m.šu-tar-na, m.šu-tar-na, m.šu-tar-na, m.šu-tar-na, m.šu-tar-na
+565,194:010, ki-ma m.ha[$-x]-tar [a-bi [a-bi-ia], m.ha[$-x]-tar, m.haš-x-tar, m.haš-x-tar, m.haš-x-tar, m.haš-x-tar, m.haš-x-tar
+566,195:001, a-na m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+567,195:004, um-ma m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+568,195:011, a-na GÌR.MEß m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+569,195:032, m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+570,196:002, [um-ma m.bir5-i]a-w[a-z]a  Ì[R-ka ], m.bir5-i]a-w[a-z]a, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+571,196:041, [yi-]pa-a$ m.bi-ri-da-a$-wa, m.bi-ri-da-a$-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa
+572,197:007, yi-mur-ma m.bi-ri-da-a$-wa ip-$a an-na, m.bi-ri-da-a$-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa
+573,197:015, nu-kúr-ta it-ti m.bi-ri-da-a$-wa, m.bi-ri-da-a$-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa
+574,197:017, al-ka-am-mi nu-du-uk m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+575,197:026, a-na-ku ù yi-la-ak m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya
+576,197:028, ERÍN.MEß m.a-zi-[ri ù yi!]-ic-ba-at, m.a-zi-[ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri, m.a-zi-ri
+577,197:031, a-na LUGAL EN-ia ù a-mur m.i-ta-at-ka-ma, m.i-ta-at-ka-ma, m.i-ta-at-ka-ma, m.i-ta-at-ka-ma, m.i-ta-at-ka-ma, m.i-ta-at-ka-ma, m.i-ta-at-ka-ma
+578,197:033, m.ar-za-wi-ya qa-du m.bi-ri-da-a$-wa, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya, m.ar-za-wi-ya
+579,197:033, m.ar-za-wi-ya qa-du m.bi-ri-da-a$-wa, m.bi-ri-da-a$-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa, m.bi-ri-da-aš-wa
+580,198:004, um-ma m.a-ra-{ah}(?)-[a]t-ta5/m.a-ra-[a$?-$]a?, m.a-ra-{ah}, m.a-ra-ah, m.a-ra-ah, m.a-ra-ah, m.a-ra-ah, m.a-ra-ah
+581,198:015, LUGAL EN-ia m.ha-ma-a$-s[a], m.ha-ma-a$-s[a], m.ha-ma-aš-sa, m.ha-ma-aš-sa, m.ha-ma-aš-sa, m.ha-ma-aš-sa, m.ha-ma-aš-sa
+582,200:004, [um-m]a m.ÌR.MEß[-ka], m.ÌR.MEß[-ka], m.ÌR.MEŠ-ka, m.ÌR.MEŠ-ka, m.ÌR.MEŠ-ka, m.ÌR.MEŠ-ka, m.ÌR.MEŠ-ka
+583,201:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+584,201:003, um-ma m.ar-ta-ma-an-ya, m.ar-ta-ma-an-ya, m.ar-ta-ma-an-ya, m.ar-ta-ma-an-ya, m.ar-ta-ma-an-ya, m.ar-ta-ma-an-ya, m.ar-ta-ma-an-ya
+585,201:004, m.LÚ cí-ri-ba-$a-ni, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ
+586,201:006, m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+587,201:023, yi-qa-bu m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+588,202:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+589,202:003, um-ma m.a-ma-ya-$e, m.a-ma-ya-$e, m.a-ma-ya-še, m.a-ma-ya-še, m.a-ma-ya-še, m.a-ma-ya-še, m.a-ma-ya-še
+590,202:005, m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+591,203:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+592,203:003, um-ma m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL, m.ÌR-LUGAL
+593,203:006, m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+594,203:017, $a m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+595,204:001, a-na m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+596,204:004, um-ma m.LÚ URU qa-nu-ú, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ
+597,204:006, m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+598,204:018, ÉRIN.MEß m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+599,205:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+600,205:003, um-ma m.LÚ URU µù-bu, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ
+601,205:005, m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+602,205:017, $a m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+603,206:001, a-na m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+604,206:004, um-ma m.LÚ URU na-zi-ba, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ, m.LÚ
+605,206:006, m.LUGAL be-li-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+606,207:002, [qí-]b[i]-ma <um-ma> m.ip-te[_ _ _ ÌR-]ka, m.ip-te[_, m.ip-te_, m.ip-te_, m.ip-te_, m.ip-te_, m.ip-te_
+607,207:015, [m.b]i-z[u _ ]_ _, [m.b]i-z[u, m.bi-zu, m.bi-zu, m.bi-zu, m.bi-zu, m.bi-zu
+608,207:017, [a]l-{lu}-mi m.pu-hu-ur, m.pu-hu-ur, m.pu-hu-ur, m.pu-hu-ur, m.pu-hu-ur, m.pu-hu-ur, m.pu-hu-ri
+609,208:011, m.pu-hu-ru $a-al-$u, m.pu-hu-ru, m.pu-hu-ru, m.pu-hu-ru, m.pu-hu-ri, m.pu-hu-ri, m.pu-hu-ri
+610,210:001, [a-na m._ -í]p-hu-ri[, m._, m._, m., m., m., m.
+611,210:003, [um-ma m.]zi-$a-mi[-mi], m.]zi-$a-mi[-mi], m.zi-ša-mi-mi, m.zi-ša-mi-mi, m.zi-ša-mi-mi, m.zi-ša-mi-mi, m.zi-ša-mi-mi
+612,211:003, um-ma m.zi-[i]t-ri-ya-r[a], m.zi-[i]t-ri-ya-r[a], m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra
+613,212:002, um-ma m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra
+614,213:001, a-na m.LUGAL EN-ia d.UTU-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+615,213:003, um-ma m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra
+616,213:006, a-na GÌR.MEß m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+617,213:010, i$-te-mi $a-par m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+618,213:014, [$]a qa-be m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+619,214:003, [m. _ _ _ ÌR-ka], [m., m., m., m., m., m.
+620,214:011, [m.z]i-it-r[a]-y[a-ra ], [m.z]i-it-r[a]-y[a-ra, m.zi-it-ra-ya-ra, m.zi-it-ra-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra, m.zi-it-ri-ya-ra
+621,214:031, a-wa-ti.MEß m.LUGAL[-ri, m.LUGAL[-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+622,215:003, um-ma m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa
+623,215:010, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+624,216:001, a-n[a m.]L[UG]AL-ri EN-ia, m.]L[UG]AL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+625,216:003, um-ma m.b[a]-ia-wa ÌR-ka, m.b[a]-ia-wa, m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa, m.ba-ia-wa
+626,216:013, [a-n]a a-wa-ti m.ma-ia, m.ma-ia, m.ma-ia, m.ma-ia, m.ma-ia, m.ma-ia, m.ma-ia
+627,217:003, um-ma m.a[h-, m.a[h-, m.ah-, m.ah-, m.ah-, m.ah-, m.ah-
+628,217:016, m.[m]a-y[a] L[Ú MAßKIM], m.[m]a-y[a], m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya
+629,217:022, a-na m.ma-ya $u-nu ti-[, m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya
+630,218:003, [um-ma m. [, m., m., m., m., m., m.
+631,218:014, m.ma-ya [m]a-gal [m]a-[gal], m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya, m.ma-ya
+632,220:001, a-na m.LUGAL EN-ia[d.UTU-ia], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+633,220:003, um-ma m.KÚR-ur-tu-ya  L[Ú U]R[U z]u-nu, m.KÚR-ur-tu-ya, m.KÚR-ur-tu-ya, m.KÚR-ur-tu-ya, m.KÚR-ur-tu-ya, m.KÚR-ur-tu-ya, m.KÚR-ur-tu-ya
+634,221:004, um-ma m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú
+635,222:001, a-na m.LU[G]AL-[ri  EN-ia], m.LU[G]AL-[ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+636,222:003, um-ma m.wi-ik[-ta-sú      ], m.wi-ik[-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú, m.wi-ik-ta-sú
+637,223:001, a-na m.L[UGAL-r]i EN-ia d.UTU, m.L[UGAL-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+638,223:004, um-ma m.en-[d]a[r]-ú[-t]a ÌR-ka, m.en-[d]a[r]-ú[-t]a, m.en-dar-ú-ta, m.en-dar-ú-ta, m.en-dar-ú-ta, m.en-dar-ú-ta, m.en-dar-ú-ta
+639,224:001, a-na m.LU[GA]L [E]N[-ia d.UTU-]ia, m.LU[GA]L, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+640,224:003, um-ma m.$um-ad-d[a] Ì[R $]a LUGAL EN-ia, m.$um-ad-d[a], m.šum-ad-da, m.šum-ad-da, m.šum-ad-da, m.šum-ad-da, m.šum-ad-da
+641,224:017, m.ku-sú-na, m.ku-sú-na, m.ku-sú-na, m.ku-sú-na, m.ku-sú-na, m.ku-sú-na, m.ku-sú-na
+642,225:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+643,225:003, m.$a-mu-adda LÚ-lim, m.$a-mu-adda, m.ša-mu-adda, m.ša-mu-adda, m.ša-mu-adda, m.ša-mu-adda, m.ša-mu-adda
+644,225:005, a-na GÌR m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia
+645,225:011, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia, m.LUGAL-ri-ia
+646,226:001, a-n[a m.]LU[GA]L-ri  E[N-ia ], m.]LU[GA]L-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+647,226:003, m.$i-ip-tu-ri-c[a  ÌR-ka], m.$i-ip-tu-ri-c[a, m.ši-ip-tu-ri-ca, m.ši-ip-tu-ri-ca, m.ši-ip-tu-ri-ca, m.ši-ip-tu-ri-ca, m.ši-ip-tu-ri-ca
+648,226:021, m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+649,227:016, [m.ha-n]i DUMU $i-íp-ri-ka, [m.ha-n]i, m.ha-ni, m.ha-ni, m.ha-ni, m.ha-ni, m.ha-ni
+650,228:001, [a]-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+651,228:003, um-ma m.Ì[R]-tir-$i, m.Ì[R]-tir-$i, m.ÌR-tir-ši, m.ÌR-tir-ši, m.ÌR-tir-ši, m.ÌR-tir-ši, m.ÌR-tir-ši
+652,228:006, m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+653,228:008, a-na GÌR.HÁ-pí m.LUGAL-ri  EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+654,228:012, m.LUGAL-ri EN-ia ù, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+655,228:017, [a-n]a m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+656,228:020, m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+657,229:001, a-na m.LUGAL EN-ia d.[UTU-ia], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+658,229:003, um-ma m.abdi-na-[, m.abdi-na-[, m.abdi-na-, m.abdi-na-, m.abdi-na-, m.abdi-na-, m.abdi-na-
+659,230:001, a-na m.LUGAL BE-ia qí-bi, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+660,230:002, um-ma m.ia-ma ÌR-ka, m.ia-ma, m.ia-ma, m.ia-ma, m.ia-ma, m.ia-ma, m.ia-ma
+661,231:004, [um-ma m.[, m.[, m., m., m., m., m.
+662,232:003, um-ma m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+663,233:001, a-na m.LUGAL-r[i  EN-i]a, m.LUGAL-r[i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+664,233:004, um-ma m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na
+665,234:001, a-na m.LUGAL-ri EN-i[a], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+666,234:003, um-ma m.sá-ta-at-na LÚ URU ak-ka.KI, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na
+667,234:004, ÌR-ka ÌR m.LUGAL-ri ù, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+668,234:011, a-wa-at ÌR-$u [m.zi-ir]-dam-ia[-a]$-da, [m.zi-ir]-dam-ia[-a]$-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da
+669,234:013, [m.b]ir5-ia-wa-za i[-ba-$u], [m.b]ir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+670,234:014, it-ti m.$u-ta Ì[R], m.$u-ta, m.šu-ta, m.šu-ta, m.šu-ta, m.šu-ta, m.šu-ta
+671,234:023, ia-a$-pu-ra m.$u-ta, m.$u-ta, m.šu-ta, m.šu-ta, m.šu-ta, m.šu-ta, m.šu-ta
+672,234:025, m.zi-ir-dam-ia-a$-da, m.zi-ir-dam-ia-a$-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da, m.zi-ir-dam-ia-aš-da
+673,234:026, a-na m.bir5-ia-wa-za ù la-a, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+674,234:033, [m.$u-t]a UGU-ia ù lu-ú, [m.$u-t]a, m.šu-ta, m.šu-ta, m.šu-ta, m.šu-ta, m.šu-ta
+675,235:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+676,235:005, um-ma m.sí-ta-at-na ÌR-ka, m.sí-ta-at-na, m.sí-ta-at-na, m.sí-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na
+677,235:007, m.LUGAL-ri EN-ia d.UTU-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+678,237:002, [i]l5-te9-qú-ú m.la-a[b-a-ya], m.la-a[b-a-ya], m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+679,237:004, $a m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+680,237:006, $a m.LUGAL EN-ia $a [NU/TAR?]-i[d], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+681,237:007, m. LUGAL-ru  EN-ia i-na qà-t[i-ia], m., m., m., m., m., m.
+682,237:010, m.LUGAL-ru EN-ia, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+683,237:012, [U]RU.DIDLI.HÁ $[a] m.LUGAL.EN-i[a], m.LUGAL.EN-i[a], m.LUGAL.EN-ia, m.LUGAL.EN-ia, m.LUGAL.EN-ia, m.LUGAL.EN-ia, m.LUGAL.EN-ia
+684,237:017, LÚ ha-za-an $a m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+685,238:001, [a-na m.]LÚ.GAL EN[-ia ], m.]LÚ.GAL, m.LÚ.GAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+686,238:002, [um-m]a m.ba-ya-di ÌR[-ka ], m.ba-ya-di, m.ba-ya-di, m.ba-ya-di, m.ba-ya-di, m.ba-ya-di, m.ba-ya-di
+687,238:023, ù DUMU m.s[á-t[a-at-na], m.s[á-t[a-at-na], m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na, m.sá-ta-at-na
+688,238:024, ù m.ha-gu-r[u, m.ha-gu-r[u, m.ha-gu-ru, m.ha-gu-ru, m.ha-gu-ru, m.ha-gu-ru, m.ha-gu-ru
+689,239:001, [a-na m.]LUGAL-[ri], m.]LUGAL-[ri], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+690,239:003, um-ma m.pá-du-za-n[a Ì]R-ka, m.pá-du-za-n[a, m.pá-du-za-na, m.pá-du-za-na, m.pá-du-za-na, m.pá-du-za-na, m.pá-du-za-na
+691,239:005, m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+692,239:016, m.LUGALru, m.LUGALru, m.LUGALru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+693,241:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+694,241:003, um-ma m.ru-uc-ma-an-ia, m.ru-uc-ma-an-ia, m.ru-uc-ma-an-ia, m.ru-uc-ma-an-ia, m.ru-uc-ma-an-ia, m.ru-uc-ma-an-ia, m.ru-uc-ma-an-ia
+695,242:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+696,242:003, um-ma m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya
+697,243:003, um-ma m.bi-ri-di[-ya], m.bi-ri-di[-ya], m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya
+698,244:003, um-ma m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya
+699,244:011, i-te9-pu-u$-mì m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+700,244:017, i$-tu pa-ni m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+701,244:029, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+702,244:038, m.la-ab-a-ya $um-ma-mì, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+703,244:041,      m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+704,245:006, m.la-ab-a-ia ù TIL.LA-nu-um-ma \ ha-ia-ma, m.la-ab-a-ia, m.la-ab-a-ia, m.la-ab-a-ia, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+705,245:012, it-ti m.ya-a$-da-ta, m.ya-a$-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta
+706,245:015, ù al-lu-ú-mì m.ya-a$-da-ta, m.ya-a$-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta
+707,245:024, ù m.sú-ra-t[a], m.sú-ra-t[a], m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+708,245:025, yi-il5-qé-mì m.la-[ab-a-ia], m.la-[ab-a-ia], m.la-ab-a-ia, m.la-ab-a-ia, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+709,245:031, m.sú-ra-ta ù yu-ta-$ar-$u, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+710,245:033, a-na É-$u ù m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+711,245:041, ù m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+712,245:043, m.la-ab-a-ia ù m.sú-ra-ta, m.la-ab-a-ia, m.la-ab-a-ia, m.la-ab-a-ia, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+713,245:043, m.la-ab-a-ia ù m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+714,245:044, yu-ta-$ir9-mì m.d.IßKUR(ba@lu)-me-her, m.d.IßKUR, m.d.IŠKUR, m.d.IŠKUR, m.d.IŠKUR, m.d.IŠKUR, m.d.IŠKUR
+715,246:003, [u]m-ma m.bi-ri-di-d.ya, m.bi-ri-di-d.ya, m.bi-ri-di-d.ya, m.bi-ri-di-d.ya, m.bi-ri-di-d.ya, m.bi-ri-di-ya, m.bi-ri-di-ya
+716,246:R06, m.la-ab-a-ya ti7-id-[di]n-na, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+717,248:001, [a-na ]m.LUGAL-ri EN-ia, ]m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+718,248:003, qí-bí-ma um-ma m.ya-a[$-d]a-ta, m.ya-a[$-d]a-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta, m.ya-aš-da-ta
+719,248:019, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya
+720,249:001, [a-na] m.LUGAL-ri be-l[í-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+721,249:002, [qí-b]i-ma um-ma m.d.I[M/ba@l[u.UR.SAG], m.d.I[M, m.d.IM, m.d.IM, m.d.IM, m.d.IM, m.d.IM
+722,249:005, ù lí-di i-nu-ma te-la-ku-na _ _ ia-tú/L[Ú.MEß-i]a UD?/ala:ku m.mi[-ìl-ki-lí], m.mi[-ìl-ki-lí], m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí
+723,249:006, mi-na ip-$a-ti7 a-na m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí, m.mi-ìl-ki-lí
+724,249:008, UGU ÌR.MEß-$u a-na m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi
+725,249:016, [_ _ -t]ú-mi m.mil-ki-lu, m.mil-ki-lu, m.mil-ki-lu, m.mil-ki-lu, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+726,249:017, [ù m.la-a]b-a-ya ù, m.la-a]b-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+727,249:020, [LUGAL be-lí-ia m.ia-an-ha]-m[e], m.ia-an-ha]-m[e], m.ia-an-ha-me, m.ia-an-ha-me, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+728,249:029, [i]-d[i m.la-ab-a-ya ]ù, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+729,249:030, m.m[i]l[-ki-lu       ], m.m[i]l[-ki-lu, m.mil-ki-lu, m.mil-ki-lu, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+730,250:001, [a-n]a m.LUGAL EN-ia qí-bí-ma, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+731,250:002, um-ma m.d.IM-UR.SAG ÌR-ka-ma, m.d.IM-UR.SAG, m.d.IM-UR.SAG, m.d.IM-UR.SAG, m.d.IM-UR.SAG, m.d.IM-UR.SAG, m.d.IM-UR.SAG
+732,250:006, 2 DUMU m.la-ab-a[-y]a pa-ni-$u-ni, m.la-ab-a[-y]a, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+733,250:014, $a la-qí-mi m.la-ab-a-ya LÚ a-bu-nu, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+734,250:024, 1-en LÚ.MEß GAL-$u a-na m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za, m.bir5-ia-wa-za
+735,250:032, [$u?-r]i-[b]a m.mil-ki-lì, m.mil-ki-lì, m.mil-ki-lì, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+736,250:036, m.mi[l-ki]-l[ì] a-na [ -$u-r]i-ib 2 DUMU la-ab-a-ya, m.mi[l-ki]-l[ì], m.mil-ki-lì, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+737,250:039, $a hu(!)-lí-[i]q m.mi[l-k]i-lum(!) ù m.la-ab-a-y[a], m.mi[l-k]i-lum, m.mil-ki-lum, m.mil-ki-lum, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+738,250:039, $a hu(!)-lí-[i]q m.mi[l-k]i-lum(!) ù m.la-ab-a-y[a], m.la-ab-a-y[a], m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+739,250:054, m.mil-ki-lì i$-t[u4 ]mu-hi 2 DUMU la-ab-a-y[a], m.mil-ki-lì, m.mil-ki-lì, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+740,250:056, KUR LUGAL EN-ia yu-ba-á@-ú m.m[i]l-[k]i-l[í], m.m[i]l-[k]i-l[í], m.mil-ki-lí, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+741,252:001, a-na m.LUGAL-ma bi-lí-ia, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ri, m.LUGAL-ri
+742,252:003, um-ma m.la-ab-a-ya ÌR-ka, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+743,252:015, i-na pa-ni m.LUGAL-ma be-lí-ia, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ma, m.LUGAL-ri, m.LUGAL-ri
+744,253:001, [a-na m.LUG]AL-r[i  EN-ia ]ù, m.LUG]AL-r[i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+745,253:002, [d.UTU-]ia um-ma [m.la-]ab -a-ya, [m.la-]ab, m.la-ab, m.la-ab, m.la-ab, m.la-ab, m.la-ab
+746,254:027, m.mil-ki-lì a-yí-ka-am, m.mil-ki-lì, m.mil-ki-lì, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+747,254:029, m.mil-ki-li UGU-ia, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+748,254:031, a-na m.DUMU.MU-ia $a-pár LUGAL-ru, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia
+749,254:033, m.DUMU.MU-ia it-ti, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia, m.DUMU.MU-ia
+750,254:037, i-na ßU m.ad-da[i]a, m.ad-da[i]a, m.ad-daia, m.ad-da-ia, m.ad-da-ia, m.ad-da-ia, m.ad-da-ia
+751,255:003, um-ma m.mu-ut-ba-á@-l[u4], m.mu-ut-ba-á, m.mu-ut-ba-á, m.mu-ut-ba-á, m.mu-ut-ba-á, m.mu-ut-ba-á, m.mu-ut-ba-á
+752,255:008, LUGAL EN-li $a-pár a-na mu-hi-[i]a m.ha-a-ia, m.ha-a-ia, m.ha-a-ia, m.ha-a-ia, m.ha-a-ia, m.ha-a-ia, m.ha-a-i
+753,255:015, m.[la-a]b-a-ia a-bi-ia, m.[la-a]b-a-ia, m.la-ab-a-ia, m.la-ab-a-ia, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+754,256:001, a-na m.ia-na-ha-me EN-ia, m.ia-na-ha-me, m.ia-na-ha-me, m.ia-na-ha-me, m.ia-na-ha-me, m.ia-na-ha-me, m.ia-na-ha-me
+755,256:002, qí-bí-ma um-ma m.mu-ut-d.IM, m.mu-ut-d.IM, m.mu-ut-d.IM, m.mu-ut-d.IM, m.mu-ut-d.IM, m.mu-ut-d.IM, m.mu-ut-d.IM
+756,256:005, i-na pa-ni-ka m.mu-ut-d.IßKUR-mì, m.mu-ut-d.IßKUR-mì, m.mu-ut-d.IŠKUR-mì, m.mu-ut-d.IŠKUR-mì, m.mu-ut-d.IŠKUR-mì, m.mu-ut-d.IŠKUR-mì, m.mu-ut-d.IŠKUR-mì
+757,256:006, in-né-bi-it  m.a-ia-ab, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab
+758,256:013, m.a-ia-ab i-na URU pí-hi-lì, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab, m.a-ia-ab
+759,256:015, al-lu-ú m.bé-in4-i15-lí-ma, m.bé-in4-i15-lí-ma, m.bé-in4-i15-lí-ma, m.bé-in4-i15-lí-ma, m.bé-in4-i15-lí-ma, m.bé-in4-i15-lí-ma, m.bé-in4-i15-lí-ma
+760,256:017, [m.]ta-du-a $a-al, [m.]ta-du-a, m.ta-du-a, m.ta-du-a, m.ta-du-a, m.ta-du-a, m.ta-du-a
+761,256:018, [a]l-lu-ú m.ya-$u-ia, m.ya-$u-ia, m.ya-šu-ia, m.ya-šu-ia, m.ya-šu-ia, m.ya-šu-ia, m.ya-šu-ia
+762,256:020, É $a m.DI.d.AMAR.UTU, m.DI.d.AMAR.UTU, m.DI.d.AMAR.UTU, m.DI.d.AMAR.UTU, m.DI.d.AMAR.UTU, m.DI.d.AMAR.UTU, m.DI.d.AMAR.UTU
+763,257:003, [um-m]a m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir
+764,257:017, ù li-di m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+765,258:002, um-ma m.d.IM-me-hír, m.d.IM-me-hír, m.d.IM-me-hír, m.d.IM-me-hír, m.d.IM-me-hír, m.d.IM-me-hír, m.d.IM-me-hír
+766,259:002, um-[m]a m.[d.IM-mi-h]i-i[r], m.[d.IM-mi-h]i-i[r], m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir, m.d.IM-mi-hi-ir
+767,260:002, m.ba-lu-mi-ir iq-bi, m.ba-lu-mi-ir, m.ba-lu-mi-ir, m.ba-lu-mi-ir, m.ba-lu-mi-ir, m.ba-lu-mi-ir, m.ba-lu-mi-ir
+768,261:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+769,261:003, um-ma m.da-a$-ru, m.da-a$-ru, m.da-aš-ru, m.da-aš-ru, m.da-aš-ru, m.da-aš-ru, m.da-aš-ru
+770,262:003, um-ma m.da-a$-ru, m.da-a$-ru, m.da-aš-ru, m.da-aš-ru, m.da-aš-ru, m.da-aš-ru, m.da-aš-ru
+771,263:021, i-na qa-ti m.p[a]-wu-ra, m.p[a]-wu-ra, m.pa-wu-ra, m.pa-wu-ra, m.pa-wu-ra, m.pa-wu-ra, m.pa-wu-ra
+772,263:033, [i-n]a m.ta-a-gi, m.ta-a-gi, m.ta-a-gi, m.ta-a-gi, m.ta-a-gi, m.ta-a-gi, m.ta-a-gi
+773,263:034, [ù} i-na m.la-ab-a-y[a], m.la-ab-a-y[a], m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+774,264:001, a-na m.LUGAL-ri EN-i[a], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+775,264:002, um-ma m.ta-gi ÌR-k[a    ], m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi
+776,264:003, a-na GÌR.MEß m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+777,264:005, a-mur-me a-na-ku ÌR $a m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+778,264:010, KASKAL.HÁ-ia a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+779,264:022, LÚ tap-pí-ia a-na m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+780,264:024, m.LUGAL-ru EN i-nu-ma ur-ru-du, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+781,264:025, m.LUGAL-ra ù i-na-ca-ru, m.LUGAL-ra, m.LUGAL-ra, m.LUGAL-ra, m.LUGAL-ma, m.LUGAL-ri, m.LUGAL-ri
+782,265:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+783,265:002, um-ma m.ta-gi ÌR-ka, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi
+784,265:003, a-na GÌR.MEß m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+785,265:006, p[a-n]i m.L[UGA]L-ri EN-ia, m.L[UGA]L-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+786,265:007, [ù u]$-$i-ir m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+787,265:009, i-na qa-at m.ta-ah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia
+788,265:011, [m.t]a-ah-ma-ya, [m.t]a-ah-ma-ya, m.ta-ah-ma-ya, m.ta-ah-ma-ya, m.ta-ah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia
+789,265:015, [m.LUGA]L EN-ia, [m.LUGA]L, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+790,266:001, [a-na] m.LUGAL E[N-ia], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+791,266:004, um-ma m.ta-a-g[i ÌR-ka], m.ta-a-g[i, m.ta-a-gi, m.ta-a-gi, m.ta-a-gi, m.ta-a-gi, m.ta-a-gi
+792,267:004, um-ma m.mil-ki-li ÌR-ka-ma, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+793,268:001, [a-na m.]LUG{AL} [E]N-ia DING[IR.MEß-i]a, m.]LUG{AL}, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+794,268:003, [um-]ma m.mil-ki-li ÌR-ka [-?], m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+795,268:017, [qa-a]t m.ha-y{a}[ _ ?], m.ha-y{a}[, m.ha-ya, m.ha-ya, m.ha-ya, m.ha-ya, m.ha-ya
+796,269:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+797,269:004, um-ma m.mil-ki-li ÌR-ka, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+798,270:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+799,270:004, um-ma m.mil-ki-li ÌR-ka, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+800,270:011, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+801,271:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+802,271:004, um-ma m.mil-ki-li ÌR-ka, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+803,271:012, ù UGU m.$u-wa-ar-da-ta, m.$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+804,271:025, m.{ia}-a[n-]ha-ma ÌR-$u, m.{ia}-a[n-]ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+805,272:001, [a]-na m.LUG[AL EN-ia DINGIR-ia], m.LUG[AL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+806,272:002, [um-m]a  m.$[u]m x [x x LÚ?] / m.x-na??-x-ha? [LÚ?], m.$[u]m, m.šum, m.šum, m.šum, m.šum, m.šum
+807,272:002, [um-m]a  m.$[u]m x [x x LÚ?] / m.x-na??-x-ha? [LÚ?], m.x-na, m.x-na, m.x-na, m.x-na, m.x-na, m.x-na
+808,273:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+809,273:004, um-ma f.NIN.UR.MAH.MEß, f.NIN.UR.MAH.MEß, f.NIN.UR.MAH.MEŠ, f.NIN.UR.MAH.MEŠ, f.NIN.UR.MAH.MEŠ, f.NIN.UR.MAH.MEŠ, f.NIN.UR.MAH.MEŠ
+810,273:024, m.mil-ki-li ù, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+811,274:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+812,274:004, um-ma f.NI[N]-U[R]. MAH.MEß, f.NI[N]-U[R]., f.NIN-UR., f.NIN-UR., f.NIN-UR., f.NIN-UR., f.NIN-UR.
+813,275:004, um-ma m.ia-[a]h-zi-ba-da, m.ia-[a]h-zi-ba-da, m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da
+814,276:004, um-ma m.[i]a-a[h-zi-ba-da], m.[i]a-a[h-zi-ba-da], m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da, m.ia-ah-zi-ba-da
+815,277:003, [um-ma m., m., m., m., m., m., m.
+816,278:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+817,278:004, um-ma m.$u-wa-ar-da-ta, m.$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+818,279:004, [u]{m}-{ma} m.$u-wa-ar-da-ta, m.$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+819,280:001, a-n[a m.]LUGAL EN-ia, m.]LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+820,280:004, um[-ma m.]$u-wa-ar-da-ta, m.]$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+821,280:017, i$-tap-pár m.ÌR-he-{ba}, m.ÌR-he-{ba}, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba
+822,280:023, URU.KI-ia m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba
+823,280:030, $a-ni-ta5 m.la-ab-a-yu, m.la-ab-a-yu, m.la-ab-a-yu, m.la-ab-a-yu, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+824,280:033, a-nu-ma m.la-ab-a-yu, m.la-ab-a-yu, m.la-ab-a-yu, m.la-ab-a-yu, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+825,280:034, ${a-nu} m.ÌR-he-ba ù, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba
+826,281:005, [u]m-ma m.{$}u-w[a-a]{r}-[da-t]a ÌR-ka-ma, m.{$}u-w[a-a]{r}-[da-t]a, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+827,281:012, m.LUGAL-ri {E}N-{i}a [ÉR]IN.MEß pí-µá-ta, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+828,281:019, [m.]{LUGAL}-ri EN-[ia], [m.]{LUGAL}-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+829,281:022, [m.]{LU}GAL {yi}-[de x n]u-KÚR.M[Eß], [m.]{LU}GAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+830,281:024, [y]{i}-pu-$u [ar-na] a-na m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+831,281:031, m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+832,282:003, um-ma m.$u-wa-ar-da-ta ÌR-<ka>-ma, m.$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+833,282:005, a-na GÌR.MEß m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+834,282:008, li-{il5}-ma-ad m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+835,282:010, yu-u$-$i-ra m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+836,282:015, ù yi-<il5>-ma-ad m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+837,283:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+838,283:003, um-ma m.$u-wa-ar-da-ta ÌR-ka, m.$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+839,283:004, a-na GÌR.MEß m.LUGAL-ri EN-ia am-qut, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+840,283:009, du-gu-la-ni KI m.LUG{AL-r}i EN-ia, m.LUG{AL-r}i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+841,283:011, ur-ru-ba it-ti m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+842,283:013, m.LUGAL-ri EN-ia a-nu-ma m.ia-an-ha-{mu}, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+843,283:013, m.LUGAL-ri EN-ia a-nu-ma m.ia-an-ha-{mu}, m.ia-an-ha-{mu}, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+844,283:017, m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+845,283:018, yi-il5-ma-ad m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+846,283:023, nu-di-ni m.LUGAL-ri EN-{ia}, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+847,283:025, yu-u$-$i-ra m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+848,283:027, m.LUGAL-ri EN-ia a-nu-ma, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+849,283:028, m.ia-an-ha-mu ù ra-bi-{ci}, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+850,283:029, m.LUGAL-ri EN-ia yi-iq-b[i], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+851,283:030, m.LUGAL-ri EN-ia i{t}-ti-$u, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+852,283:032, UGU m.$u-wa-ar-da-ta, m.$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+853,284:001, {a}-na m.LUG[AL]-ri EN-i[a], m.LUG[AL]-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+854,284:002, um-ma m.$u-wa-ar-{da}-ta Ì[R-ka], m.$u-wa-ar-{da}-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+855,284:003, {a}-na {G}ÌR.MEß m.LUGAL-ri EN-i[a], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+856,284:006, <yi>-{ìl}-ma-a{d} m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+857,284:008, {KUR.ME}ß m.LUGA{L}-ri EN-ia i-ba-$u-ti, m.LUGA{L}-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+858,284:009, 1-en ù a-{nu}-ma m.ra-a[h]-ma-nu $[a], m.ra-a[h]-ma-nu, m.ra-ah-ma-nu, m.ra-ah-ma-nu, m.ra-ah-ma-nu, m.ra-ah-ma-nu, m.ra-ah-ma-nu
+859,284:010, [d]a?-{gu?!}-al [K]UR.MEß m.LUGAL-ri [E]{N-ia}, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+860,284:011, p{a}-aµ-r{a} {i}-ia-nu a-{n}a m.LUG{AL}-r{i}, m.LUG{AL}-r{i}, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+861,284:012, {y}i-il5-{q}é-n{i} m.LUGAL-ri [EN-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+862,284:013, $a-ap-r{a}-ti a-{na} m.LUGAL-ri EN-i[a], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+863,284:015, [p]u-ia {na}? [x x x] m.LUG{AL}-ri, m.LUG{AL}-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+864,284:016, yu-u[$-$i]-ra m.LUGAL-ri [E]N-i{a}, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+865,284:019, m.LUGAL-{r}i E{N}-{ia} {qa}-ti-{hu}, m.LUGAL-{r}i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+866,284:021, y{í}-i{a}?-{t}a? m.LUG{AL}-ri EN-{ia}, m.LUG{AL}-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+867,284:024, m.LU{GAL}-ri E{N}-ia {$u}-[x]-{x-x}, m.LU{GAL}-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+868,284:028, [x (x) x x]-{nu} a-{n}a m.LUGAL-r{i} <EN-ia>, m.LUGAL-r{i}, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+869,284:029, [x x x m.]L{UGAL}-ri E{N}-i{a}, m.]L{UGAL}-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+870,284:035, [m.LUGAL]-ri EN-ia {x (x)} [x (x)], [m.LUGAL]-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+871,285:002, [um-ma m.Ì]R-h[i-ba ÌR-ka-ma], m.Ì]R-h[i-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+872,285:010, [m.e-en-ha-]mu e-m[u-qí/qa ù], [m.e-en-ha-]mu, m.e-en-ha-mu, m.e-en-ha-mu, m.e-en-ha-mu, m.e-en-ha-mu, m.e-en-ha-mu
+873,285:014, [a-na m.Ì]R-hi-ba ÌR-$u, m.Ì]R-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+874,285:024, [a-na m.ad-da-i]a LÚ.MAßKIM LUGAL[-ri], m.ad-da-i]a, m.ad-da-ia, m.ad-da-ia, m.ad-da-ia, m.ad-da-ia, m.ad-da-ia
+875,286:001, [a]-na m.LUGAL EN-ia qí-bi-ma, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+876,286:002, um-ma m.ÌR-he-ba ÌR-ka-ma, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba
+877,286:007, i-na pa-ni LUGAL EN-ri  m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba
+878,286:025, ù li-te-mi m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+879,286:028, [gáb-]b[a]-$[a ]m.e-en-ha-mu, ]m.e-en-ha-mu, m.e-en-ha-mu, m.e-en-ha-mu, m.e-en-ha-mu, m.e-en-ha-mu, m.e-en-ha-mu
+880,286:036, [KUR.H]Á LUGAL EN gáb-$a m.i-li-mil-ku, m.i-li-mil-ku, m.i-li-mil-ku, m.i-li-mil-ku, m.i-li-mil-ku, m.i-li-mil-ku, m.i-li-mil-ku
+881,286:061, [a-n]a túp-$[a]r LUG[AL] EN-ia um-ma m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba, m.ÌR-he-ba
+882,287:001, [a-na m.LUGAL]-ri EN-ia[ qí-bi-ma], m.LUGAL]-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+883,287:002, [um-ma m.Ì]R-hi-ba ÌR-k[a-ma a-na], m.Ì]R-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+884,287:029, a-mur ip-$a an-ni-ú ip-$i  m.mil-ki-ili, m.mil-ki-ili, m.mil-ki-ili, m.mil-ki-ili, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+885,287:047, [m.a]d-da-ya a-di LÚ.MEß ma-car-ti LÚ ú-e-e, [m.a]d-da-ya, m.ad-da-ya, m.ad-da-ya, m.ad-da-ya, m.ad-da-ya, m.ad-da-ia
+886,287:049, [iq-]bi a-na ia-a-$i  m.a-da-ya, m.a-da-ya, m.a-da-ya, m.a-da-ya, m.a-da-ya, m.a-da-ya, m.a-da-ya
+887,287:065, qí-bi-ma um-ma m.ÌR-hi-ba ÌR-ka-ma, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+888,288:001, [a-n]a  m.LUGAL-ri EN-ia d.U[T]U[-ia q]í[-bi-ma], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+889,288:002, um-ma m.ÌR-hi-ba ÌR-ka-ma, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+890,288:019, m.$u-ú-ta LÚ MAßKÍM LUGAL-ri ka-$[a-ad], m.$u-ú-ta, m.šu-ú-ta, m.šu-ú-ta, m.šu-ú-ta, m.šu-ú-ta, m.šu-ú-ta
+891,288:022, [a-]na qa-ti m.$u-ú-ta NÍG.BA LUGAL EN-ia, m.$u-ú-ta, m.šu-ú-ta, m.šu-ú-ta, m.šu-ú-ta, m.šu-ú-ta, m.šu-ú-ta
+892,288:041, a-mur m.tu-ur-ba-zu G[A]Z de4-ka, m.tu-ur-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu
+893,288:043, a-mur m.zi-im-ri-da URU l[a-k]i-si.KI, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+894,288:045, m.ia-ap-ti-ih-adda GAZ te-k[a], m.ia-ap-ti-ih-adda, m.ia-ap-ti-ih-adda, m.ia-ap-ti-ih-adda, m.ia-ap-ti-ih-adda, m.ia-ap-ti-ih-adda, m.ia-ap-ti-ih-adda
+895,288:063, [um-ma] m.ÌR-hi-ba ÌR-ma a-na 2 GÌR.M[Eß], m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+896,289:002, um-ma m.ÌR-hi-ba m.ÌR-k[a-ma], m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+897,289:002, um-ma m.ÌR-hi-ba m.ÌR-k[a-ma], m.ÌR-k[a-ma], m.ÌR-ka-ma, m.ÌR-ka-ma, m.ÌR-ka-ma, m.ÌR-ka-ma, m.ÌR-ka-ma
+898,289:005, a-mur m.mil-ki-lim la-a i-pa-aµ[-µa-ar], m.mil-ki-lim, m.mil-ki-lim, m.mil-ki-lim, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+899,289:011, a-mur m.mil-ki-lim ù m.ta-gi, m.mil-ki-lim, m.mil-ki-lim, m.mil-ki-lim, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+900,289:011, a-mur m.mil-ki-lim ù m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi
+901,289:019, a-na m.ta-gi ù LÚ.MEß URU g[í]n-ti.KI, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi, m.ta-gi
+902,289:022, <DUMU.MEß>? m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya, m.la-ab-a-ya
+903,289:025, m.mil-ki-lim [$]a-par a-na ta-g[i], m.mil-ki-lim, m.mil-ki-lim, m.mil-ki-lim, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+904,289:031, i-na ßU m.ha-ya DUMU mi-ia-re-e, m.ha-ya, m.ha-ya, m.ha-ya, m.ha-ya, m.ha-ya, m.ha-ya
+905,289:032, [l]a-qé-mi  m.ad-da-ya $a-ka-an, m.ad-da-ya, m.ad-da-ya, m.ad-da-ya, m.ad-da-ya, m.ad-da-ya, m.ad-da-ia
+906,289:038, lu-ú ir-pí-$u  m.pu-ú-ru, m.pu-ú-ru, m.pu-ú-ru, m.pu-ú-ru, m.pu-ú-ru, m.pu-ú-ru, m.pu-ú-ru
+907,289:045, mu-$e-ra m.yi->ih-<en-ha-m[u    ], m.yi->ih-<en-ha-m[u, m.yi->ih-<en-ha-mu, m.yi->ih-<en-ha-mu, m.yi->ih-<en-ha-mu, m.yi->ih-<en-ha-mu, m.yi->ih-<en-ha-mu
+908,289:048, [ um]-ma m.ÌR-hi-ba ÌR-[ka-ma], m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+909,290:001, [a-na ]m.LUGAL EN-ia, ]m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+910,290:003, [m.ÌR-]hi-ba ÌR-ka-ma a-na 2 GÌR.MEß, [m.ÌR-]hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+911,290:006, m.mil-ki-lu ù m.$u-ar-da-tu4, m.mil-ki-lu, m.mil-ki-lu, m.mil-ki-lu, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+912,290:006, m.mil-ki-lu ù m.$u-ar-da-tu4, m.$u-ar-da-tu4, m.šu-ar-da-tu4, m.šu-ar-da-tu4, m.šu-ar-da-tu4, m.šu-ar-da-ti, m.šu-ar-da-ti
+913,290:019, li-i$-me LUGAL-ri a-na m.ÌR-hi-ba ÌR-ka, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba, m.ÌR-hi-ba
+914,290:026, {a-na} KA-i  m.mil-ki[-li], m.mil-ki[-li], m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+915,290:027, [ù a]-na[-K]A-i  m.$u-ar-d]a-[t]i, m.$u-ar-d]a-[t]i, m.šu-ar-da-ti, m.šu-ar-da-ti, m.šu-ar-da-ti, m.šu-ar-da-ti, m.šu-ar-da-ti
+916,292:001, a-na m.!LUGAL EN-ia DINGIR[.MEß-ia], m., m., m., m., m., m.
+917,292:003, um-ma m.!DINGIR.IM.DI.KU5 ÌR-k[a  ], m., m., m., m., m., m.
+918,292:033, ù al-lu-ú il5-qé-$i m.ma!-a-ia, m.ma, m.ma, m.ma, m.ma, m.ma, m.ma
+919,292:036, ù NU-id! a-na m.re-a-na-ap, m.re-a-na-ap, m.re-a-na-ap, m.re-a-na-ap, m.re-a-na-ap, m.re-a-na-ap, m.re-a-na-ap
+920,292:042, m.pé-e-ia DUMU.MÍ gu-la-t[i7], m.pé-e-ia, m.pé-e-ia, m.pé-e-ia, m.pé-e-ia, m.pé-e-ia, m.pé-e-ia
+921,292:051, m.pé-e-ia i-na 1 me KÙ.BABBAR.MEß ù li-ma-ad, m.pé-e-ia, m.pé-e-ia, m.pé-e-ia, m.pé-e-ia, m.pé-e-ia, m.pé-e-ia
+922,293:003, [u]m-ma m.[IM.D]I.KU5 Ì[R-ka], m.[IM.D]I.KU5, m.IM.DI.KU5, m.IM.DI.KU5, m.IM.DI.KU5, m.IM.DI.KU5, m.IM.DI.KU5
+923,294:001, a-na m.LUGAL EN-ia DINGIR.MEß-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+924,294:003, u[m-m]a m.ci-{id}-[q]í-lí ÌR-ka, m.ci-{id}-[q]í-lí, m.ci-id-qí-lí, m.ci-id-qí-lí, m.ci-id-qí-lí, m.ci-id-qí-lí, m.ci-id-qí-lí
+925,294:016, [a-m]ur ip-$i m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia
+926,294:024, m.pí-i-ia DUMU gu-la-ti, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia
+927,294:030, i$-tu pa-ni m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia, m.pí-i-ia
+928,295:001, [a-na m.LUGAL-ri E]N-ia [d.]UTU-ia D[INGIR.MEß-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+929,295:003, [um-ma m._ _ _ ]DI.KUD ÌR-ka ÌR ki[-ti], m._, m._, m., m., m., m.
+930,295:005, [m.LUG]A[L-r]i EN-ia a-na GÌR.MEß m.LUGAL-[-ri], [m.LUG]A[L-r]i, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+931,295:005, [m.LUG]A[L-r]i EN-ia a-na GÌR.MEß m.LUGAL-[-ri], m.LUGAL-[-ri], m.LUGAL--ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+932,295:008, a-mur-me a-na-ku ÌR m.LUGAL-ri E[N-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+933,295:009, $a ur-ru-du m. LUGAL-ra EN-ia u[l-tu], m., m., m., m., m., m.
+934,295:012, ù l[i-ìl-ma-a]d m.LUGAL-ru BE-[ia], m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+935,295:014, m.ia-ab-[ni- _ _  LÚ URU c]i-du-na, m.ia-ab-[ni-, m.ia-ab-ni-, m.ia-ab-ni-, m.ia-ab-ni-, m.ia-ab-ni-, m.ia-ab-ni-
+936,295:018, qa-du m.ka-a[l-bi LÚ URU, m.ka-a[l-bi, m.ka-al-bi, m.ka-al-bi, m.ka-al-bi, m.ka-al-bi, m.ka-al-bi
+937,295:R04, ù li-ìl-ma-ad m.L[UGAL]-ru ki[-ti-ia], m.L[UGAL]-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+938,295:R05, ù li-di-in4-me m.LUGAL-ru EN[-ia], m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+939,295:R10, a-na ur-ru-ud m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+940,296:001, a-na m.LUGAL-r[i] E[N]-ia, m.LUGAL-r[i], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+941,296:004, um-ma m.ia-a[h]-ti-ri ÌR-ka, m.ia-a[h]-ti-ri, m.ia-ah-ti-ri, m.ia-ah-ti-ri, m.ia-ah-ti-ri, m.ia-ah-ti-ri, m.ia-ah-ti-ri
+942,296:024, m.ia-an-ha-ma LÚ.MAßKIM-$u, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+943,297:001, a-na m.LUGAL EN-ia DINGIR.MEß-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+944,297:003, um-ma m.ia-pa-@ì ÌR-k[a-m]a, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-
+945,298:004, um-ma m.ia-pa[-@]ì LÚ $a, m.ia-pa[-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-
+946,299:001, a-na m.LUGAL EN-ia DINGIR.MEß-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+947,299:003, DINGIR $a10-mì um-ma m.ia-pa-@ì, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-
+948,300:001, [a-na m.LUGAL E]N-{ia} DINGIR[.MEß-ia], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+949,300:004, [m.ia-pa-@ì] {a}-{mi}(?)[-l]i(?), [m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-, m.ia-pa-
+950,301:001, a[-n]a m.[LU]GAL EN-ia d.[UTU], m.[LU]GAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+951,301:003, um-ma m.$u-ba-an-[d]i, m.$u-ba-an-[d]i, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di
+952,301:012, m.ha-an-ia $a-par, m.ha-an-ia, m.ha-an-ia, m.ha-an-ia, m.ha-an-i, m.ha-an-i, m.ha-an-i
+953,302:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+954,302:004, um-ma m.$u-ba-an[-d]i, m.$u-ba-an[-d]i, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di
+955,303:001, a-na m.LUGAL-ri EN-ia DINGIR.MEß-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+956,303:004, m.$u-ba-an-di ÌR-ka, m.$u-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di
+957,303:020, [a-n]a  m.táh-[m]a-a$-$i, m.táh-[m]a-a$-$i, m.táh-ma-aš-ši, m.táh-ma-aš-ši, m.táh-ma-aš-ši, m.táh-ma-aš-ši, m.táh-ma-aš-ši
+958,304:001, a-na m.LUGAL-ri [EN-ia DINGIR.MEß-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+959,304:004, um-ma m.$u-ba-an-di, m.$u-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di
+960,305:001, a-na m.LUGAL-ri EN-ia d.UTU, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+961,305:004, um-ma  m.$u-ba-an-du, m.$u-ba-an-du, m.šu-ba-an-du, m.šu-ba-an-du, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di
+962,306:001, [a-na m.LUGAL-ri EN-ia DINGIR.MEß-ia], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+963,306:003, [um-]ma  m.$u-[b]a-an[-di ÌR-ka], m.$u-[b]a-an[-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di, m.šu-ba-an-di
+964,309:001, a-na m.LU[GA]L[ EN-ia], m.LU[GA]L[, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+965,309:004, um-ma  m.[, m.[, m., m., m., m., m.
+966,312:006, [a-na GÌR.M]Eß  m.L[U]G[AL EN-ia], m.L[U]G[AL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+967,314:001, a-na m.LUGAL EN-ia DINGIR.MEß-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+968,314:003, AN $a10-me um-ma m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM
+969,315:003, um-ma m.pu-d.IM LÚ $a URU yu-ur-ca.KI, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM
+970,315:013, m.[r]i-a-na-pa LÚ.MAßKIM $a, m.[r]i-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa
+971,316:003, [um]-ma m.pu-A[N].I[M] ÌR-ka, m.pu-A[N].I[M], m.pu-AN.IM, m.pu-AN.IM, m.pu-AN.IM, m.pu-AN.IM, m.pu-AN.IM
+972,316:015, [m.ta]h-m[a-i]a [L]Ú MAß[KI]M $a LU[G]AL, [m.ta]h-m[a-i]a, m.tah-ma-ia, m.tah-ma-ia, m.tah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia
+973,316:016, [a-n]a m.$a-ah-$i-ha-$i-ha[ EN-ia], m.$a-ah-$i-ha-$i-ha[, m.ša-ah-ši-ha-ši-ha, m.ša-ah-ši-ha-ši-ha, m.ša-ah-ši-ha-ši-ha, m.ša-ah-ši-ha-ši-ha, m.ša-ah-ši-ha-ši-ha
+974,316:017, [u]m-ma m.pu-d.IM  a-na 2 GÌR.MEß-ka am[-qú-ut], m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM, m.pu-d.IM
+975,317:002, m.d.da-ga-an-ta-ka-la, m.d.da-ga-an-ta-ka-la, m.d.da-ga-an-ta-ka-la, m.d.da-ga-an-ta-ka-la, m.d.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la
+976,317:009, m.da-g[a]-an-ta-ka-l[a], m.da-g[a]-an-ta-ka-l[a], m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la
+977,317:013, m.da-ga-an-ta-ka<-la>, m.da-ga-an-ta-ka<-la>, m.da-ga-an-ta-ka<-la>, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la
+978,318:003, m.d.-ga-an-ta-k[a-la], m.d.-ga-an-ta-k[a-la], m.d.-ga-an-ta-ka-la, m.d.-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la, m.da-ga-an-ta-ka-la
+979,319:004, m.cú-ra-$ar, m.cú-ra-$ar, m.cú-ra-šar, m.cú-ra-šar, m.cú-ra-šar, m.cú-ra-šar, m.cú-ra-šar
+980,320:001, [a]-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+981,320:005, m.yi-id-ia LÚ, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia
+982,321:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+983,321:005, m.yi-id-ia LÚ, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia
+984,322:001, a-na m.L[UGAL E]N-ia DINGIR.[MEß-i]a, m.L[UGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+985,322:004, um[-m]a m.y[i-i]d-ia LÚ, m.y[i-i]d-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia
+986,322:022, a-na m.LÚ.MAßKIM $a LUGAL, m.LÚ.MAßKIM, m.LÚ.MAŠKIM, m.LÚ.MAŠKIM, m.LÚ.MAŠKIM, m.LÚ.MAŠKIM, m.LÚ.MAŠKIM
+987,323:001, a-na m.LUGAL EN-ia DINGIR.MEß-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+988,323:003, AN $a10-me um-ma m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia
+989,324:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+990,324:004, um-ma m.yi-id-ia ÌR-[k]a, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia
+991,325:001, [a-na[ m.LUGAL EN-ia DINGIR.MEß-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+992,325:003, um-ma m.yi-id-ia ÌR-ka, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia
+993,326:001, a-na m.LUGAL EN-ia DINGIR.MEß-ia d.UTU-[ia], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+994,326:003, um-ma m.yi-id-ia ÌR-ka ip-ri, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia, m.yi-id-ia
+995,326:017, m.ri-a-na-pa LÚ MAßKÍ[M] $a LUGAL EN-ia, m.ri-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa, m.ri-a-na-pa
+996,327:002, m.LUGAL a-na ia-$i, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+997,327:004, m.LUGAL-ri BE-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+998,327:006, [m.]LUGAL-ru BE-ia $a[-par], [m.]LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+999,327:011, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+1000,328:001, a[-n]a m.LUGAL EN-ia DINGIR.MEß-[ia], m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+1001,328:004, um-ma m.ia-ab-ni-ilu, m.ia-ab-ni-ilu, m.ia-ab-ni-ilu, m.ia-ab-ni-ilu, m.ia-ab-ni-ilu, m.ia-ab-ni-ilu, m.ia-ab-ni-ilu
+1002,328:024, m.ma-ia LÚ <MA>ßKÍM LUG[AL], m.ma-ia, m.ma-ia, m.ma-ia, m.ma-ia, m.ma-ia, m.ma-ia
+1003,329:001, a-na m.LUGAL EN-ia, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+1004,329:005, um-ma m.zi-im-ri-di, m.zi-im-ri-di, m.zi-im-ri-di, m.zi-im-ri-di, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+1005,330:001, a-[na ]m.LUGAL-ri EN-ia, ]m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1006,330:003, m.$i-ip-µì-d.IM ÌR-ka, m.$i-ip-µì-d.IM, m.ši-ip-ṭì-d.IM, m.ši-ip-ṭì-d.IM, m.ši-ip-ṭì-d.IM, m.ši-ip-ṭì-d.IM, m.ši-ip-ṭì-d.IM
+1007,330:014, m.ia-an-ha-ma ÌR ki-ti, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+1008,331:001, [a-n]a m.L[UG]A[L]-ri  EN[-ia], m.L[UG]A[L]-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1009,331:004, um-ma m.$i-ip-µe4[-A[N].IM, m.$i-ip-µe4[-A[N].IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM
+1010,331:007, a-na 2 GÌR.MEß m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1011,332:003, [um-ma m.]$i-ip-µe4-AN[.IM LÚ URU l]a-ki-$a.K[I], m.]$i-ip-µe4-AN[.IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM, m.ši-ip-ṭe4-AN.IM
+1012,333:002, [um-ma m.p]a-a-pí, m.p]a-a-pí, m.pa-a-pí, m.pa-a-pí, m.pa-a-pí, m.pa-a-pí, m.pa-a-pu
+1013,333:005, tu-$a-µú-na m.DI.KUD.d.{IßKUR}, m.DI.KUD.d.{IßKUR}, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR
+1014,333:006, ù m.zi-im-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+1015,333:009, m.DI.KUD.d.IßKUR a-na m.zi[-i]m-re-da, m.DI.KUD.d.IßKUR, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR, m.DI.KUD.d.IŠKUR
+1016,333:009, m.DI.KUD.d.IßKUR a-na m.zi[-i]m-re-da, m.zi[-i]m-re-da, m.zi-im-re-da, m.zi-im-re-da, m.zi-im-ri-da, m.zi-im-ri-da, m.zi-im-ri-da
+1017,333:022, [m.]pa-a-pu ù u$-$i-ir-[$]u, [m.]pa-a-pu, m.pa-a-pu, m.pa-a-pu, m.pa-a-pu, m.pa-a-pu, m.pa-a-pu
+1018,334:003, [m._ ]-d[i-]i[h/x L[Ú/ U]RU zu-uh-ra.K[I], [m._, m._, m., m., m., m.
+1019,334:009, [m.LUGAL-ri] EN-ia, [m.LUGAL-ri], m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1020,334:010, [ù] m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ru, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1021,335:003, [um-ma  m.ÌR-d.INANNA ÌR LUGAL-ri ], m.ÌR-d.INANNA, m.ÌR-d.INANNA, m.ÌR-d.INANNA, m.ÌR-d.INANNA, m.ÌR-d.INANNA, m.ÌR-d.INANNA
+1022,335:009, m.tu-u[r-ba-zu u ]m.ia-ap-ti-ha-da, m.tu-u[r-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu, m.tu-ur-ba-zu
+1023,335:009, m.tu-u[r-ba-zu u ]m.ia-ap-ti-ha-da, ]m.ia-ap-ti-ha-da, m.ia-ap-ti-ha-da, m.ia-ap-ti-ha-da, m.ia-ap-ti-ha-da, m.ia-ap-ti-ha-da, m.ia-ap-ti-ha-da
+1024,335:011, li-[$]al [_ _ m.LUGA]L-ri EN-ia, m.LUGA]L-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1025,335:015, m.LUGAL-ri EN-ia ki-ma, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1026,335:020, _ _ _ _ ra m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1027,336:003, [um-ma m.]hi-zi-ri ÌR[-ka ], m.]hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri
+1028,337:001, a-na m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1029,337:004, u[m-m]a m.hi-zi-ri ÌR-ka, m.hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri, m.hi-zi-ri
+1030,337:005, a-na GÌR.MEß m.LUGAL-ri EN-ia, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri, m.LUGAL-ri
+1031,337:007, m.LUGAL EN-ia $[a]-pár, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+1032,337:016, m.LUGAL EN-ia qa-du, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL, m.LUGAL
+1033,337:026, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia
+1034,337:029, m.ma-a-ia ma-gal, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia, m.ma-a-ia
+1035,338:002, [u]m-ma m.z[i - - ÌR-ka-ma], m.z[i, m.zi, m.zi, m.zi, m.zi, m.zi
+1036,339:004, um-ma m.[, m.[, m., m., m., m., m.
+1037,362:020, ù ti7-ìl-qé m.a-ba-$u-nu, m.a-ba-$u-nu, m.a-ba-šu-nu, m.a-ba-šu-nu, m.a-ba-šu-nu, m.a-ba-šu-nu, m.a-ba-šu-nu
+1038,362:067, a-na DUMU.MEß m.ÌR-a-$i-ir-ti ù ti-dì-$u-{n}a DUMU<.MEß>, m.ÌR-a-$i-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ti, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta, m.ÌR-a-ši-ir-ta
+1039,362:070,                    sú-ki-na m.pí-wu-{r}i, m.pí-wu-{r}i, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri, m.pí-wu-ri
+1040,363:009, ù a-li-ik!(UK) m.e-ta-qa-ma, m.e-ta-qa-ma, m.e-ta-qa-ma, m.e-ta-qa-ma, m.e-ta-qa-ma, m.e-ta-qa-ma, m.e-ta-qa-ma
+1041,364:013, qa-ti m.a-tah-ma-ia, m.a-tah-ma-ia, m.a-tah-ma-ia, m.a-tah-ma-ia, m.a-tah-ma-ia, m.ta-ah-ma-ia, m.ta-ah-ma-ia
+1042,365:003, um-ma m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya, m.bi-ri-di-ya
+1043,366:003, u{m-m}a m.$u-wa-ar-da-ta, m.$u-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta, m.šu-wa-ar-da-ta
+1044,366:022, ù m.sú-ra-t{a LÚ} URU.ak-ka.KI, m.sú-ra-t{a, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta, m.sú-ra-ta
+1045,366:023, ù m.in4-tar!(tá)-ú-ta, m.in4-tar, m.in4-tar, m.in4-tar, m.in4-tar, m.in4-tar, m.in4-tar
+1046,366:031, lu-ú yu-$i-ra m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-ma, m.ia-an-ha-mu, m.ia-an-ha-mu, m.ia-an-ha-mu
+1047,367:001, a-na m.in-tar-ú-tá LÚ URU.ak-$a-pa, m.in-tar-ú-tá, m.in-tar-ú-tá, m.in-tar-ú-tá, m.in-tar-ú-tá, m.in-tar-ú-tá, m.in-tar-ú-tá
+1048,367:007, m.ha-an-ni DUMU m.ma-i-ri-ia, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-ni, m.ha-an-i
+1049,367:007, m.ha-an-ni DUMU m.ma-i-ri-ia, m.ma-i-ri-ia, m.ma-i-ri-ia, m.ma-i-ri-ia, m.ma-i-ri-ia, m.ma-i-ri-ia, m.ma-i-ri-ia
+1050,369:001, a-na m.mil-ki-li {LÚ} URU.gaz-r[i], m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li, m.mil-ki-li
+1051,369:005, um-te-$e-ra-ak-ku m.ha-an-ia, m.ha-an-ia, m.ha-an-ia, m.ha-an-ia, m.ha-an-i, m.ha-an-i, m.ha-an-i
+1052,369:008, f.DÉ \ $a-qí-tum SIG5, f.DÉ, f.DÉ, f.DÉ, f.DÉ, f.DÉ, f.DÉ
+1053,369:013, $U.NÍGIN-ma f.DÉ 40, f.DÉ, f.DÉ, f.DÉ, f.DÉ, f.DÉ, f.DÉ
+1054,369:014, 40 KÙ.BABBAR $ÁM f.DÉ.MEß, f.DÉ.MEß, f.DÉ.MEŠ, f.DÉ.MEŠ, f.DÉ.MEŠ, f.DÉ.MEŠ, f.DÉ.MEŠ
+1055,369:015, ù {u$}-$i!-ra f.DÉ.MEß, f.DÉ.MEß, f.DÉ.MEŠ, f.DÉ.MEŠ, f.DÉ.MEŠ, f.DÉ.MEŠ, f.DÉ.MEŠ
+1056,370:001, a-na m.i-dì-ia LÚ URU.a$-qá-lu-n[a.K]I, m.i-dì-ia, m.i-dì-ia, m.i-dì-ia, m.i-dì-ia, m.i-dì-ia, m.i-dì-ia
+1057,370:008, m.i-ri-ia-ma[-a$-$a], m.i-ri-ia-ma[-a$-$a], m.i-ri-ia-ma-aš-ša, m.i-ri-ia-ma-aš-ša, m.i-ri-ia-ma-aš-ša, m.i-ri-ia-ma-aš-ša, m.i-ri-ia-ma-aš-ša
+1058,378:003, [AN]{sa}-mì-i [um]-{ma} m.ia[-pa-hi], m.ia[-pa-hi], m.ia-pa-hi, m.ia-pa-hi, m.ia-pa-hi, m.ia-pa-hi, m.ia-pa-

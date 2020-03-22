@@ -1,0 +1,1131 @@
+
+---
+Genre: 
+    Source: These are the genre categories of the Cuneiform Digital Library Initiative
+    Terms:
+        - Administrative:
+            NT:
+                - Receipt:
+                    SN: Used for noting the sale or gift to a temple
+                    RT: Inventory
+                - Inventory:
+                    SN: Used for listing items and people
+                    RT: Receipt
+                - Letter:
+                    NT:
+                        - Diplomatic Letter:
+                            SN: Used for all communication to and from royal persons, unless they are of the same family and not international
+                        - Familial Letter 
+                        - Business Letter
+                - Legal Judgments:
+                    SN: This heading is used for court documents and rulings. For Legal Codes see Royal->Law Codes
+                    RT: Law Codes
+        - Scientific:
+            NT: 
+                - Cosmological:
+                    SN: Used for texts dealing with the stars and or geography of the world
+                - Mathematical:
+                    SN: Used to describe texts that are both lists of formulas and proofs, as well as practical texts to solve problems
+                - Medical:
+                    SN: Used for texts that describe bodily illnesses and treatments for bodily injury
+                - Lexical:
+                    NT:
+                        - Sumerian/Akkadian lists:
+                            SN: Use for lists that contain Sumerian and Akkadian equivalents, where the focus of the list is on words and signs
+                            RT: Multilingual lists
+                        - Multilingual lists:
+                            SN: For lexical lists that provide lists of words in languages other than Akkadian and Sumerian
+                            RT: Sumerian/Akkadian lists
+                        - God lists:
+                            SN: For lists of divine names and titles
+                        - Professions lists:
+                            SN: for lists of professions and or occupations
+                - Omens:
+                    NT: 
+                        - Astrological omens:
+                            SN: Used for omen literature that deals with the stars and celestial bodies.
+                        - Terrestrial omens:
+                            SN: Used for omens dealing with events and things on the earth, like the placement of a city, etc. 
+                        - Birth Omens:
+                            SN: Used for omen literature that deals with birth defects
+                        - Physogenomic omens:
+                            SN: Used for omen literature that deals with omens regarding form and appearance of living things
+                        - Dream omens 
+                        - Extispicy:
+                            SN: Used for omen literature regarding the entrails of sacrificed animals
+        - Royal:
+            NT: 
+                - Monumental Inscriptions:
+                    SN: Used for kings and rulers writing inscriptions on monuments, or commemorating building projects
+                - Annals:
+                    SN: Used for lists of the years in a kings rule, and chronicles of kings achievements
+                - Law Codes:
+                    SN: Used for the Legal Codes organized by kings, not to be confused with court documents and legal judgements
+                    RT: Legal Judgments
+        - Literary:
+            SN: These are works that are not primarily functional, but descriptive and/or entertaining
+            NT:
+                - Epics:
+                    SN: These are literary works that focus on humans, even if the humans are part divine
+                - Myths:
+                    SN: These are literary works that focus on the works of the gods
+        - Religious:
+            SN: These are texts that are functional in religious life and cult functions
+            NT: 
+                - Votive:
+                    SN: Votive texts are texts that are inscribed on objects and dedicated to a deity in a temple. 
+                - Prayer/Incantation:
+                    SN: Prayers and incantations are texts that speak directly to the deity either through words alone, or words and actions
+                - Ritual:
+                    SN: describe and or contain notes and summaries of religious rituals either official or popular
+        - School:
+            SN: These are texts that are used for the education of early scribes, or written by early scribes
+            RT: 
+                - Mathematical 
+                - Lexical 
+        - Uncertain:
+            SN: If a subgenre or genre term can not be found suitable, this term can be applied
+        - Fake (modern):
+            SN: Used for fakes that have been made in the last 200 years. 
+
+Object type:
+    - Portable:
+        SN: Used for objects that can be carried and or moved
+        NT:
+            - Tablet
+            - Cylinder:
+                SN: Used for inscribed cylinder's and not for cylinder seals.
+            - Seal:
+                SN: Used for stamp seals, cylinder seals, and seal impressions. 
+    - Architectural:
+        SN: Used for objects that are meant to be
+        NT:
+            - Brick
+            - Cone 
+            - Building inscriptions
+
+
+Provenance:
+    SN: The archaeological find spot of the object or artifact
+    Source: These are the find spots located in Horowitz and Oshima 2006
+    NT: 
+        - Egypt: 
+            NT: Tell El-Amarna 
+        - Palestine: 
+            UF: [ Canaan, Israel, Levant ]
+            RT: Syria
+            NT: 
+                - Tel Aphek
+                - Acco
+                - Ashdod 
+                - Ashqelon
+                - Beer Sheva 
+                - Ben Shemen
+                - Tel Beth Mirsim
+                - Beth Shean 
+                - Beth Shemesh
+                - Gath
+                - Gezer 
+                - Ginti-kirmil
+                - Tel Hadid 
+                - Hazor 
+                - Hebron
+                - Tel el-Ḥesi 
+                - Tel Jemmeh
+                - Jericho
+                - Jerusalem
+                - Tel Keisan
+                - Khirbet Kusiya 
+                - Lachish
+                - Megiddo 
+                - Mikhmoret 
+                - Tel en-Naṣbeh
+                - Qaqun
+                - Rehob
+                - Samaria 
+                - Sepphoris:
+                    UF: Ṣippori 
+                - Shechem 
+                - Shephela 
+                - Shimʿon
+                - Taanach 
+                - Tabor 
+                - Wingate 
+                - Yurza
+        - Lebenon:
+            UF: [ Levant ]
+            NT: Kamid el-Loz
+        - Syria:
+            UF: [ Levant ]
+            RT: Palestine
+            NT: 
+                - Emar 
+                - Alalaḫ
+                - Damascus
+                - Orontes
+        - Turkey:
+            NT: 
+                - Boğazköy:
+                    UF: [Boğazkale, Bogazköy]
+        - Iraq:
+            NT: Babylon
+                
+
+Names: 
+    - Áadumi: 
+        LA: WS
+        SN: City leader in northern Syria, loses cities to Lupakku
+        RT: [Lupakku, Baaluya, Bet-Ili]
+        UF: [a-ad-du-mi]
+    - ʿAbdi-Aširta:
+        LA: WS
+        SN: Leader of Amurru
+        UF: [abdi-a-ši-ir-te]
+    - ʿAbdi-Aštarti:
+        LA: WS
+        SN: Mayor of Qiltu?
+        UF: [abdi-aš-ta-<ar>-ti, ÌR-d.INNIN, abdi-d.INNIN]
+    - ʿAbdi-Hadda:
+        LA: WS
+        SN: Sent by the king to collect tribute from Yapa-Hadda
+        RT: [Yapa-Hadda, Ben-Aṣimi]
+        UF: [abdi-baʿlu/haddu]
+    - ʿAbdi-Ḫeba:
+        LA: Hurrian
+        SN: Ruler of Jerusalem
+        RT: [Labʾayu, Ili-Milku]
+        UF: [ÌR-ḫe-ba]
+    - ʿAbdi-Irši:
+        USE: Abdi-Šullim
+    - ʿAbdi-Milki of Lebenon:
+        LA: WS
+        SN: Enemy of Rib-Hadda, not to be confused with ʿAbdi-Milki of Šašḫimi
+        RT: [Rib-Hadda, Paḫura, Abdi-Rama, Yattin-Hadda, ʿAbdi-Milki of Šašḫimi]
+        UF: [abdi-milki]
+    - ʿAbdi-Milki of Šašḫimi:
+        LA: WS
+        SN: Leader of Šašḫimi, perhaps also mentioned in the tablets from Kamid el-Loz
+        RT: [ʿAbdi-Milki of Lebenon]
+        UF: [abdi-milki]
+    - ʿAbdina:
+        LA: WS
+        SN: EA 229:3
+        UF: 
+            - ÌR-na-[x]
+    - ʿAbdi-NINURTA:
+        LA: WS
+        SN: Rib-Hadda requests his return from the king of Egypt
+        UF: [abdi-NIN.URTA]
+    - ʿAbdi-Rama:
+        LA: WS
+        SN: Sent by Paḫura 
+        RT: [Rib-Hadda, Paḫura, Abdi-Rama, Yattin-Hadda]
+        UF: [abdi-ra-ma]
+    - ʿAbdi-Riša:
+        LA: WS
+        SN: Leader of Enišasi
+        UF: [abdi-ri-ša]
+    - ʿAbdi-Šullim:
+        LA: WS
+        SN: Leader of Hazor. This reading comes from Rainey's latest edition, both Hess and Moran have Abdi-Tirši
+        UF: [ʿAbdi-Tirši, ÌR-Šul-lim, abdi-tir-ši]
+    - ʿAbdi-Tirši:
+        USE: ʿAbdi-Šullim
+    - ʿAbdi-URAŠ:
+        LA: WS
+        SN: Sent greetigns from Amur-Baʿla
+        UF: [abdi-^d^URAŠ]
+    - Abi-Milki:
+        USE: [ʿAbdi-Milki]
+    - Adda-danu:
+        LA: WS
+        SN: Protector of Gezer, perhaps the same person as the protector of Gamteti
+        RT: Miya
+        UF: [baʿlu/haddu-šipṭi]
+    - Addaya:
+        UF: [ad-da-ya]
+    - Addu-nirari:
+        LA: Akkadian
+        SN: King of Nuḫašše
+        UF: [ḫaddu-ni-ra-ri]
+    - Aduna:
+        LA: WS
+        SN: Leader of ʿIrqata, slain by Aziru
+        UF: [a-du-na ]
+    - Aḫuṭabu:
+        LA: Akkadian
+        SN: Traveled with merchants as far as Canaan
+        RT: Napḫuru
+        UF: [aḫu-ṭa-a-bu]
+    - Aitukama:
+        LA: Indo-Iranian
+        SN: Ruler of Qedesh
+        UF: 
+            - Atakkama
+            - Etakkama
+            - i-tag-ga~14~-ma 
+    - Aki-Teššup:
+        LA: Hurrian 
+        SN: The town of Tunip serve the son of Aki-Teššup
+        UF: [a-ki-Teššup]
+    - Akiya:
+        LA: Hurrian
+        SN: Akiya is a messenger to the king of Egypt. Unidentified sender
+        UF: [a-ki-ia]
+    - Akizzi:
+        LA: Hurrian
+        SN: Ruler of Qaṭna
+        UF: [a-ki-iz-zi]
+    - Amanappa:
+        LA: Etyptian
+        SN: Perhaps a high Egyptian official
+        UF: [a-ma-an-ap-pa]
+    - Amanḫatpe: 
+        LA: Egyptian 
+        SN: Leader of Tušulti, involved with the Ḫapiru
+        UF: [a-ma-an-ḫa-at-pí]
+    - Amanmašša:
+        LA: Egyptian
+        SN: Egyptian official placed in Syria
+        UF: [a-ma-an-ma-ša]
+    - Amawaše:
+        LA: WS(?)
+        SN: Possible city leader in Canaan
+        UF: [a-ma-ya-še]
+    - Amenophis III, Pharaoh:
+        USE: Nibmuareya
+    - Amenophis IV, Pharaoh:
+        USE: Napḫuru
+    - Ammistamru:
+        LA: WS
+        SN: King of Ugarit
+        UF: [a-mi-is-tam-ru]
+    - Ammunira: 
+        UF: [Ḫammuniri]
+    - Amur-Baʿla:
+        LA: WS 
+        SN: Mentioned in EA 170:36-44
+        UF: [a-mur-baʿlu/haddu]
+    - Anatu:
+        LA: WS
+        SN: Probably associated with Amur-Baʿla
+        UF: [a-na-ti]
+    - Api:
+        LA: Egyptian
+        SN: Present with Rib-Hadda
+        UF: [a-pi]
+    - Aplaḫanda
+    - Appiḫa:
+        LA: Egyptian
+        SN: Egyptian agent connected with Rib-Hadda
+        RT: Rib-Hadda
+        UF: [ap-pí-ḫa]
+    - Arašša:
+        LA: Hurrian
+        SN: Leader of Kumidi
+        UF: [Arali, Arawana, a-ra-wa-na]
+    - Arnuwanda I, Hittite King
+    - Arsawa:
+        LA: WS or Indo-Iranian
+        SN: leader of Ruḫizi
+        UF: [Arsawuya, Arsauya, ar-za-aw-ya]
+    - Arsawuya:
+        USE: Arsawa
+    - Artašumara:
+        LA: Indo-Iranian
+        SN: Brother of Tušratta
+        RT: [Tušratta]
+        UF: 
+            - ar-ta-aš-šu-ma-ra 
+            - Artaššuwara 
+    - Artatama:
+        LA: Indo-Iranian
+        SN: Grandfather of Tušratta
+        RT: [Tušratta]
+        UF: [ar-ta-ta-a-maš]
+    - Ar-Teššup:
+        LA: Hurrian
+        SN: Created problems in Egypt for Napḫuru
+        RT: [Napḫuru, Tušratta]
+        UF: [ar-te-e-eš-šu-bá]
+    - Asalu:
+        LA: Unknown
+        SN: Scribe from Mitanni
+        UF: [a-sa-a-li]
+    - Aššur-nadin-aḫḫe:
+        LA: Akkadian 
+        SN: Son of Aššur-uballiṭ
+        UF: [a-šur-na-din-aḫḫê]
+    - Aššur-uballiṭ:
+        LA: Akkadian
+        SN: King of Assyria
+        UF: [a-šur-uballiṭ]
+    - Aššutemiwuya:
+        LA: Indo-Iranian
+        UF: [aš-šu-te-mi]
+    - Ataḫmaya:
+        LA: Egyptian
+        SN: Delevered materials fromt he king to Tagi 
+        UF: [Taḫmašši, táḫ-ma-aš-ši, ta-aḫ-ma-ia]
+
+    - Atakkama:
+        USE: Aitukama
+    - Aya, Pharaoh 
+    - Ayyab:
+        LA: WS 
+        SN: Has had three down's siezed by the king of Hazor. 
+        UF: [a-ia-ab]
+    - Aziru:
+        LA: WS
+        SN: Son of ʿAbdi-Aširta
+        UF: [a-zi-ri]
+    - Baaluma:
+        UF: [bá-a-lu-ú-ma]
+    - Baaluya:
+        LA: WS
+        SN: One of the enemies of the king, who Aziru is to hand over to Ḫane
+        RT: [Ḫane, Aziru]
+        UF: [bá-a-lu-ia ]
+    - Balume:
+        LA: WS
+        SN: Father of Šumitta 
+        UF: [ba-lum-me-e]
+    - Baʿlu-meḫir:
+        LA: WS
+        UF: 
+            - baʿlu-me-ḫé-er
+            - Balu-Mir
+    - Balu-Mir:
+        USE: Baʿlu-meḫir
+    - Baʿlu-UR.SAG:
+        USE: Baʿlu-meḫir
+    - Baʿlu-Šipṭi:
+        LA: WS
+        SN: Protector of Gezer, hostile to Pi-i-ia 
+        UF:
+            - d.IM-DI.KUD
+            - d.IŠKUR.DI.KU5
+    - Bayadi:
+        LA: Indo-Iranian(?)
+        SN: Hostile to the son of Satatna and Ḫagurru
+        RT: [Satatna, Ḫagurru]
+        UF: [ba-ia-di]
+    - Bayawa:
+        LA: Indo-Iranian(?)
+        SN: May be a city leader in Syria
+        RT: [Maya]
+        UF: [ba-ia-wa]
+    - Ben-Elima:
+        LA: WS
+        SN: Confidante of the Pharaoh
+        UF: [bi-in~4~-e-lí-ma]
+    - Bet-ili:
+        LA: WS
+        SN: Perhaps a brother of Aziru
+        RT: [Aziru, Baaluya]
+        UF: [be-ti-ili]
+    - Bieri:
+        LA: WS
+        SN: Ruler of Ḫašabu
+        UF: [bi-e-ri]
+    - Bin-Ana:
+        LA: WS
+        SN: Citizen of Byblos who is hostage in Egypt
+        UF: [DUMU-ʿAna, bin-a-na]
+    - Bin-Aṣimi:
+        LA: WS
+        SN: Sent by the king to collect tribute from Yapa-Hadda
+        RT: [Yapa-Hadda, Ben-Aṣimi]
+        UF: [bin-a-zi-me]
+    - Biridašwa: 
+        LA: Indo-Iranian
+        SN: Hostile to Biryawaza
+        RT: [Biryawaza, Tašša]
+        UF: [bi-ri-da-aš-wa]
+    - Biridiya:
+        LA: Indo-Iranian(?)
+        SN: Leader of Megiddo
+        UF: [bi-ri-di-ya]
+    - Biruaza:
+        USE: Biryawaza
+    - Bišitanu:
+        LA: Unknown
+        SN: Ṣumur
+        UF: [bi-ši-ta-nu]
+    - Burra-Buriyaš:
+        LA: Kassite
+        SN: King of Babylon
+        UF: [ Burna-Burariyaš, Burra-Burariyaš, Burna-Buriyaš, bur-ra-bu-ri-ia-aš]
+    - Dagan-takala:
+        LA: WS
+        SN: Leader in southern Palestine, but perhaps also Syria
+        UF: [da-ga-an-ta-ka-la]
+    - Dašru: 
+        LA: WS or Indo-Iranian
+        SN: City leader in Syria
+        UF: [da-aš-ru]
+    - DUMU-biḫaa:
+        USE: Appiḫa
+    - Endaruata:
+        LA: Indo-Iranian
+        SN: Leader of Akšapa
+        RT: [Abdi-Ḫeba, Šuwardata]
+        UF: [in~4~-tar-ú-ta]
+    - Etelluna:
+        LA: Akkadian
+        SN: Sent from Alašiya to the Pharaoh
+        UF: [e-til-lu-na] 
+    - Gulatu:
+        LA: WS
+        SN: Mother of Peya
+        RT: [Peya, Adda-danu]
+        UF: [gu-la-ti~7~] 
+    - Ḫaamašši:
+        LA: WS
+        SN: A messenger from Nibmuareya to Burra-Buriyaš
+        RT: [Nibmuareya, Burra-Buriyaš]
+        UF: 
+            - ḫa-a-maš-ši
+    - Ḫaapi:
+        LA: Egyptian
+        SN: Enemy of Rib-Hadda
+        RT: Rib-Hadda
+        UF: [Ḫaip, ḫa-ip]
+    - Ḫaay:
+        LA: Egyptian
+        SN: Egyptian diplomat to Mitanni
+        UF: 
+            - ḫa-ya
+    - Ḫagurru:
+        LA: Unknown
+        SN: In alliance with Satatna
+        RT: [Satatna]
+        UF: 
+            - ḫa-gur-r[u-X]
+    - Ḫamašša:
+        LA: Egyptian 
+        SN: Messenger from Napḫuru to Bura-Buriyaš
+        RT: [Napḫuru, Bura-Buriyaš]
+        UF: [ḫa-a-maš-ši]
+    - Ḫane: 
+        LA: Egyptian
+        SN: Egyptian comissioner in Amurru
+        UF: [Ḫanê, Ḫanʾi, ḫa-an-ia]
+    - Ḫanʾi:
+        USE: Ḫane
+    - Ḫaramassa:
+        LA: Egyptian
+        SN: Messenger of Nibmuareya to Tušratta
+        RT: [Nibmuareya, Tušratta]
+        UF: [Ḫaramašši, ḫa-a-ra-ma-aš-ši]
+    - Ḫatip:
+        LA: Egyptian
+        SN: Aziru claims Ḫatip took some of his cities
+        RT: [Aziru]
+        UF: [ḫa-ti-ib]
+    - Ḫaya:
+        USE: Ḫaay
+    - Ḫibiya:
+        LA: Hurrian
+        SN: Guardian of the city of Yatani
+        UF: [ḫi-bi-ya]
+    - Ḫiziru:
+        LA: WS
+        SN: City leader in Syria
+        UF: [ḫi-zi-ri]
+    - Ḫuʾa:
+        LA: Unknown
+        SN: Messenger from Burra-Buriyaš to Napḫuru
+        RT: [Burra-Buriyaš, Napḫuru]
+        UF: [ḫu-ʿ-ya]
+    - Ḫuriya:
+        LA: Egyptian
+        UF: [ḫu-ri-i-ia]
+    - Idiya:
+        USE: Yidya
+    - Ilidayyi of Ḫazi:
+        LA: WS
+        SN: Ruler of Ḫazi, not to be confused with Ilidayyi, Commissioner
+        RT: [Aitukama]
+        UF: [ad-da-ya]
+    - Ilidayyi, Comissioner:
+        LA: WS
+        SN: Commissioner mentioned by Labʾayu and Abdi-Ḫeba
+        RT: [Labʾayu, Abdi-Ḫeba, Ilidayyi of Ḫazi]
+        UF: [ad-da-ya]
+    - Ili-Milku:
+        LA: WS
+        SN: Mayor of Gazru
+        UF: 
+            - Ilumilku
+            - i-li-mil-ki 
+    - Ili-Raphiḫ:
+        LA: WS
+        SN: Associated with the city of Byblos
+        UF: 
+            - Ilirapî
+            - i-li-ra-pí-ʾi
+
+    - Ilumilku:
+        USE: Ili-Milku
+    - Immureya:
+        USE: Nimmureya
+    - Irimayašša:
+        USE: Iriyamašša
+    - Iršappa:
+        LA: Hurrian
+        SN: Nibḫurrereya's messenger to Tarḫundaraba
+        RT: [Nibḫurrereya, Tarḫundaraba]
+        UF: [ir-ša-ap-pa]
+    - Kadašman-Enlil:
+        LA: Kassite
+        SN: King of Babylon
+        UF: [ka-da-aš-ma-an-ḫarbe]
+    - Kalbaya:
+        LA: WS
+        SN: Messenger from Tarḫundaraba of Arzawa to Amenophis III
+        RT: [Tarḫundaraba]
+        UF: [kal-ba-ia-a]
+    - Kasi:
+        LA: WS
+        SN: Messenger of Nibmuareya
+        RT: [Nibmuareya, Kadašman-Enlil]
+        UF: [ka-si-i]
+    - Keliya:
+        LA: Hurrian
+        SN: Messenger of Tušratta
+        RT: [Tušratta]
+        UF: [ké-li-ia]
+    - Kelu-Ḫeba:
+        LA: Hurrian
+        SN: Sister of Tušratta
+        RT: [Tušratta]
+        UF: [ké-lu-ḫé-bá]
+    - Kidin-Adad:
+        LA: Akkadian
+        SN: Perhaps the princess of Babylon, but also perhaps an escort to the princess
+        UF: [ki-din-ḫaddu]
+    - Kuniea:
+        LA: WS
+        SN: From Alašiya to the court of the king of Egypt
+        UF: [ku-ni-e-a]
+    - Kurigalzu:
+        LA: Kassite
+        SN: Father of Bura-Buriyaš, king of Babylon
+        RT: [Bura-Buriyaš]
+        UF: [ku-ri-gal-zu]
+    - Kurtuya:
+        LA: Akkadian
+        SN: Leader of Zunu
+        UF: [nurkutu-ya]
+    - Kusuna:
+        LA: WS
+        SN: Father of Šumitta
+        RT: [Šumitta]
+        UF: [ku-sú-na]
+    - Labʾayu:
+        LA: WS
+        SN: Ruler of Shechem, Father of Ḫaya
+        RT: [Abdi-Ḫeba, Ḫaya, Ili-Milki]
+        UF: [la-ab-a-ya]
+    - Leya:
+        LA: Egyptian
+        SN: Aziru is to give Leya and his sons to Ḫane. 
+        RT: [Aziru, Leya, Ḫane]
+        UF: 
+            - Leʾeya
+            - le-e-ia 
+    - Lupakku:
+        LA: Anatolian
+        SN: Leader in the Hittite military, fighting against Aadumi
+        RT: [Aadumi]
+        UF: 
+            - lu-pa-ak-ku
+    - Maireya:
+        LA: Egyptian
+        SN: Father of Ḫane
+        RT: Ḫane
+        UF: 
+            - ma-i-ri-ia
+    - Manaḫpirya:
+        LA: Egyptian
+        SN: King of Egypt, his grandfather had recieved gifts from Addu-nirari Identify with Thutmose III
+        UF: [Thutmose III, Manahbiria, Manahpirya, Manaḫpiya, ma-na-aḫ-pí-ir-ia ]
+    - Mane:
+        LA: Egyptian
+        SN: Messenger of Nibmuarey and Napḫurriya to Tušratta
+        RT: [Nibmuareya, Napḫurriya, Tušratta]
+        UF: [ma-ni-e]
+    - Manya:
+        LA: Egyptian
+        SN: Only known because his brother is on the list of royal enemies
+        RT: [Aziru, Ḫane]
+        UF: [ma-an-ia]
+    - Maya of Ṣumur:
+        LA: Egyptian
+        SN: Left at Ṣumur, rescued by Abdi-Aširta
+        RT: [Abdi-Aširta, Maya Commissioner]
+        UF: [ma-a-ia, ma-ia, ma-ya]
+    - Maya Commissioner:
+        LA: Egyptian
+        SN: Commissioner of the king of Egypt
+        RT: [Bayawa, Yapaḫu, Yabni-Ilu]
+        UF: [ma-a-ia, ma-ia, ma-ya]
+    - Mayarzana:
+        LA: Indo-Iranian
+        SN: Leader of Ḫazi
+        RT: [Amanḫatpe]
+        UF: [ma-ya-ar-za-na]
+    - Mayati:
+        LA: Egyptian
+        SN: Daughter of Akhenaten and coregent with Smenkhkare 
+        RT: [Akhenaten, Abi-Milki]
+        UF: 
+            - Mayatu
+            - Meritaten
+            - ma-ia-a-ti
+    - Mazibadli:
+        LA: Hurrian
+        SN: A messenger of Tušratta, uncle of Keliya
+        RT: [Tušratta, Keliya]
+        UF: 
+            - ma-zi-bá-ad-li
+    - Miḫuni:
+        LA: Unknown
+        SN: A translator, mentioned along with Ḫamašša
+        RT: [Ḫamašša]
+        UF: 
+            - mi-in(!)[-X]
+    - Milkayu:
+        LA: WS
+        SN: Craftsman of Rib-Hadda
+        RT: [Rib-Hadda]
+        UF: 
+            - mil-ka-yu
+    - Milk-Ilu: 
+        USE: Ili-Milku
+    - Milk-uru:
+        LA: WS(?)
+        SN: Milk-uru is husband of Ummaḫnu
+        RT: [Ummaḫnu]
+        UF: [iš-ku-ru]
+    - Mimmureya:
+        USE: Nimmureya 
+    - Miya:
+        LA: WS or Hurrian
+        SN: Leader of Arašni
+        UF: [mi-ya]
+    - Miyare:
+        LA: Egyptian
+        SN: Father of Ḫaya
+        RT: Ḫaya
+        UF: [mi-ia-re-e]
+    - Muršiliš
+    - Mut-Baʿli:
+        LA: WS
+        SN: Son of Labʾayu, Leader of Pella
+        UF: [mut-ba-aḫ-lum]
+    - Naḫramašši:
+        UF: [ḫa-a-ra-ma-aš-ši]
+    - Napḫuru:
+        LA: Egyptian
+        SN: Napḫuru is a prenomen ofr Amenophis IV (Akhenaten), King of Egypt
+        UF: [Napḫuʾra, Napḫurriya, Napḫurieya, Nipḫurrereya, Nibḫurrereya, na-ap-ḫur-ri-ia, ni-ib-mu-a-ri-a]
+
+    - Nipḫurrereya:
+        USE: Napḫuru
+    - Nibmuareya:
+        LA: Egyptian
+        SN: Nibmuareya is Amenophis III, King of Egypt
+        UF:  
+            - Nibmuʾwareya
+            - na-ap-ḫur-ri-ia
+    - Nimmaḫe:
+        LA: Egyptian
+        SN: Brigand in Amurru, the last of the royal enemies Aziru is to hand over to Ḫane
+        RT: [Aziru, Ḫane]
+        UF: 
+            - ni-im-ma-ḫe-e 
+    - NIN-UR.MAḪ.MEŠ:
+        LA: WS, Akkadian, or Anatolian
+        SN: Aware of the Ḫapiru activity in Ṣabuma
+        UF: [belet-UR.MAḪ.MEŠ]
+    - Nigma-Adda:
+        LA: WS
+        SN: King of Ugarit
+        UF: 
+            - níq-ma-haddu
+            - Nigma-~d~IM
+    - Niyu:
+        LA: Egyptian
+        SN: Messenger of Nibmuareya to Tušratta
+        RT: [Nibmuareya, Tušratta]
+        UF: [ni-i-u]
+    - Paapu:
+        LA: Egyptian
+        SN: A judge in a case involving Šipṭi-Baʿlu
+        RT: [Šipṭi-Baʿlu]
+        UF: [pa-a-pu]
+    - Paduzana:
+        LA: Indo-Iranian(?)
+        SN: Perhaps a city leader in Syria
+        UF: [ba-du-za-na]
+    - Paḫamnata:
+        LA: Egyptian
+        SN: Royal commissioner of Šumur
+        RT: [Rib-Hadda, Ḫaip]
+        UF: 
+            - pa-ḫa-na-te
+            - Paḫanate 
+    - Paḫura:
+        LA: Egyptian
+        SN: Hostile to Rib-Hadda, and in allied with Yanḫamu
+        RT: [Rib-Hadda, Yanḫamu]
+        UF: [pu-ḫu-ru]
+    - Pawura:
+        LA: Egyptian
+        SN: Egyptian commissioner, both to Abdi-Ḫeba and Rib-Hadda
+        RT: [Abdi-Ḫeba, Rib-Hadda]
+        UF: [ Pauru, Piwure, Puwuru, pí-wu-ri ]
+    - Peya:
+        LA: Egyptian
+        SN: Accused of plundering Gezer
+        RT: Baʿlu-Šipṭi
+        UF: [Piʾeya, pi-i-ia]
+    - Pirissi:
+        LA: Hurrian
+        SN: Messenger of Tušratta to Egypt
+        RT: [Tušratta]
+        UF: [pi-ri-iz-zi, Pirizzi]
+    - Pišyari:
+        LA: Egyptian
+        SN: One of the royal enemies, Aziru
+        RT: [Aziru]
+        UF: [pi-iš-ia-ri]
+    - Pu-Baḫla of Yurza:
+        LA: WS
+        SN: Leader of Yurza, not to be confused wtih Pu-Baḫla who is Abdi-Aširta's son
+        RT: [Pu-Baḫla]
+        UF: [ Pu-Baʿlu, pu-ba-aḫ-la ]
+    - Pu-Baḫla:
+        LA: WS
+        SN: Abdi-Aširta's son
+        RT: [Pu-Baḫla of Yurza]
+        UF: [ Pu-Baʿlu, pu-ba-aḫ-la ]
+    - Puḫeya:
+        LA: Hurrian
+        SN: Messenger of Rib-Hadda to the king of Egypt 
+        RT: [Rib-Hadda, Abdi-NINURTA]
+        UF: [pu-ḫe-wa]
+    - Puḫi:
+        LA: Hurrian
+        SN: Messenger of Tušratta to Nibmuareya
+        RT: [Tušratta, Nibmuareya]
+        UF: [pu-u-ḫi, Pûḫe]
+    - Rabi-Ilu of Byblos:
+        LA: WS
+        SN: Citizen of Byblos
+        UF: [Rab-Ilu, ra-bi-ilu]
+    - Rabi-Ilu of Yarini:
+        LA: WS
+        SN: Citizen of Yarini
+        RT: [Šipti-Baʿla, Zimr-Edda]
+        UF: [Rab-Ilu, ra-bi-ilu]
+    - Rabi-Ṣidqu:
+        LA: WS
+        SN: Citizen of Byblos
+        UF: [Rab-Ṣidqu, rabu-ṣí-id-qi]
+    - Raḫmanu:
+        LA: Egyptian
+        SN: Royal commissioner of Adda-danu, Pu-Baḫla, and Yidya
+        RT: [Adda-danu, Pu-Baḫla, Yidya]
+        UF: [táḫ-ma-aš-ši]
+    - Ramesses, II, Pharaoh 
+    - Reanapa:
+        UF: [Rianapa, ri-a-na-pa]
+    - Rib-Hadda:
+        LA: WS
+        SN: Leader of Byblos flees to Ammunira.
+        UF: [Rib-Addi, Rib-Eddi, Rib-Ḫadda, ri-ib-ad-di]
+    - Rusmanya:
+        LA: Indo-Iranian
+        SN: Leader of Šaruna
+        UF: [Ruṣmania, ru-uṣ-ma-an-ia]
+    - Satatna:
+        UF: [Sitatna, Šutatna, sà-ta-at-na]
+    - Sitriyara:
+        LA: Indo-Iranian(?)
+        SN: City leader in Syria
+        UF: [Zitriyara, zi-it-ri-ya-ra]
+    - Smenkhkare, Pharaoh 
+    - Surata:
+        LA: Indo-Iranian
+        SN: Leader of Akko
+        UF: [Šaratu, sú-ra-ta]
+    - Ṣalmu:
+        LA: Akkadian
+        SN: Messenger of Burra-Buriyaš to Napḫuru
+        RT: [Burra-Buriyaš, Napḫuru]
+        UF: [ṣa-al-mu]
+    - Ṣur-Ašar:
+        LA: WS
+        SN: Leader of Aḫtirumna
+        UF: [ṣú-ra-šar]
+    - Šab-Ilu:
+        LA: WS
+        SN: Rescued from Ṣumur by ʿAbdi-Aširta
+        RT: [ʿAbdi-Aširta]
+        UF: [ša-bi-ilu]
+    - Šamu-Adda:
+        LA: WS
+        SN: Leader of Šamḫuna
+        UF: [ša-mu-ḫaddu]
+    - Šarru:
+        LA: Egyptian
+        SN: One of the royal enemies Aziru is to hand to Ḫane
+        RT: [Ḫane, Aziru]
+        UF: [ša-ar-ru]
+    - Šatiya:
+        LA: WS
+        SN: Leader of Enišasi
+        UF: [ša-di~9~-a]
+    - Šindi-Šugab:
+        LA: Kassite
+        SN: Messenger of Buri-Buriyaš 
+        UF: [ši-in-di-šu-ga-ab]
+    - Šipṭi-Baʿla:
+        LA: WS
+        SN: Leader of Lachish
+        UF: [ši-ip-ṭi~4~-baʿlu/haddu]
+    - Šipṭu-riṣa:
+        LA: WS
+        SN: Supplier of caravans
+        UF: [ši-ip-ṭú-ri-ṣa]
+    - Šuardatu:
+        LA: Indo-Iranian
+        SN: City leader of Keilah adn of Ḫarabu, or perhaps Gath.
+        RT: [Milk-Ilu, ʿAbdi-Ḫeba]
+        UF: [Šuwardata, šu-wa-ar-da-ta]
+    - Šub-Andu:
+        LA: Indo-Iranian or WS
+        SN: City leader in Southern Palestine
+        RT: [Ḫane, Taḫmašši]
+        UF: [šu-ba-an-di]
+    - Šum-Adda:
+        LA: WS
+        SN: Son of Balume
+        UF: [šum-ad-da]
+    - Šumitta/i:
+        LA: Unknown
+        SN: Involved in trade between Egyptian commissioners and Alašiya
+        UF: [šu-mi-it-ti]
+    - Šuppiluliumaš:
+        LA: Anatolian
+        SN: Hittite king
+        UF: [šu-up-pí-lu-li-u-ma]
+    - Šutatna:
+        LA: Indo-Iranian(?)
+        SN: Son of Surata
+        UF: [sà-ta-at-na]
+    - Šutarna of Mitanni:
+        LA: Unknown
+        SN: King of Mitanni
+        RT: [Šutarna of Mušiḫuna]
+        UF: [šu-tar-na]
+    - Šutarna of Mušiḫuna:
+        LA: Unknown
+        SN: Leader of Mušiḫuna
+        RT: [Šutarna of Mitanni]
+        UF: [šu-tar-na]
+    - Šutti:
+        LA: Egyptian
+        SN: Brings gifts to Kadašman-ḫarbe from Egyptian king
+        UF: [šu-ut-ti]
+    - Šuwardata:
+        USE: Šuardatu 
+    - Tadu-Ḫeba:
+        LA: Hurrian
+        SN: Daughter of Tušratta, wife of Napḫuru
+        UF: [ta-a-du-ḫé-e-bá]
+    - Tadua:
+        LA: Hurrian
+        SN: One of three witnesse for Mut-Baʿli
+        UF: [ta-du-a]
+    - Tagi of Nuḫašše:
+        LA: Hurrian
+        SN: King of Nuḫašše
+        UF: [ta-gi, Tagu]
+    - Tagi of Gath-Carmel:
+        LA: Hurrian
+        SN: Governs Gath-Carmel
+        UF: [ta-gi, Tagu]
+    - Taḫmašši:
+        USE: Ataḫmaya
+    - Taku:
+        USE: Tagi
+    - Tarḫundaraba:
+        LA: Anatolian
+        SN: King of Arzawa
+        UF: [tar-ḫu-un-da-ra-du]
+    - Tašša:
+        LA: Indo-Iranian
+        SN: Akizzi reports that he is hostile to the kings
+        RT: [Akizzi, Arsawa]
+        UF: [da-ša]
+    - Teḫu-Teššup:
+        LA: Hurrian(?)
+        SN: Located in Northern Syria
+        UF: [X-ti-ḫu-ti-šu-pa]
+    - Teuwatti:
+        LA: Anatolian(?) 
+        SN: mayor of Lapana
+        UF: [Tiwati, ti~4~-wa-te]
+    - Teye:
+        LA: Etyptian
+        SN: Mother of Napḫuru
+        UF: [te-i-e]
+    - Tulubri:
+        LA: Hurrian
+        SN: Messenger of Tušratta
+        RT: [Pirissi, Tušratta]
+        UF: [túl-ub-ri]
+    - Tunipibri:
+        LA: Hurrian
+        SN: Messenger of Tušratta
+        RT: [Tušratta, Keliya]
+        UF: 
+            - Tumnib-ewri
+            - Tuniw-iwri
+            - Tunip-iwri 
+            - tu~4~-ni-ib-ew-ri
+    - Turbazu:
+        LA: Unknown
+        SN: Slain at the gate of Sillu
+        RT: [Abdi-Ḫeba]
+        UF: [tu-ur-ba-zu]
+    - Tušratta:
+        LA: Indo-Iranian
+        SN: King of Mitanni
+        UF: 
+            - Tuišeratta
+            - tù-uš-rat-ta
+    - Tutenkhamun, Pharaoh 
+    - Tuthomosis II, Pharaoh 
+    - Tuthmosis IV, Pharaoh 
+    - Tutu:
+        LA: Egyptian
+        SN: High Egyptian official
+        UF: [tú-u-tú]
+    - Tuya:
+        LA: Egyptian
+        SN: On the list of the king's enemies
+        RT: [Aziru]
+        UF: [tu-u-ia]
+    - UD-ḫi:
+        LA: Akkadian or Hurrian
+        SN: UD-ḫi killed is overlord and is unfriendly to Tušratta
+        RT: [Tušratta]
+        UF: [pir-ḫi]
+    - Ummaḫnu:
+        LA: Unkown
+        SN: Wife of Milk-uru
+        UF: [um-ma-aḫ-nu]
+    - Wiktasu:
+        LA: WS
+        SN: City leader in Canaan
+        UF: [yi-ik-ta-sú]
+    - Yabni-Ilu:
+        LA: WS
+        SN: Leader of Lachish
+        UF: [ia-ab-ni-ilu]
+    - Yaḫtiru:
+        LA: WS
+        SN: His commissioner is Yanḫamu, concerned for the security of Gaza and Yapu
+        RT: [Yanḫamu]
+        UF: [ia-aḫ-ti-ri]
+    - Yaḫzib-Adda:
+        LA: WS
+        SN: City leader in Syria
+        UF: [ia-aḫ-zi-ba-da]
+    - Yama:
+        LA: WS
+        SN: City leader in Syria
+        UF: [ia-ma]
+    - Yamaya:
+        LA: Egyptian(?)
+        SN: Threatened both Ṣumur and Alama
+        UF: [Yaʾmâya, ia-ma-ia]
+    - Yamiuta:
+        LA: Indo-Iranian
+        SN: mayor of Guddašuna 
+        UF: [ya-mi-ú-ta]
+    - Yanḫamu: 
+        LA: WS
+        SN: Not a commissioner but does function with royal authority
+        UF: [ Yenḫamu, Enḫamu, ia-an-ḫa-mu ]
+    - Yapa-Hadda: 
+        LA: WS
+        SN: Ally with Rib-Hadda
+        RT: [Rib-Hadda, Zimr-Edda]
+        UF: [Yapaḫ, ia-ap-pa-aḫ-baʿlu/haddu]
+    - Yapaḫu:
+        LA: WS
+        SN: Leader of Gezer
+        UF: [ia-pa-ḫi]
+    - Yaptiḫ-Hadda:
+        LA: WS
+        SN: Died at the gate of Sillu
+        UF: [ia-ap-ti-ḫa-da]
+    - Yašdata:
+        LA: Indo-Iranian
+        SN: Sent from Taʿanach
+        RT: [Biridiya]
+        UF: [ya-aš-da-ta]
+    - Yašuya:
+        LA: WS 
+        SN: One of three witnesses cited by Mutbalu 
+        UF: [ya-šu-ia]
+    - Yattin-Hadda:
+        LA: WS
+        SN: Citizen of Byblos
+        UF: [yantin-baʿlu/haddu]
+    - Yidya:
+        LA: WS
+        SN: Leader of Ashkelon
+        UF: 
+            - Idiya 
+            - yi-id-ia
+    - Yuni:
+        LA: Unknown
+        SN: Wife of Tušratta
+        UF: [i-ú-ni]
+    - Zaqara:
+        LA: WS
+        SN: Sent from Babylon to Egypt
+        UF: [za-ka~4~-ra]
+    - Zimr-Edda of Sidon:
+        LA: WS
+        SN: Leader of Sidon 
+        UF: [zi-im-ri-da]
+    - Zimr-Edda of Lachish:
+        LA: WS
+        SN: Leader of Lachish 
+        UF: [zi-im-ri-da]
+    - Zirdamyašda:
+        LA: Indo-Iranian
+        SN: Visted Royal army at Megiddo
+        UF: [zi-ir-dam-ia-aš-da]
+    - Zišamimi:
+        LA: Unknown
+        SN: City ruler in Syria
+        UF: [zi-ša-mi-mi]
+    - Zita:
+        LA: Anatolian
+        SN: Well knwon royal prince and brother of Šuppiluliumaš
+        UF: [zi-ta-a]
+    - Zitana:
+        LA: Anatolian
+        SN: Commander of the Hittite forces
+        UF: [zi-ta-na]
+    - Zitriyara:
+        USE: Sitriyara 
