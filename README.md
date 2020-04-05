@@ -74,3 +74,26 @@ making the file easier to import into the html page.
 The resulting data visualization uses a [d3 force directed
 graph](https://github.com/d3/d3-force). Also [fusejs](https://fusejs.io/) is
 imported to allow for fuzzy searching of the names. 
+
+
+## Bibliography 
+
+
+- [Shlomo Izreel. _The Amarna
+  Tablets_](https://www.tau.ac.il/humanities/semitic/amarna.html). The basis
+of this project was manipulating Izreel's transcriptions to create a database
+and explore it. 
+- William L.F. Moran _The Amarna Letters_. Johns Hopkins University Press:
+  Baltimore, 1992. I used the name index of Moran's book as the primary form
+for each name, as well as additional information about the names (relations,
+and scope notes). 
+- Richard S. Hess. _Amarna Personal Names_. American Schools of Oriental
+  Research Dissertation Series 9. Eisenbrauns; Winona Lake, 1993. All names
+and references where checked against Hess's book. Izreel's reconstruction of
+lacunae was kept. Also, much of the content of the scope notes goes back to
+Hesses analysis. In addition, the language designation for each name is the
+first language that Hess mentions. 
+- Anson F Rainey. _The El-Amarna Correspondence_. Edited by William
+  Schniedewind and Zipora Cochavi-Rainey. Handbook of Oriental Studies
+  110. Brill: Leiden, 2015. Some of Izreel's transcriptions where checked
+       against Rainy, but no new readings were adopted yet. 
