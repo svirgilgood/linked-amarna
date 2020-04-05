@@ -67,9 +67,28 @@ and the file needs to be renamed to `graph4.js`. This was for the purpose of
 making the file easier to import into the html page.
 
 
-## The Webpage 
+## The Linked Amarna Visualization 
 
 [The Visualization is available here](site/index.html).
+
+### Using the Visualization
+
+The left hand panel contains a list of all of the names that are found in the
+database. Click on any of the names to display the sub graph of names
+connected to that person. The links between names shows that there is at least
+one text where both names are found. The left panel also has a search box
+where any form of the name can be searched, all of the transcriptions, and
+various spellings can be searched. 
+
+After a name is selected, a info box will appear in the bottom right hand
+corner. This info box can be expanded to show more information about the
+individual. 
+
+In the top right corner of the visualization is a toggle switch which will
+expand any subgraph to include friend of a friend relations. This will allow
+the user to see how an individuals network fits in the greater corpus. 
+
+### About the Coding of the Visualization 
 
 The resulting data visualization uses a [d3 force directed
 graph](https://github.com/d3/d3-force). Also [fusejs](https://fusejs.io/) is
