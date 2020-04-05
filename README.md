@@ -94,6 +94,6 @@ lacunae was kept. Also, much of the content of the scope notes goes back to
 Hesses analysis. In addition, the language designation for each name is the
 first language that Hess mentions. 
 - Anson F Rainey. _The El-Amarna Correspondence_. Edited by William
-  Schniedewind and Zipora Cochavi-Rainey. Handbook of Oriental Studies
-  110. Brill: Leiden, 2015. Some of Izreel's transcriptions where checked
-       against Rainey, but no new readings were adopted yet. 
+  Schniedewind and Zipora Cochavi-Rainey. Handbook of Oriental Studies 110.
+Brill: Leiden, 2015. Some of Izreel's transcriptions where checked against
+Rainey, but no new readings were adopted yet. 
