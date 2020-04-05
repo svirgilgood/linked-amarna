@@ -9,6 +9,8 @@ Letters. [Izreel's transcriptions can be found
 here](https://www.tau.ac.il/humanities/semitic/amarna.html). 
 
 
+[Linked Amarna](site/index.html)
+
 
 ## Process for Data Collection and Curation
 
