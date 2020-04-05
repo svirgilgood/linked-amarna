@@ -96,4 +96,4 @@ first language that Hess mentions.
 - Anson F Rainey. _The El-Amarna Correspondence_. Edited by William
   Schniedewind and Zipora Cochavi-Rainey. Handbook of Oriental Studies
   110. Brill: Leiden, 2015. Some of Izreel's transcriptions where checked
-       against Rainy, but no new readings were adopted yet. 
+       against Rainey, but no new readings were adopted yet. 
