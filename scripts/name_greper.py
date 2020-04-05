@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Find names in Amarna Text"""
+"""Find names in Amarna Text, requires a single text file, or the command line
+webbrowser links"""
 
 import re
-import sys
+import subprocess
 
 import pandas as pd
 
@@ -91,17 +92,57 @@ def name_parser(text_list, name_re):
     return references
 
 
+def url_downloader():
+    """Use links to download the amarna texts from the website"""
+    texts = []
+    urls = [
+        "https://www.tau.ac.il/humanities/semitic/EA60-114.html",
+        "https://www.tau.ac.il/humanities/semitic/EA115-162.html",
+        "https://www.tau.ac.il/humanities/semitic/EA163-262.html",
+        "https://www.tau.ac.il/humanities/semitic/EA263-end.html",
+    ]
+    for url in urls:
+        proc = subprocess.Popen(["links", "-dump", url], stdout=subprocess.PIPE)
+        out, _ = proc.communicate()
+        amarna1 = out.decode()
+        texts += amarna1.split("\n")
+    return texts
+
+
 def main():
-    """here is the name """
-    with open(sys.argv[1]) as file_p:
-        text = file_p.read()
-    text = text.split("\n")
-    re_name = name_gen()
-    name_pattern = re.compile(re_name)
-    references = name_parser(text, name_pattern)
-    dataframe = pd.DataFrame(references)
-    dataframe.to_excel("AmarnaNames2.xlsx")
+    """Run the command from the cli """
+    aparser = argparse.ArgumentParser(
+        "Create an Excel File of Amarna Names, must"
+        + "specify either online or a text file"
+    )
+
+    aparser.add_argument(
+        "-t", "--text", help="specify path to a plan text file from Izreel's website"
+    )
+    aparser.add_argument(
+        "-o", "--online", help="download the website with links", action="store_true"
+    )
+
+    args = aparser.parse_args()
+
+    if args.text:
+        with open(args.text) as file_p:
+            text = file_p.read()
+            text = text.split("\n")
+
+    if args.online:
+        text = url_downloader()
+    try:
+        re_name = name_gen()
+        name_pattern = re.compile(re_name)
+        references = name_parser(text, name_pattern)
+        dataframe = pd.DataFrame(references)
+        dataframe.to_excel("AmarnaNames.xlsx")
+    except UnboundLocalError:
+        aparser.print_help()
 
 
 if __name__ == "__main__":
+    import argparse
+
     main()
