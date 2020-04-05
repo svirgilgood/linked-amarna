@@ -11,19 +11,20 @@ CONNECTION = sqlite3.connect("amarna_name.db")
 CUR = CONNECTION.cursor()
 
 
-def nice_rows(rows, index_start=0, pad=3):
+def nice_rows(rows, headings=False, index_start=0, pad=3):
     """Printing nice rows to make reading easier
     """
     col_widths = [3]
     for i in range(len(rows[0])):
         col_widths.append(max(len(str(row[i])) for row in rows))
 
-    headings = ["index", "Lev", "id", "variant", "canonical", "scope_note"]
-    for i, heading in enumerate(headings):
-        print(
-            "\033[95m{1:{0}}".format(col_widths[i] + pad, str(heading)), end="\033[0m"
-        )
-    print()
+    if headings:
+        for i, heading in enumerate(headings):
+            print(
+                "\033[95m{1:{0}}".format(col_widths[i] + pad, str(heading)),
+                end="\033[0m",
+            )
+        print()
 
     for index, row in enumerate(rows):
         row = [index + index_start] + list(row)
@@ -43,7 +44,13 @@ def input_manager(tname, potential_matches, index_start=0, canonical_names=False
         index = index + index_start
         print(f"{index}.\t {ratio} \t {form} \t {can_form}")
     """
-    nice_rows(potential_matches[index_start : index_start + 10], index_start)
+
+    headings = ["index", "Lev", "id", "variant", "canonical", "scope_note"]
+    nice_rows(
+        potential_matches[index_start : index_start + 10],
+        headings=headings,
+        index_start=index_start,
+    )
     index = input(
         "Type the index number or type next to see more. If no matches add one to total number\n"
     )
