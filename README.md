@@ -15,7 +15,7 @@ here](https://www.tau.ac.il/humanities/semitic/amarna.html).
 ## Process for Data Collection and Curation
 
 Order of Scripts:
-1. [name_greper.py](master/scripts/name_greper.py). This script downloads the text
+1. [name_greper.py](blob/master/scripts/name_greper.py). This script downloads the text
    from Shlomo Izreel's website, or uses a text file stored locally. It then
 prepares and generates the basic table for the database, as well as creates an
 Excel file that can be imported into OpenRefine. The columns might need to be
