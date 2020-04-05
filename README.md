@@ -27,7 +27,8 @@ I should have ran the cluster key collsion in the `name_greper.py` script, as
 the OpenRefine cluster key collision is not as good as can be created in
 python. The following normalization function is much superior to the one found
 in OpenRefine. 
-```
+
+```python
 import unicodedata 
 
 ...
@@ -40,6 +41,7 @@ def remove_diacritics(string):
 ...
 ''.join(remove_diacritics(SOMESTRING)
 ```
+
 After the names have been clustered in OpenRefine, export the file as csv. The
 current version of the OpenRefine cluster is saved as
 [AmarnaNames4.csv](data/AmarnaNames4.csv).
