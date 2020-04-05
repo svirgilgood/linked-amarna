@@ -55,12 +55,11 @@ together, these are updated with the name insert script. Additonal information
 is added with the name insert script (like references to Hess's _Amarna
 Personal Names_). 
 
-5. [d3_data_generator.py](scripts/d3_data_generator.py). This script
-
-   generates the data used for the d3 visualization. The JSON file that is
-output from this script should be adjusted so each of the top level keys become
-variables, and the file needs to be renamed to `graph4.js`. This was for the
-purpose of making the file easier to import into the html page.
+5. [d3_data_generator.py](scripts/d3_data_generator.py). This script generates
+   the data used for the d3 visualization. The JSON file that is output from
+this script should be adjusted so each of the top level keys become variables,
+and the file needs to be renamed to `graph4.js`. This was for the purpose of
+making the file easier to import into the html page.
 
 
 ## The Webpage 
