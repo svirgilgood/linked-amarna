@@ -4,10 +4,26 @@ webbrowser links"""
 
 import re
 import subprocess
+import sqlite3
 
 import pandas as pd
 
 DIGI_RE = re.compile(r"(\d{3}:[LR\d]{3,4}) ")
+
+CONN = sqlite3.connect("test.db")
+CUR = CONN.cursor()
+
+
+def create_table():
+    """Create the ea_text table which contains all of the texts"""
+    create_query = """
+    CREATE TABLE IF NOT EXISTS ea_texts (
+    reference TEXT,
+    line TEXT,
+    cleaned_text TEXT
+    );"""
+    CUR.execute(create_query)
+    CONN.commit()
 
 
 def rgroup(*choices):
@@ -65,22 +81,32 @@ def text_cleaner(text):
     )
 
 
-def name_parser(text_list, name_re):
-    """Name parser, returns a list of references and names
-    """
+def text_parser(text_list):
+    """create a list of dictionaries from a list of text lines"""
     references = []
     for text in text_list:
         try:
             _, reference, line = DIGI_RE.split(text)
+            references.append({"reference": reference, "text": line})
         except ValueError:
             continue
+    return references
+
+
+def name_parser(references, name_re):
+    """Name parser, returns a list of references and names
+    """
+    new_references = []
+    for reference in references:
+        line_ref = reference["reference"]
+        line = reference["text"]
         try:
             matches = name_re.finditer(line)
             for match in matches:
                 name = match.group()
-                references.append(
+                new_references.append(
                     {
-                        "reference": reference,
+                        "reference": line_ref,
                         "text": line,
                         "name": name,
                         "normalized": text_cleaner(name),
@@ -89,7 +115,7 @@ def name_parser(text_list, name_re):
         except AttributeError:
             continue
 
-    return references
+    return new_references
 
 
 def url_downloader():
@@ -109,6 +135,27 @@ def url_downloader():
     return texts
 
 
+def insert_database_query(reference, line, cleaned_text):
+    """populate the ea_text table with data"""
+    insert_query = """
+    INSERT INTO ea_texts (reference, line, cleaned_text)
+    VALUES (?, ?, ?);"""
+    CUR.execute(insert_query, (reference, line, cleaned_text))
+
+
+def text_database_populator(references):
+    """Populate the ea_text table with the data from the corpus"""
+    num = 0
+    for reference in references:
+        line_ref = reference["reference"]
+        text = reference["text"]
+        cleaned_text = text_cleaner(text)
+        insert_database_query(line_ref, text, cleaned_text)
+        if num % 100 == 0:
+            CONN.commit()
+    CONN.commit()
+
+
 def main():
     """Run the command from the cli """
     aparser = argparse.ArgumentParser(
@@ -122,8 +169,24 @@ def main():
     aparser.add_argument(
         "-o", "--online", help="download the website with links", action="store_true"
     )
+    aparser.add_argument(
+        "-i",
+        "--init",
+        help="initialize the text table in the database",
+        action="store_true",
+    )
+
+    aparser.add_argument(
+        "-d",
+        "--database",
+        help="populate the database with a text database. Must have table already created",
+        action="store_true",
+    )
 
     args = aparser.parse_args()
+
+    if args.init:
+        create_table()
 
     if args.text:
         with open(args.text) as file_p:
@@ -135,7 +198,10 @@ def main():
     try:
         re_name = name_gen()
         name_pattern = re.compile(re_name)
-        references = name_parser(text, name_pattern)
+        references = text_parser(text)
+        if args.database:
+            text_database_populator(references)
+        references = name_parser(references, name_pattern)
         dataframe = pd.DataFrame(references)
         dataframe.to_excel("AmarnaNames.xlsx")
     except UnboundLocalError:
