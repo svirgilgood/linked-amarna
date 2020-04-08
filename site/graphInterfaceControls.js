@@ -1,6 +1,6 @@
-// import { baseNodes, variants } from "graphData";
-// import Fuse from "fuse";
-// import { selectNode } from "graphControls";
+// import { baseNodes, variants } from "./modules/graphData.js";
+// import * as Fuse from "./modules/fuse.js";
+// import { selectNode } from "./modules/graphControls.js";
 
 const alphabet = [
   " ",
@@ -188,5 +188,4 @@ for (let i = 0; i < colls.length; i++) {
     }
   });
 }
-
-createUlElement();
+// export { createUlElement, autocomplete };

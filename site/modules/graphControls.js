@@ -1,5 +1,5 @@
-// import { baseNodes, baseLinks } from "graphData";
-// import * as d3 from "d3js";
+// import { baseNodes, baseLinks } from "./graphData.js";
+// import * as d3 from "./d3.v5.min.js";
 
 const width = window.innerWidth;
 const height = window.innerHeight;
@@ -8,13 +8,23 @@ const r = 6;
 const nodes = [...baseNodes];
 let links = [...baseLinks];
 
-const fof = document.getElementById("fof-toggle");
-
-const svg = d3.select("svg").attr("width", width).attr("height", height);
+const languageObject = {
+  Akkadian: { highlighted: "darkblue", normal: "powderblue" },
+  Anatolian: { highlighted: "darkred", normal: "lightred" },
+  Unknown: { highlighted: "black", normal: "grey" },
+  Egyptian: { highlighted: "darkgoldenrod", normal: "lightgoldenrodyellow" },
+  Hurrian: { highlighted: "rebeccapurple", normal: "plum" },
+  WS: { highlighted: "darkgreen", normal: "lightgreen" },
+  "Indo-Iranian": { highlighted: "orange", normal: "lightsalmon" },
+};
 
 let linkElements, nodeElements, textElements;
 
 let selectedId;
+
+const fof = document.getElementById("fof-toggle");
+
+const svg = d3.select("svg").attr("width", width).attr("height", height);
 
 const linkGroup = svg.append("g").attr("class", "links");
 const nodeGroup = svg.append("g").attr("class", "nodes");
@@ -52,16 +62,6 @@ const dragDrop = d3
     node.fx = null;
     node.fy = null;
   });
-
-const languageObject = {
-  Akkadian: { highlighted: "darkblue", normal: "powderblue" },
-  Anatolian: { highlighted: "darkred", normal: "lightred" },
-  Unknown: { highlighted: "black", normal: "grey" },
-  Egyptian: { highlighted: "darkgoldenrod", normal: "lightgoldenrodyellow" },
-  Hurrian: { highlighted: "rebeccapurple", normal: "plum" },
-  WS: { highlighted: "darkgreen", normal: "lightgreen" },
-  "Indo-Iranian": { highlighted: "orange", normal: "lightsalmon" },
-};
 
 function getNodeColor(node, neighbors) {
   if (neighbors.indexOf(node.name_id)) {
@@ -310,7 +310,9 @@ function updateSimulation() {
   simulation.alphaTarget(0.2).restart();
 }
 
-function nameChooserFromLink(node) {
-  selectedId = undefined;
-  selectNode(node);
-}
+// function nameChooserFromLink(node) {
+//  selectedId = undefined;
+//  selectNode(node);
+// }
+
+// export { updateSimulation, updateGraph, selectNode };
