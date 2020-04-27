@@ -3,3 +3,6 @@ notebook/.ipynb_checkpoints/
 node_modules/
 data/amarna_name.db
 data/ElAmarnaLetters.txt
+data/doc.kml
+data/geofiles/*
+site/stackoverflowquestion.md 
