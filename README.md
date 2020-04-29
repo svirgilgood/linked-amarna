@@ -23,23 +23,23 @@ collision in the `name_greper.py` script, as the OpenRefine cluster key
 collision is not as good as can be created in python. The following
 normalization function is much superior to the one found in OpenRefine. 
 
-```python
-import unicodedata 
+    ```python
+    import unicodedata 
 
-...
+    ...
 
-def remove_diacritics(string):
-    for c in unicodedeata.normalize('NFD', string):
-        if unicodedata.category(c)[0] != 'M':
-            yield c 
+    def remove_diacritics(string):
+        for c in unicodedeata.normalize('NFD', string):
+            if unicodedata.category(c)[0] != 'M':
+                yield c 
 
-...
-''.join(remove_diacritics(SOMESTRING)
-```
+    ...
+    ''.join(remove_diacritics(SOMESTRING)
+    ```
 
-After the names have been clustered in OpenRefine, export the file as csv. The
-current version of the OpenRefine cluster is saved as
-[AmarnaNames4.csv](https://github.com/e2dubba/linked-amarna/blob/master/data/AmarnaNames4.csv).
+    After the names have been clustered in OpenRefine, export the file as csv. The
+    current version of the OpenRefine cluster is saved as
+    [AmarnaNames4.csv](https://github.com/e2dubba/linked-amarna/blob/master/data/AmarnaNames4.csv).
 
 3. [name_database_generator.py](https://github.com/e2dubba/linked-amarna/blob/master/scripts/name_database_generator.py).
 This function imports yaml file that I created from looking at the index of
