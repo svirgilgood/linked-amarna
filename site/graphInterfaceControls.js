@@ -82,6 +82,10 @@ function createUlElement() {
     liEle.append(a);
     ulEle.append(liEle);
   }
+  const newliEle = document.createElement("li");
+  newliEle.id = "blankId";
+  newliEle.innerHTML = "<br>";
+  ulEle.append(newliEle);
 }
 
 // Fuse settings
