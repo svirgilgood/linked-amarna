@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
+"""
+Collect text variants for personal names and try and match them with canonical names
+"""
 
-import yaml
-import pandas as pd
+
 import sqlite3
 import json
 
@@ -87,6 +89,8 @@ def input_manager(tname, potential_matches, index_start=0, canonical_names=False
 
 
 def link_text_to_canonical_name(name_id, text_name):
+    """insert canonical name reference into the names_and_context
+    """
     insert_query = """
     UPDATE names_and_context
     SET name_id = ?
@@ -155,8 +159,8 @@ def main():
 
     can_variants, text_variants = grab_names_to_compare()
     matched_names = fuzzy_match_names(text_variants, can_variants)
-    with open("matches.json") as fp:
-        json.dump(fp, matched_names)
+    with open("matches.json") as filep:
+        json.dump(filep, matched_names)
 
 
 if __name__ == "__main__":
